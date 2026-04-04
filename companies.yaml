@@ -1,0 +1,457 @@
+# companies.yaml
+# Add companies here as you discover them.
+#
+# Providers:
+#   greenhouse    → needs: id (board token)
+#   lever         → needs: id (company slug)
+#   ashby         → needs: id (company slug)
+#   workday_url   → needs: url (full CXS API URL)
+#
+# To find board tokens:
+#   Greenhouse: boards.greenhouse.io/{token}
+#   Lever:      jobs.lever.co/{slug}
+#   Ashby:      jobs.ashbyhq.com/{slug}
+
+companies:
+
+  # ── Greenhouse ──────────────────────────────────────────────────────────────
+  - name: Anthropic
+    provider: greenhouse
+    id: anthropic
+
+  - name: Stripe
+    provider: greenhouse
+    id: stripe
+
+  - name: Airbnb
+    provider: greenhouse
+    id: airbnb
+
+  - name: Coinbase
+    provider: greenhouse
+    id: coinbase
+
+  - name: Databricks
+    provider: greenhouse
+    id: databricks
+
+  - name: Figma
+    provider: greenhouse
+    id: figma
+
+  - name: Brex
+    provider: greenhouse
+    id: brex
+
+  - name: Scale AI
+    provider: greenhouse
+    id: scaleai
+
+  - name: Robinhood
+    provider: greenhouse
+    id: robinhood
+
+  - name: Reddit
+    provider: greenhouse
+    id: reddit
+
+  - name: Duolingo
+    provider: greenhouse
+    id: duolingo
+
+  - name: Twitch
+    provider: greenhouse
+    id: twitch
+
+  - name: Discord
+    provider: greenhouse
+    id: discord
+
+  - name: Dropbox
+    provider: greenhouse
+    id: dropbox
+
+  - name: Pinterest
+    provider: greenhouse
+    id: pinterest
+
+  - name: Lyft
+    provider: greenhouse
+    id: lyft
+
+  - name: Instacart
+    provider: greenhouse
+    id: instacart
+
+  - name: Chime
+    provider: greenhouse
+    id: chime
+
+  - name: Pendo
+    provider: greenhouse
+    id: pendo
+
+  - name: Samsara
+    provider: greenhouse
+    id: samsara
+
+  - name: Gusto
+    provider: greenhouse
+    id: gusto
+
+  - name: Together AI
+    provider: greenhouse
+    id: togetherai
+
+  - name: Cloudflare
+    provider: greenhouse
+    id: cloudflare
+
+  - name: Datadog
+    provider: greenhouse
+    id: datadog
+
+  - name: Elastic
+    provider: greenhouse
+    id: elastic
+
+  - name: MongoDB
+    provider: greenhouse
+    id: mongodb
+
+  - name: Twilio
+    provider: greenhouse
+    id: twilio
+
+  - name: DoorDash
+    provider: greenhouse
+    id: doordashusa
+
+  - name: Block
+    provider: greenhouse
+    id: block
+
+  - name: Okta
+    provider: greenhouse
+    id: okta
+
+  - name: Intercom
+    provider: greenhouse
+    id: intercom
+
+  - name: SoFi
+    provider: greenhouse
+    id: sofi
+
+  - name: Affirm
+    provider: greenhouse
+    id: affirm
+
+  - name: Flexport
+    provider: greenhouse
+    id: flexport
+
+  - name: Contentful
+    provider: greenhouse
+    id: contentful
+
+  - name: Braze
+    provider: greenhouse
+    id: braze
+
+  - name: Grammarly
+    provider: greenhouse
+    id: grammarly
+
+  - name: Faire
+    provider: greenhouse
+    id: faire
+
+  - name: Amplitude
+    provider: greenhouse
+    id: amplitude
+
+  - name: Webflow
+    provider: greenhouse
+    id: webflow
+
+  - name: Airtable
+    provider: greenhouse
+    id: airtable
+
+  - name: Pagerduty
+    provider: greenhouse
+    id: pagerduty
+
+  - name: Thumbtack
+    provider: greenhouse
+    id: thumbtack
+
+  - name: Coursera
+    provider: greenhouse
+    id: coursera
+
+  - name: Mixpanel
+    provider: greenhouse
+    id: mixpanel
+
+  - name: Cockroach Labs
+    provider: greenhouse
+    id: cockroachlabs
+
+  - name: Stitch Fix
+    provider: greenhouse
+    id: stitchfix
+
+  - name: Orca Security
+    provider: greenhouse
+    id: orcasecurity
+
+  # ── Cybersecurity companies (Greenhouse) ─────────────────────────────────────
+  - name: SentinelOne
+    provider: greenhouse
+    id: sentinellabs
+
+  - name: Tenable
+    provider: greenhouse
+    id: tenableinc
+
+  - name: Dragos
+    provider: greenhouse
+    id: dragos
+
+  - name: Bishop Fox
+    provider: greenhouse
+    id: bishopfox
+
+  - name: Recorded Future
+    provider: greenhouse
+    id: recordedfuture
+
+  - name: Huntress
+    provider: greenhouse
+    id: huntress
+
+  - name: Expel
+    provider: greenhouse
+    id: expel
+
+  - name: Abnormal Security
+    provider: greenhouse
+    id: abnormalsecurity
+
+  - name: Wiz
+    provider: greenhouse
+    id: wizinc
+
+  - name: Snyk
+    provider: greenhouse
+    id: snyk
+
+  - name: Rapid7
+    provider: greenhouse
+    id: rapid7
+
+  - name: Flatiron Health
+    provider: greenhouse
+    id: flatironhealth
+
+  - name: Salesloft
+    provider: greenhouse
+    id: salesloft
+
+  - name: Marqeta
+    provider: greenhouse
+    id: marqeta
+
+  - name: Lattice
+    provider: greenhouse
+    id: lattice
+
+  - name: Inflection AI
+    provider: greenhouse
+    id: inflectionai
+
+  - name: PlanetScale
+    provider: greenhouse
+    id: planetscale
+
+  - name: Temporal
+    provider: greenhouse
+    id: temporal
+
+  # ── Lever ───────────────────────────────────────────────────────────────────
+  - name: Palantir
+    provider: lever
+    id: palantir
+
+  - name: Coalfire
+    provider: lever
+    id: coalfire
+
+  # ── Ashby ───────────────────────────────────────────────────────────────────
+  - name: OpenAI
+    provider: ashby
+    id: openai
+
+  - name: Cursor
+    provider: ashby
+    id: cursor
+
+  - name: Perplexity
+    provider: ashby
+    id: perplexity
+
+  - name: Cohere
+    provider: ashby
+    id: cohere
+
+  - name: Benchling
+    provider: ashby
+    id: benchling
+
+  - name: Warp
+    provider: ashby
+    id: warp
+
+  - name: Linear
+    provider: ashby
+    id: linear
+
+  - name: Vercel
+    provider: ashby
+    id: vercel
+
+  - name: Retool
+    provider: ashby
+    id: retool
+
+  - name: Mercury
+    provider: ashby
+    id: mercury
+
+  - name: Ramp
+    provider: ashby
+    id: ramp
+
+  - name: Deel
+    provider: ashby
+    id: deel
+
+  - name: Notion
+    provider: ashby
+    id: notion
+
+  - name: Runway
+    provider: ashby
+    id: runway
+
+  - name: Replit
+    provider: ashby
+    id: replit
+
+  - name: Harvey AI
+    provider: ashby
+    id: harvey
+
+  - name: Vanta
+    provider: ashby
+    id: vanta
+
+  - name: Sierra
+    provider: ashby
+    id: sierra
+
+  - name: LangChain
+    provider: ashby
+    id: langchain
+
+  - name: Watershed
+    provider: ashby
+    id: watershed
+
+  - name: Writer
+    provider: ashby
+    id: writer
+
+  - name: Supabase
+    provider: ashby
+    id: supabase
+
+  - name: Exa AI
+    provider: ashby
+    id: exa
+
+  - name: Vapi
+    provider: ashby
+    id: vapi
+
+  - name: Dust
+    provider: ashby
+    id: dust
+
+  - name: Drata
+    provider: ashby
+    id: drata
+
+  - name: Posthog
+    provider: ashby
+    id: posthog
+
+  - name: Neon
+    provider: ashby
+    id: neon
+
+  - name: Letta
+    provider: ashby
+    id: letta
+
+  - name: Clerk
+    provider: ashby
+    id: clerk
+
+  - name: Zed
+    provider: ashby
+    id: zed
+
+  - name: Raycast
+    provider: ashby
+    id: raycast
+
+  # ── Uber (custom Playwright scraper) ────────────────────────────────────────
+  - name: Uber
+    provider: uber
+
+  # ── Workday ─────────────────────────────────────────────────────────────────
+  - name: Nvidia
+    provider: workday_url
+    url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
+
+  - name: Adobe
+    provider: workday_url
+    url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs
+
+  - name: Salesforce
+    provider: workday_url
+    url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs
+
+  - name: Crowdstrike
+    provider: workday_url
+    url: https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs
+
+  - name: Arctic Wolf
+    provider: workday_url
+    url: https://arcticwolf.wd1.myworkdayjobs.com/wday/cxs/arcticwolf/External/jobs
+
+  - name: NCC Group
+    provider: workday_url
+    url: https://nccgroup.wd3.myworkdayjobs.com/wday/cxs/nccgroup/NCC_Group/jobs
+
+  - name: Zillow
+    provider: workday_url
+    url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs
+
+  # ── SmartRecruiters ──────────────────────────────────────────────────────────
+  - name: Palo Alto Networks
+    provider: smartrecruiters
+    id: paloaltonetworks2

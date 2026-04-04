@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+.claude
+
+# Environment
+.env
+.env.*
+
+# State — jobs_seen.json IS committed (needed for dedup across runs)
+# new_jobs.json is disposable output
+state/new_jobs.json
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
