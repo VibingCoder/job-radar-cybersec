@@ -43,6 +43,7 @@ COMPANIES_FILE = os.environ.get("COMPANIES_FILE", "companies.yaml")
 STATE_FILE = os.environ.get("JOB_RADAR_STATE", "state/jobs_seen.json")
 NEW_JOBS_FILE = os.environ.get("JOB_RADAR_OUTPUT", "state/new_jobs.json")
 MAX_WORKERS = int(os.environ.get("JOB_RADAR_WORKERS", "10"))
+DISCOVERED_FILE = os.environ.get("JOB_RADAR_DISCOVERED", "state/discovered_companies.json")
 
 
 def load_companies(path: str = COMPANIES_FILE) -> list[dict]:
@@ -75,6 +76,56 @@ def save_new_jobs(jobs: list[dict], path: str = NEW_JOBS_FILE) -> None:
     logger.info(f"New jobs saved to {path}")
 
 
+def record_discovered_companies(
+    adzuna_jobs: list[dict],
+    known_companies: list[dict],
+    path: str = DISCOVERED_FILE,
+    dry_run: bool = False,
+) -> None:
+    """
+    Logs companies found via Adzuna that are not in companies.yaml.
+    Updates state/discovered_companies.json with name, sample titles, and hit count.
+    Skipped entirely on --dry-run.
+    """
+    if dry_run or not adzuna_jobs:
+        return
+
+    known_names = {c.get("name", "").lower() for c in known_companies}
+
+    p = Path(path)
+    if p.exists():
+        with open(p) as f:
+            log: dict = json.load(f)
+    else:
+        log = {}
+
+    for job in adzuna_jobs:
+        company = job.get("company", "").strip()
+        if not company or company.lower() in known_names:
+            continue
+        key = company.lower()
+        if key not in log:
+            log[key] = {
+                "name": company,
+                "first_seen": str(job.get("posted_at") or datetime.now(timezone.utc).date()),
+                "last_seen": str(job.get("posted_at") or datetime.now(timezone.utc).date()),
+                "hit_count": 0,
+                "sample_titles": [],
+            }
+        entry = log[key]
+        entry["hit_count"] += 1
+        entry["last_seen"] = str(job.get("posted_at") or datetime.now(timezone.utc).date())
+        title = job.get("title", "")
+        if title and title not in entry["sample_titles"]:
+            entry["sample_titles"].append(title)
+            entry["sample_titles"] = entry["sample_titles"][:5]  # keep at most 5 samples
+
+    p.parent.mkdir(parents=True, exist_ok=True)
+    with open(p, "w") as f:
+        json.dump(log, f, indent=2, default=str)
+    logger.info(f"Discovery log: {len(log)} unknown companies tracked in {path}")
+
+
 def run(dry_run: bool = False, filter_company: str = None, filter_provider: str = None):
     companies = load_companies()
 
@@ -104,6 +155,7 @@ def run(dry_run: bool = False, filter_company: str = None, filter_provider: str 
                 logger.error(f"Unhandled error for {company.get('name')}: {e}")
 
     # Adzuna aggregator (runs unless filtering by a specific company)
+    adzuna_jobs: list[dict] = []
     if not filter_company and not filter_provider:
         adzuna_jobs = adzuna_fetch()
         all_jobs.extend(adzuna_jobs)
@@ -139,6 +191,10 @@ def run(dry_run: bool = False, filter_company: str = None, filter_provider: str 
         logger.info("No new jobs found.")
         if not dry_run:
             save_state(new_state, path=STATE_FILE)
+
+    # Record Adzuna companies not yet in direct ATS monitoring
+    filtered_adzuna = [j for j in adzuna_jobs if passes_filter(j)]
+    record_discovered_companies(filtered_adzuna, load_companies(), dry_run=dry_run)
 
 
 def main():
