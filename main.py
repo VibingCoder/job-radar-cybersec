@@ -141,6 +141,7 @@ def run(dry_run: bool = False, filter_company: str = None, filter_provider: str 
             logger.error(f"No companies with provider '{filter_provider}' found")
             sys.exit(1)
 
+    logger.info(f"Webhook configured: {bool(os.environ.get('DISCORD_WEBHOOK_URL'))}")
     logger.info(f"Scanning {len(companies)} companies...")
 
     all_jobs: list[dict] = []
