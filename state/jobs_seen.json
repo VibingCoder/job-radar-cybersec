@@ -296,5 +296,15 @@
     "posted_at": null,
     "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Remote/Consultant---Cloud-Red-Team-Blue-Team--Remote-_R28192",
     "provider": "workday"
+  },
+  "lever-caeb42e8-5d44-4114-a912-0de2584d1a75": {
+    "job_id": "lever-caeb42e8-5d44-4114-a912-0de2584d1a75",
+    "company": "Palantir",
+    "title": "Information Systems Security Engineer",
+    "location": "Washington, D.C.",
+    "posted_at": "2026-04-08",
+    "apply_url": "https://jobs.lever.co/palantir/caeb42e8-5d44-4114-a912-0de2584d1a75",
+    "description": "<div><b><span style=\"font-size: 18px\">A World-Changing Company</span></b></div><div><br></div><div>Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.</div><div><br></div><div><strong style=\"font-size: 18px;\">The Role</strong></div>\n<div>&nbsp;</div>\n<div>Palantir\u2019s effectiveness in the US Government (USG) space depends on our ability to maintain secure, resilient, and compliant IT environments. As an Information Systems Security Engineer (ISSE) with a strong IT technical foundation, you will be responsible for both security management technical administration of our USG facilities. You will balance compliance requirements with functionality, ensuring our infrastructure is scalable, secure, and supports mission-critical DoD operations. Our ideal candidate combines deep expertise in Windows and Linux systems engineering with a strong understanding of government security frameworks, and is passionate about building secure, scalable, and user-friendly environments.</div>",
+    "provider": "lever"
   }
 }
