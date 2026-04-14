@@ -335,5 +335,35 @@
     "posted_at": null,
     "apply_url": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Offensive-Hardware-Security-Researcher_JR2016209",
     "provider": "workday"
+  },
+  "lever-2127f3af-1fb3-4aa3-9aa1-eb06967e0166": {
+    "job_id": "lever-2127f3af-1fb3-4aa3-9aa1-eb06967e0166",
+    "company": "Palantir",
+    "title": "Information Security Engineer - Insider Risk",
+    "location": "New York, NY",
+    "posted_at": "2026-04-14",
+    "apply_url": "https://jobs.lever.co/palantir/2127f3af-1fb3-4aa3-9aa1-eb06967e0166",
+    "description": "<div><b><span style=\"font-size: 18px\">A World-Changing Company</span></b></div><div><br></div><div>Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.</div><div><br></div><div><strong style=\"font-size: 18px;\">The Role</strong></div>\n<div>&nbsp;</div>\n<div>As an Insider Threat Detection Engineer, you are responsible for protecting Palantir's people, data, and most sensitive assets across the globe. Your technical expertise is matched by your integrity and genuine passion for security. You work well on a team, are highly motivated, and thrive on solving problems and taking on new challenges.<br><br>Your team serves as a critical line of defense, responsible for the 24/7 prevention, detection, and investigation of security events and active threats across Palantir's environment. This role focuses on all aspects of Detection and Response with a strong emphasis on identifying and mitigating insider risks. Your work will directly impact the success of Palantir's mission by making it difficult for adversaries \u2014 both external and internal \u2014 to compromise our global network.</div>",
+    "provider": "lever"
+  },
+  "lever-6bddf672-5920-46f3-8127-2a15a377cb99": {
+    "job_id": "lever-6bddf672-5920-46f3-8127-2a15a377cb99",
+    "company": "Palantir",
+    "title": "Information Security Engineer - Insider Risk",
+    "location": "Seattle, WA",
+    "posted_at": "2026-04-14",
+    "apply_url": "https://jobs.lever.co/palantir/6bddf672-5920-46f3-8127-2a15a377cb99",
+    "description": "<div><b><span style=\"font-size: 18px\">A World-Changing Company</span></b></div><div><br></div><div>Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.</div><div><br></div><div><strong style=\"font-size: 18px;\">The Role</strong></div>\n<div>&nbsp;</div>\n<div>As an Insider Threat Detection Engineer, you are responsible for protecting Palantir's people, data, and most sensitive assets across the globe. Your technical expertise is matched by your integrity and genuine passion for security. You work well on a team, are highly motivated, and thrive on solving problems and taking on new challenges.<br><br>Your team serves as a critical line of defense, responsible for the 24/7 prevention, detection, and investigation of security events and active threats across Palantir's environment. This role focuses on all aspects of Detection and Response with a strong emphasis on identifying and mitigating insider risks. Your work will directly impact the success of Palantir's mission by making it difficult for adversaries \u2014 both external and internal \u2014 to compromise our global network.</div>",
+    "provider": "lever"
+  },
+  "lever-b0e1823a-fbe7-4c9d-a4d3-a1e738db2589": {
+    "job_id": "lever-b0e1823a-fbe7-4c9d-a4d3-a1e738db2589",
+    "company": "Palantir",
+    "title": "Information Security Engineer - Insider Risk",
+    "location": "Washington, D.C.",
+    "posted_at": "2026-04-14",
+    "apply_url": "https://jobs.lever.co/palantir/b0e1823a-fbe7-4c9d-a4d3-a1e738db2589",
+    "description": "<div><b><span style=\"font-size: 18px\">A World-Changing Company</span></b></div><div><br></div><div>Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.</div><div><br></div><div><strong style=\"font-size: 18px;\">The Role</strong></div>\n<div>&nbsp;</div>\n<div>As an Insider Threat Detection Engineer, you are responsible for protecting Palantir's people, data, and most sensitive assets across the globe. Your technical expertise is matched by your integrity and genuine passion for security. You work well on a team, are highly motivated, and thrive on solving problems and taking on new challenges.<br><br>Your team serves as a critical line of defense, responsible for the 24/7 prevention, detection, and investigation of security events and active threats across Palantir's environment. This role focuses on all aspects of Detection and Response with a strong emphasis on identifying and mitigating insider risks. Your work will directly impact the success of Palantir's mission by making it difficult for adversaries \u2014 both external and internal \u2014 to compromise our global network.</div>",
+    "provider": "lever"
   }
 }
