@@ -365,5 +365,25 @@
     "apply_url": "https://jobs.lever.co/palantir/b0e1823a-fbe7-4c9d-a4d3-a1e738db2589",
     "description": "<div><b><span style=\"font-size: 18px\">A World-Changing Company</span></b></div><div><br></div><div>Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.</div><div><br></div><div><strong style=\"font-size: 18px;\">The Role</strong></div>\n<div>&nbsp;</div>\n<div>As an Insider Threat Detection Engineer, you are responsible for protecting Palantir's people, data, and most sensitive assets across the globe. Your technical expertise is matched by your integrity and genuine passion for security. You work well on a team, are highly motivated, and thrive on solving problems and taking on new challenges.<br><br>Your team serves as a critical line of defense, responsible for the 24/7 prevention, detection, and investigation of security events and active threats across Palantir's environment. This role focuses on all aspects of Detection and Response with a strong emphasis on identifying and mitigating insider risks. Your work will directly impact the success of Palantir's mission by making it difficult for adversaries \u2014 both external and internal \u2014 to compromise our global network.</div>",
     "provider": "lever"
+  },
+  "lever-3c788579-eec7-4897-b446-4afc944e79be": {
+    "job_id": "lever-3c788579-eec7-4897-b446-4afc944e79be",
+    "company": "Palantir",
+    "title": "Information Security Engineer - DLP",
+    "location": "Washington, D.C.",
+    "posted_at": "2026-04-15",
+    "apply_url": "https://jobs.lever.co/palantir/3c788579-eec7-4897-b446-4afc944e79be",
+    "description": "<div><b><span style=\"font-size: 18px\">A World-Changing Company</span></b></div><div><br></div><div>Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.</div><div><br></div><div>\n<h3>The Role</h3>\nWe're looking for someone who has spent years thinking adversarially about how sensitive data moves, leaks, and gets exfiltrated \u2014 not just enforcing policies, but understanding every layer of how data can be abused, detected, and protected. If you've built content inspection pipelines, tuned classification policies against real insider threat cases, or reverse-engineered an exfiltration channel that bypassed existing controls, this is the team you want to be on.<br><br>As an Information Security Engineer focused on Data Loss Prevention, you'll own the security of Palantir's global data protection program. Your team runs 24/7 prevention, detection, and investigation of data security events across our entire environment. The adversaries we face are sophisticated. We need someone who is more so.</div>",
+    "provider": "lever"
+  },
+  "lever-fde4cd4c-f6fd-4656-a1ce-3ca27bb1878f": {
+    "job_id": "lever-fde4cd4c-f6fd-4656-a1ce-3ca27bb1878f",
+    "company": "Palantir",
+    "title": "Information Security Engineer - DLP",
+    "location": "New York, NY",
+    "posted_at": "2026-04-15",
+    "apply_url": "https://jobs.lever.co/palantir/fde4cd4c-f6fd-4656-a1ce-3ca27bb1878f",
+    "description": "<div><b><span style=\"font-size: 18px\">A World-Changing Company</span></b></div><div><br></div><div>Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.</div><div><br></div><div>\n<h3>The Role</h3>\nWe're looking for someone who has spent years thinking adversarially about how sensitive data moves, leaks, and gets exfiltrated \u2014 not just enforcing policies, but understanding every layer of how data can be abused, detected, and protected. If you've built content inspection pipelines, tuned classification policies against real insider threat cases, or reverse-engineered an exfiltration channel that bypassed existing controls, this is the team you want to be on.<br><br>As an Information Security Engineer focused on Data Loss Prevention, you'll own the security of Palantir's global data protection program. Your team runs 24/7 prevention, detection, and investigation of data security events across our entire environment. The adversaries we face are sophisticated. We need someone who is more so.</div>",
+    "provider": "lever"
   }
 }
