@@ -385,5 +385,25 @@
     "apply_url": "https://jobs.lever.co/palantir/fde4cd4c-f6fd-4656-a1ce-3ca27bb1878f",
     "description": "<div><b><span style=\"font-size: 18px\">A World-Changing Company</span></b></div><div><br></div><div>Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.</div><div><br></div><div>\n<h3>The Role</h3>\nWe're looking for someone who has spent years thinking adversarially about how sensitive data moves, leaks, and gets exfiltrated \u2014 not just enforcing policies, but understanding every layer of how data can be abused, detected, and protected. If you've built content inspection pipelines, tuned classification policies against real insider threat cases, or reverse-engineered an exfiltration channel that bypassed existing controls, this is the team you want to be on.<br><br>As an Information Security Engineer focused on Data Loss Prevention, you'll own the security of Palantir's global data protection program. Your team runs 24/7 prevention, detection, and investigation of data security events across our entire environment. The adversaries we face are sophisticated. We need someone who is more so.</div>",
     "provider": "lever"
+  },
+  "lever-1e77a5e8-9843-4516-a186-7c24f0ff07a0": {
+    "job_id": "lever-1e77a5e8-9843-4516-a186-7c24f0ff07a0",
+    "company": "Palantir",
+    "title": "Information Security Engineer - Endpoint",
+    "location": "New York, NY",
+    "posted_at": "2026-04-16",
+    "apply_url": "https://jobs.lever.co/palantir/1e77a5e8-9843-4516-a186-7c24f0ff07a0",
+    "description": "<div><b><span style=\"font-size: 18px\">A World-Changing Company</span></b></div><div><br></div><div>Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.</div><div><br></div><h3>The Role</h3>\n<div>We're looking for someone who has spent years thinking adversarially about Windows and Active Directory \u2014 not just operating them, but understanding every layer of how they can be abused, detected, and hardened. If you've written detections for DCSync, built hunting pipelines around Kerberos ticket anomalies, or reverse-engineered a novel persistence mechanism in a Windows kernel driver, this is the team you want to be on.<br><br>As an Information Security Engineer focused on Windows and Active Directory, you'll own the security of Palantir's global Windows infrastructure. Your team runs 24/7 prevention, detection, and investigation of security events across our entire environment. The adversaries we face are sophisticated. We need someone who is more so.</div>\n<div>&nbsp;</div>",
+    "provider": "lever"
+  },
+  "lever-4bfef5e0-6689-4db8-9ffe-ab6df6836845": {
+    "job_id": "lever-4bfef5e0-6689-4db8-9ffe-ab6df6836845",
+    "company": "Palantir",
+    "title": "Information Security Engineer - Endpoint",
+    "location": "Washington, D.C.",
+    "posted_at": "2026-04-16",
+    "apply_url": "https://jobs.lever.co/palantir/4bfef5e0-6689-4db8-9ffe-ab6df6836845",
+    "description": "<div><b><span style=\"font-size: 18px\">A World-Changing Company</span></b></div><div><br></div><div>Palantir builds the world\u2019s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.</div><div><br></div><h3>The Role</h3>\n<div>We're looking for someone who has spent years thinking adversarially about Windows and Active Directory \u2014 not just operating them, but understanding every layer of how they can be abused, detected, and hardened. If you've written detections for DCSync, built hunting pipelines around Kerberos ticket anomalies, or reverse-engineered a novel persistence mechanism in a Windows kernel driver, this is the team you want to be on.<br><br>As an Information Security Engineer focused on Windows and Active Directory, you'll own the security of Palantir's global Windows infrastructure. Your team runs 24/7 prevention, detection, and investigation of security events across our entire environment. The adversaries we face are sophisticated. We need someone who is more so.</div>\n<div>&nbsp;</div>",
+    "provider": "lever"
   }
 }
