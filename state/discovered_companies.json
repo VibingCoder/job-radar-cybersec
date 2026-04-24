@@ -1,0 +1,83 @@
+{
+  "eitacies inc": {
+    "name": "Eitacies Inc",
+    "first_seen": "2026-04-24",
+    "last_seen": "2026-04-24",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "techchain talent": {
+    "name": "TechChain Talent",
+    "first_seen": "2026-04-24",
+    "last_seen": "2026-04-24",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "pnc financial services group": {
+    "name": "PNC Financial Services Group",
+    "first_seen": "2026-04-23",
+    "last_seen": "2026-04-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Analyst - Pen Tester / Tuesday - Saturday shift"
+    ]
+  },
+  "gunnison consulting group": {
+    "name": "Gunnison Consulting Group",
+    "first_seen": "2026-04-23",
+    "last_seen": "2026-04-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Junior Penetration Tester"
+    ]
+  },
+  "innosoul, inc.": {
+    "name": "InnoSoul, Inc.",
+    "first_seen": "2026-04-22",
+    "last_seen": "2026-04-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "Penetration Tester"
+    ]
+  },
+  "devcare solutions": {
+    "name": "DevCare Solutions",
+    "first_seen": "2026-04-22",
+    "last_seen": "2026-04-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "Penetration Tester"
+    ]
+  },
+  "c-serv": {
+    "name": "C-Serv",
+    "first_seen": "2026-04-21",
+    "last_seen": "2026-04-21",
+    "hit_count": 2,
+    "sample_titles": [
+      "AI Security Engineer - AI Red Team (Enterprise)"
+    ]
+  },
+  "manpowergroup": {
+    "name": "ManpowerGroup",
+    "first_seen": "2026-04-22",
+    "last_seen": "2026-04-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
+    ]
+  },
+  "nelnet": {
+    "name": "Nelnet",
+    "first_seen": "2026-04-23",
+    "last_seen": "2026-04-23",
+    "hit_count": 4,
+    "sample_titles": [
+      "Cybersecurity Application Security Engineer"
+    ]
+  }
+}
