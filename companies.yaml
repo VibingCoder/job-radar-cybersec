@@ -159,10 +159,6 @@ companies:
     provider: greenhouse
     id: braze
 
-  - name: Grammarly
-    provider: greenhouse
-    id: grammarly
-
   - name: Faire
     provider: greenhouse
     id: faire
@@ -208,6 +204,42 @@ companies:
     id: orcasecurity
 
   # ── Cybersecurity companies (Greenhouse) ─────────────────────────────────────
+  - name: Tanium
+    provider: greenhouse
+    id: tanium
+
+  - name: Kaseya
+    provider: greenhouse
+    id: kaseya
+
+  - name: Cymulate
+    provider: greenhouse
+    id: cymulate
+
+  - name: Torq
+    provider: greenhouse
+    id: torq
+
+  - name: OneTrust
+    provider: greenhouse
+    id: onetrust
+
+  - name: BigID
+    provider: greenhouse
+    id: bigid
+
+  - name: Praetorian
+    provider: greenhouse
+    id: praetorian
+
+  - name: Synack
+    provider: greenhouse
+    id: synack
+
+  - name: Bugcrowd
+    provider: greenhouse
+    id: bugcrowd
+
   - name: SentinelOne
     provider: greenhouse
     id: sentinellabs
@@ -243,14 +275,6 @@ companies:
   - name: Wiz
     provider: greenhouse
     id: wizinc
-
-  - name: Snyk
-    provider: greenhouse
-    id: snyk
-
-  - name: Rapid7
-    provider: greenhouse
-    id: rapid7
 
   - name: Flatiron Health
     provider: greenhouse
@@ -288,6 +312,14 @@ companies:
   - name: Coalfire
     provider: lever
     id: coalfire
+
+  - name: Sophos
+    provider: lever
+    id: sophos
+
+  - name: Sysdig
+    provider: lever
+    id: sysdig
 
   # ── Ashby ───────────────────────────────────────────────────────────────────
   - name: OpenAI
@@ -357,6 +389,30 @@ companies:
   - name: Vanta
     provider: ashby
     id: vanta
+
+  - name: Snowflake
+    provider: ashby
+    id: snowflake
+
+  - name: NerdWallet
+    provider: ashby
+    id: nerdwallet
+
+  - name: Menlo Security
+    provider: ashby
+    id: menlosecurity
+
+  - name: Illumio
+    provider: ashby
+    id: illumio
+
+  - name: Semgrep
+    provider: ashby
+    id: semgrep
+
+  - name: HackerOne
+    provider: ashby
+    id: hackerone
 
   - name: Sierra
     provider: ashby
@@ -439,19 +495,15 @@ companies:
     provider: workday_url
     url: https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs
 
+  - name: PayPal
+    provider: workday_url
+    url: https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs
+
   - name: Arctic Wolf
     provider: workday_url
     url: https://arcticwolf.wd1.myworkdayjobs.com/wday/cxs/arcticwolf/External/jobs
-
-  - name: NCC Group
-    provider: workday_url
-    url: https://nccgroup.wd3.myworkdayjobs.com/wday/cxs/nccgroup/NCC_Group/jobs
 
   - name: Zillow
     provider: workday_url
     url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs
 
-  # ── SmartRecruiters ──────────────────────────────────────────────────────────
-  - name: Palo Alto Networks
-    provider: smartrecruiters
-    id: paloaltonetworks2

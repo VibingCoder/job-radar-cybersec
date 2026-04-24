@@ -104,6 +104,36 @@ COUNTRY_BLOCKLIST = [
 # Placeholder strings Greenhouse/ATS systems use when no location is set
 PLACEHOLDER_LOCATIONS = {"", "n/a", "na", "location", "tbd", "tbc", "null", "none"}
 
+# ── Clearance / citizenship exclusion ────────────────────────────────────────
+# Roles requiring security clearances or US citizenship disqualify OPT/STEM OPT holders.
+# Checked against both title and description (when available).
+_CLEARANCE_EXCLUDE = re.compile(
+    r'\bts[/\-]?sci\b'
+    r'|\btop\s+secret\b'
+    r'|\bsecret\s+clearance\b'
+    r'|\bactive\s+clearance\b'
+    r'|\bsecurity\s+clearance\s+required\b'
+    r'|\bmust\s+(hold|have|obtain)\s+a?\s*(security\s+)?clearance\b'
+    r'|\bclearable\b'
+    r'|\bpolygraph\b'
+    r'|\bus\s+citizen(ship)?\s+(only|required)\b'
+    r'|\bmust\s+be\s+a?\s+us\s+citizen\b'
+    r'|\bcitizenship\s+required\b'
+    r'|\beligible\s+to\s+obtain\s+a?\s*(security\s+)?clearance\b',
+    re.IGNORECASE,
+)
+
+
+def _requires_clearance(job: dict) -> bool:
+    """Returns True if the job requires a security clearance or US citizenship."""
+    title = job.get("title", "")
+    description = _strip_html(job.get("description", ""))
+    return bool(
+        _CLEARANCE_EXCLUDE.search(title)
+        or _CLEARANCE_EXCLUDE.search(description)
+    )
+
+
 # ── Description-based experience filter ──────────────────────────────────────
 # Catches: "5+ years of experience", "minimum 3 years", "3 years of software experience"
 _SENIOR_EXP = re.compile(
@@ -191,4 +221,5 @@ def passes_filter(job: dict) -> bool:
         and is_us_location(job.get("location"))
         and is_recent_enough(job.get("posted_at"))
         and is_entry_level_description(job.get("description", ""))
+        and not _requires_clearance(job)
     )

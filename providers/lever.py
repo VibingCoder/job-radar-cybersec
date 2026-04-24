@@ -42,6 +42,13 @@ def fetch(company_cfg: dict) -> list[dict]:
             continue
         categories = posting.get("categories", {})
         location = categories.get("location", "") or posting.get("workplaceType", "")
+        # Combine description + structured lists (requirements, qualifications, etc.)
+        # so clearance/citizenship keywords buried in bullet-point sections are visible to the filter.
+        desc_parts = [posting.get("description") or posting.get("descriptionPlain", "")]
+        for lst in posting.get("lists", []):
+            desc_parts.append(lst.get("content", ""))
+        description = " ".join(p for p in desc_parts if p)
+
         jobs.append({
             "job_id": f"lever-{posting.get('id', '')}",
             "company": name,
@@ -49,7 +56,7 @@ def fetch(company_cfg: dict) -> list[dict]:
             "location": location,
             "posted_at": datetime.fromtimestamp(posting["createdAt"] / 1000, tz=timezone.utc).date().isoformat() if posting.get("createdAt") else None,
             "apply_url": posting.get("hostedUrl", ""),
-            "description": posting.get("description") or posting.get("descriptionPlain", ""),
+            "description": description,
             "provider": "lever",
         })
 
