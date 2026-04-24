@@ -19,15 +19,28 @@ TITLE_INCLUDE = [
     r"\bappsec engineer\b",
     r"\bproduct security engineer\b",
     r"\bcloud security engineer\b",
-    r"\boffensive security engineer\b",
     r"\bcybersecurity engineer\b",
     r"\binformation security engineer\b",
     r"\binfosec engineer\b",
-    # Penetration testing / red team
+    r"\bcyber defense engineer\b",
+    r"\bsecurity automation engineer\b",
+    r"\bvulnerability management engineer\b",
+    # Offensive security (broadened — catches engineer, consultant, researcher, operator)
+    r"\boffensive security\b",
+    # Penetration testing
     r"\bpenetration tester\b",
     r"\bpentester\b",
     r"\bpen tester\b",
+    r"\bethical hacker\b",
+    # Red team / purple team
     r"\bred team\b",
+    r"\bpurple team\b",
+    # Adversary simulation
+    r"\badversary emulation\b",
+    r"\badversary simulation\b",
+    r"\bthreat emulation\b",
+    r"\bbreach and attack simulation\b",
+    r"\bbas engineer\b",
     # Research-oriented
     r"\bsecurity researcher\b",
     r"\bvulnerability researcher\b",
@@ -35,9 +48,21 @@ TITLE_INCLUDE = [
     r"\bmalware analyst\b",
     r"\bmalware researcher\b",
     r"\breverse engineer\b",
-    # Detection / response
+    r"\bexploit developer\b",
+    # Detection / hunting / response
     r"\bdetection engineer\b",
+    r"\bdetection and response engineer\b",
+    r"\bthreat hunter\b",
+    r"\bthreat hunting\b",
+    r"\bsecurity content engineer\b",
+    r"\bsecurity content developer\b",
     r"\bincident response\b",
+    r"\bdfir\b",
+    # Threat intelligence
+    r"\bthreat intelligence\b",
+    r"\bcti analyst\b",
+    # Consulting / assessment
+    r"\bsecurity consultant\b",
     # Analyst catch-all (entry-level at Expel, Huntress, etc.)
     r"\bsecurity analyst\b",
 ]
@@ -55,6 +80,7 @@ TITLE_EXCLUDE = [
     r"\bvp\b",
     r"\bvice president\b",
     r"\barchitect\b",
+    r"\bhead\b",        # Head of Red Team, Head of Offensive Security
     r"\biii\b",         # L3+ (senior equiv at many companies)
     r"\biv\b",          # L4+
     r"\b[345]\b",       # L3, L4, L5
