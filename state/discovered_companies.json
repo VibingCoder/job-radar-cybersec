@@ -129,7 +129,7 @@
     "name": "Grail",
     "first_seen": "2026-04-26",
     "last_seen": "2026-04-26",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "AI Cybersecurity Engineer"
     ]
@@ -228,9 +228,18 @@
     "name": "Meta Platforms, Inc.",
     "first_seen": "2026-04-28",
     "last_seen": "2026-04-28",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Offensive Security Engineer"
+    ]
+  },
+  "dexian disys": {
+    "name": "Dexian DISYS",
+    "first_seen": "2026-04-28",
+    "last_seen": "2026-04-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer"
     ]
   }
 }
