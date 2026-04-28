@@ -129,7 +129,7 @@
     "name": "Grail",
     "first_seen": "2026-04-26",
     "last_seen": "2026-04-26",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "AI Cybersecurity Engineer"
     ]
@@ -204,6 +204,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer (Windows and Linux)"
+    ]
+  },
+  "quzara llc": {
+    "name": "Quzara LLC",
+    "first_seen": "2026-04-27",
+    "last_seen": "2026-04-27",
+    "hit_count": 1,
+    "sample_titles": [
+      "Network & Edge Security Engineer"
     ]
   }
 }
