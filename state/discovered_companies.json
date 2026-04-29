@@ -129,7 +129,7 @@
     "name": "Grail",
     "first_seen": "2026-04-26",
     "last_seen": "2026-04-26",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "AI Cybersecurity Engineer"
     ]
@@ -240,6 +240,42 @@
     "hit_count": 1,
     "sample_titles": [
       "Cloud Security Engineer"
+    ]
+  },
+  "eliassen group": {
+    "name": "Eliassen Group",
+    "first_seen": "2026-04-28",
+    "last_seen": "2026-04-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Operational Technology Security Engineer"
+    ]
+  },
+  "qgenda": {
+    "name": "QGenda",
+    "first_seen": "2026-04-28",
+    "last_seen": "2026-04-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "asm research, an accenture federal services company": {
+    "name": "ASM Research, An Accenture Federal Services Company",
+    "first_seen": "2026-04-28",
+    "last_seen": "2026-04-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Incident Response Engineer, Jr"
+    ]
+  },
+  "bank of america": {
+    "name": "Bank of America",
+    "first_seen": "2026-04-28",
+    "last_seen": "2026-04-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)"
     ]
   }
 }
