@@ -277,5 +277,14 @@
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)"
     ]
+  },
+  "amazon": {
+    "name": "Amazon",
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Physical Security Engineer, Data Center Design Engineering"
+    ]
   }
 }
