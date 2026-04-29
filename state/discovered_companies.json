@@ -287,5 +287,14 @@
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering"
     ]
+  },
+  "prohires": {
+    "name": "Prohires",
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer"
+    ]
   }
 }
