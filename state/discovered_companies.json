@@ -321,7 +321,7 @@
     "name": "ABBTECH Professional Resources, Inc.",
     "first_seen": "2026-04-29",
     "last_seen": "2026-04-29",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Cyber Security Engineer Mid"
     ]
@@ -330,7 +330,7 @@
     "name": "TEKsystems",
     "first_seen": "2026-04-29",
     "last_seen": "2026-04-29",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -348,9 +348,27 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-04-30",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "big impact tech": {
+    "name": "Big Impact Tech",
+    "first_seen": "2026-04-30",
+    "last_seen": "2026-04-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
+    ]
+  },
+  "genista biosciences": {
+    "name": "Genista Biosciences",
+    "first_seen": "2026-04-30",
+    "last_seen": "2026-04-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Network and Security Engineer"
     ]
   }
 }
