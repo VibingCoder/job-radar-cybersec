@@ -282,10 +282,12 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-04-29",
-    "hit_count": 1,
+    "last_seen": "2026-04-30",
+    "hit_count": 3,
     "sample_titles": [
-      "Physical Security Engineer, Data Center Design Engineering"
+      "Physical Security Engineer, Data Center Design Engineering",
+      "Security Engineer, AWS Security",
+      "Security Engineer, eero Security"
     ]
   },
   "prohires": {
@@ -313,6 +315,24 @@
     "hit_count": 1,
     "sample_titles": [
       "IT Security Engineer"
+    ]
+  },
+  "abbtech professional resources, inc.": {
+    "name": "ABBTECH Professional Resources, Inc.",
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer Mid"
+    ]
+  },
+  "teksystems": {
+    "name": "TEKsystems",
+    "first_seen": "2026-04-29",
+    "last_seen": "2026-04-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
