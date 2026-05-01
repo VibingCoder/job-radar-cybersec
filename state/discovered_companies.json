@@ -264,10 +264,11 @@
   "asm research, an accenture federal services company": {
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-04-28",
-    "hit_count": 1,
+    "last_seen": "2026-04-30",
+    "hit_count": 2,
     "sample_titles": [
-      "Cybersecurity Incident Response Engineer, Jr"
+      "Cybersecurity Incident Response Engineer, Jr",
+      "Cybersecurity Incident Response Engineer, Mid"
     ]
   },
   "bank of america": {
@@ -378,6 +379,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Strategic Crypto Security Engineer SME"
+    ]
+  },
+  "safelease": {
+    "name": "SafeLease",
+    "first_seen": "2026-04-30",
+    "last_seen": "2026-04-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
