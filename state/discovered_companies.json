@@ -385,7 +385,7 @@
     "name": "SafeLease",
     "first_seen": "2026-04-30",
     "last_seen": "2026-04-30",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -394,9 +394,18 @@
     "name": "Draper",
     "first_seen": "2026-05-01",
     "last_seen": "2026-05-01",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Offensive Threat Researcher with Security Clearance"
+    ]
+  },
+  "dunhill professional search": {
+    "name": "Dunhill Professional Search",
+    "first_seen": "2026-05-01",
+    "last_seen": "2026-05-01",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Incident Response Engineer- Secret"
     ]
   }
 }
