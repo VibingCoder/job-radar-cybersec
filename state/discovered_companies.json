@@ -408,5 +408,41 @@
     "sample_titles": [
       "Cybersecurity Incident Response Engineer- Secret"
     ]
+  },
+  "the aerospace corporation": {
+    "name": "The Aerospace Corporation",
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Hardware Security Engineer"
+    ]
+  },
+  "rubrik": {
+    "name": "Rubrik",
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Enterprise Security Engineer - FedRAMP"
+    ]
+  },
+  "cognition": {
+    "name": "Cognition",
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "chainalysis": {
+    "name": "Chainalysis",
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Product Infrastructure"
+    ]
   }
 }
