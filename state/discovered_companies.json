@@ -444,5 +444,14 @@
     "sample_titles": [
       "Security Engineer, Product Infrastructure"
     ]
+  },
+  "kleinfelder inc": {
+    "name": "Kleinfelder Inc",
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "IT Security Engineer"
+    ]
   }
 }
