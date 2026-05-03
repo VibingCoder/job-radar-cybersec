@@ -453,5 +453,14 @@
     "sample_titles": [
       "IT Security Engineer"
     ]
+  },
+  "ryder system": {
+    "name": "Ryder System",
+    "first_seen": "2026-05-02",
+    "last_seen": "2026-05-02",
+    "hit_count": 2,
+    "sample_titles": [
+      "Application Security Engineer"
+    ]
   }
 }
