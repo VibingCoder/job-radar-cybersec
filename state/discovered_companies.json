@@ -458,7 +458,7 @@
     "name": "Ryder System",
     "first_seen": "2026-05-02",
     "last_seen": "2026-05-02",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -476,7 +476,7 @@
     "name": "Optiv",
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-03",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Application Security Consultant | Remote, USA"
     ]
@@ -485,7 +485,7 @@
     "name": "Raytheon",
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-03",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Software Security Engineer I"
     ]
@@ -497,6 +497,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "insight global": {
+    "name": "Insight Global",
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "AI Security Engineer"
+    ]
+  },
+  "holistic partners, inc": {
+    "name": "Holistic Partners, Inc",
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
