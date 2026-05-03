@@ -458,9 +458,27 @@
     "name": "Ryder System",
     "first_seen": "2026-05-02",
     "last_seen": "2026-05-02",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "guidehouse": {
+    "name": "Guidehouse",
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Mid Level Security Engineer - Identity and Endpoint"
+    ]
+  },
+  "optiv": {
+    "name": "Optiv",
+    "first_seen": "2026-05-03",
+    "last_seen": "2026-05-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Consultant | Remote, USA"
     ]
   }
 }
