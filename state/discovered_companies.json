@@ -458,7 +458,7 @@
     "name": "Ryder System",
     "first_seen": "2026-05-02",
     "last_seen": "2026-05-02",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -466,8 +466,8 @@
   "guidehouse": {
     "name": "Guidehouse",
     "first_seen": "2026-05-03",
-    "last_seen": "2026-05-03",
-    "hit_count": 1,
+    "last_seen": "2026-05-04",
+    "hit_count": 2,
     "sample_titles": [
       "Mid Level Security Engineer - Identity and Endpoint"
     ]
@@ -476,7 +476,7 @@
     "name": "Optiv",
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-03",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Application Security Consultant | Remote, USA"
     ]
@@ -503,7 +503,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-03",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "AI Security Engineer"
     ]
@@ -530,7 +530,7 @@
     "name": "ComplyAuto",
     "first_seen": "2026-05-04",
     "last_seen": "2026-05-04",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Software Security Engineer"
     ]
