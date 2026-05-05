@@ -476,7 +476,7 @@
     "name": "Optiv",
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-03",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Application Security Consultant | Remote, USA"
     ]
@@ -503,7 +503,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-03",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "AI Security Engineer"
     ]
@@ -530,9 +530,18 @@
     "name": "ComplyAuto",
     "first_seen": "2026-05-04",
     "last_seen": "2026-05-04",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Software Security Engineer"
+    ]
+  },
+  "mid atlantic capital group": {
+    "name": "Mid Atlantic Capital Group",
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Security Engineer"
     ]
   }
 }
