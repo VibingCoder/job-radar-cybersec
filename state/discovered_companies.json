@@ -283,12 +283,13 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-04-30",
-    "hit_count": 3,
+    "last_seen": "2026-05-05",
+    "hit_count": 4,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
-      "Security Engineer, eero Security"
+      "Security Engineer, eero Security",
+      "Content Security Engineer, GME Security"
     ]
   },
   "prohires": {
@@ -476,7 +477,7 @@
     "name": "Optiv",
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-03",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Application Security Consultant | Remote, USA"
     ]
@@ -503,7 +504,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-03",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "AI Security Engineer"
     ]
@@ -530,7 +531,7 @@
     "name": "ComplyAuto",
     "first_seen": "2026-05-04",
     "last_seen": "2026-05-04",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Software Security Engineer"
     ]
@@ -539,7 +540,7 @@
     "name": "Mid Atlantic Capital Group",
     "first_seen": "2026-05-05",
     "last_seen": "2026-05-05",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Information Security Engineer"
     ]
