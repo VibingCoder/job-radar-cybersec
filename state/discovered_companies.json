@@ -576,9 +576,18 @@
     "name": "Heartflow",
     "first_seen": "2026-05-05",
     "last_seen": "2026-05-05",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "dci solutions": {
+    "name": "DCI Solutions",
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "VMware Application Network and Security Engineer with Security Clearance"
     ]
   }
 }
