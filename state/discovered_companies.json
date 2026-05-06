@@ -562,5 +562,23 @@
     "sample_titles": [
       "FCC - Security Engineer / SIEM Engineer"
     ]
+  },
+  "google": {
+    "name": "Google",
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "heartflow": {
+    "name": "Heartflow",
+    "first_seen": "2026-05-05",
+    "last_seen": "2026-05-05",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
+    ]
   }
 }
