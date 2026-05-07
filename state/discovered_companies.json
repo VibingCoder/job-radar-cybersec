@@ -56,8 +56,8 @@
   "c-serv": {
     "name": "C-Serv",
     "first_seen": "2026-04-21",
-    "last_seen": "2026-04-21",
-    "hit_count": 60,
+    "last_seen": "2026-05-07",
+    "hit_count": 61,
     "sample_titles": [
       "AI Security Engineer - AI Red Team (Enterprise)"
     ]
@@ -566,8 +566,8 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "hit_count": 1,
+    "last_seen": "2026-05-07",
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -612,9 +612,27 @@
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
     "last_seen": "2026-05-06",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Platform Security Engineer"
+    ]
+  },
+  "workos": {
+    "name": "WorkOS",
+    "first_seen": "2026-05-07",
+    "last_seen": "2026-05-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer"
+    ]
+  },
+  "valence": {
+    "name": "Valence",
+    "first_seen": "2026-05-06",
+    "last_seen": "2026-05-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
