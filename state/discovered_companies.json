@@ -283,13 +283,14 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-05-05",
-    "hit_count": 4,
+    "last_seen": "2026-05-07",
+    "hit_count": 5,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
       "Security Engineer, eero Security",
-      "Content Security Engineer, GME Security"
+      "Content Security Engineer, GME Security",
+      "MFG Factory Infrastructure & Security Engineer, eero MFG Eng & Operations WW"
     ]
   },
   "prohires": {
@@ -351,7 +352,7 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-05-07",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -612,7 +613,7 @@
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
     "last_seen": "2026-05-06",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Platform Security Engineer"
     ]
@@ -621,7 +622,7 @@
     "name": "WorkOS",
     "first_seen": "2026-05-07",
     "last_seen": "2026-05-07",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -630,7 +631,7 @@
     "name": "Valence",
     "first_seen": "2026-05-06",
     "last_seen": "2026-05-06",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -684,7 +685,7 @@
     "name": "JPMorgan Chase & Co.",
     "first_seen": "2026-05-07",
     "last_seen": "2026-05-07",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Penetration Tester"
     ]
