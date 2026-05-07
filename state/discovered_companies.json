@@ -351,7 +351,7 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-05-07",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -612,7 +612,7 @@
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
     "last_seen": "2026-05-06",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Platform Security Engineer"
     ]
@@ -621,7 +621,7 @@
     "name": "WorkOS",
     "first_seen": "2026-05-07",
     "last_seen": "2026-05-07",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -630,7 +630,7 @@
     "name": "Valence",
     "first_seen": "2026-05-06",
     "last_seen": "2026-05-06",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -678,6 +678,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer and System Administrator"
+    ]
+  },
+  "jpmorgan chase & co.": {
+    "name": "JPMorgan Chase & Co.",
+    "first_seen": "2026-05-07",
+    "last_seen": "2026-05-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Penetration Tester"
     ]
   }
 }
