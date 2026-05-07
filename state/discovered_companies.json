@@ -57,7 +57,7 @@
     "name": "C-Serv",
     "first_seen": "2026-04-21",
     "last_seen": "2026-05-07",
-    "hit_count": 61,
+    "hit_count": 62,
     "sample_titles": [
       "AI Security Engineer - AI Red Team (Enterprise)"
     ]
@@ -612,7 +612,7 @@
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
     "last_seen": "2026-05-06",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Platform Security Engineer"
     ]
@@ -621,7 +621,7 @@
     "name": "WorkOS",
     "first_seen": "2026-05-07",
     "last_seen": "2026-05-07",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -630,9 +630,36 @@
     "name": "Valence",
     "first_seen": "2026-05-06",
     "last_seen": "2026-05-06",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "intel federal": {
+    "name": "Intel Federal",
+    "first_seen": "2026-05-07",
+    "last_seen": "2026-05-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Network Security Engineer with Security Clearance"
+    ]
+  },
+  "traversal": {
+    "name": "Traversal",
+    "first_seen": "2026-05-07",
+    "last_seen": "2026-05-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer"
+    ]
+  },
+  "plaid": {
+    "name": "Plaid",
+    "first_seen": "2026-05-07",
+    "last_seen": "2026-05-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer"
     ]
   }
 }
