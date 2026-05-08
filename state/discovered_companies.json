@@ -352,7 +352,7 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-05-07",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -622,7 +622,7 @@
     "name": "WorkOS",
     "first_seen": "2026-05-07",
     "last_seen": "2026-05-07",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -685,7 +685,7 @@
     "name": "JPMorgan Chase & Co.",
     "first_seen": "2026-05-07",
     "last_seen": "2026-05-07",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -693,10 +693,11 @@
   "braintrust": {
     "name": "Braintrust",
     "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "hit_count": 1,
+    "last_seen": "2026-05-08",
+    "hit_count": 3,
     "sample_titles": [
-      "Cloud Security Engineer"
+      "Cloud Security Engineer",
+      "Application Security Engineer"
     ]
   }
 }
