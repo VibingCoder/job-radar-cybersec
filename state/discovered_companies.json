@@ -675,17 +675,18 @@
   "kforce": {
     "name": "Kforce",
     "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "hit_count": 1,
+    "last_seen": "2026-05-09",
+    "hit_count": 2,
     "sample_titles": [
-      "Security Engineer and System Administrator"
+      "Security Engineer and System Administrator",
+      "Network Security Engineer - Onsite"
     ]
   },
   "jpmorgan chase & co.": {
     "name": "JPMorgan Chase & Co.",
     "first_seen": "2026-05-07",
     "last_seen": "2026-05-07",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -694,7 +695,7 @@
     "name": "Braintrust",
     "first_seen": "2026-05-07",
     "last_seen": "2026-05-07",
-    "hit_count": 23,
+    "hit_count": 24,
     "sample_titles": [
       "Cloud Security Engineer",
       "Application Security Engineer"
