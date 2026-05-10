@@ -695,7 +695,7 @@
     "name": "Braintrust",
     "first_seen": "2026-05-07",
     "last_seen": "2026-05-07",
-    "hit_count": 29,
+    "hit_count": 30,
     "sample_titles": [
       "Cloud Security Engineer",
       "Application Security Engineer"
@@ -708,6 +708,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Information Security Analyst Tier 1"
+    ]
+  },
+  "robert half": {
+    "name": "Robert Half",
+    "first_seen": "2026-05-09",
+    "last_seen": "2026-05-09",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
+    ]
+  },
+  "booz allen hamilton": {
+    "name": "Booz Allen Hamilton",
+    "first_seen": "2026-05-09",
+    "last_seen": "2026-05-09",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer and Risk Analyst"
     ]
   }
 }
