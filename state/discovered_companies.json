@@ -316,7 +316,7 @@
     "name": "Brain Co.",
     "first_seen": "2026-04-29",
     "last_seen": "2026-05-09",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "IT Security Engineer",
       "AI Application Security Engineer"
@@ -727,6 +727,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst"
+    ]
+  },
+  "wavestrong, inc.": {
+    "name": "WaveStrong, Inc.",
+    "first_seen": "2026-05-10",
+    "last_seen": "2026-05-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Analyst / Engineer - Threat & Cortex XSIAM (Hybrid)"
     ]
   }
 }
