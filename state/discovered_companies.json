@@ -57,7 +57,7 @@
     "name": "C-Serv",
     "first_seen": "2026-04-21",
     "last_seen": "2026-05-07",
-    "hit_count": 63,
+    "hit_count": 64,
     "sample_titles": [
       "AI Security Engineer - AI Red Team (Enterprise)"
     ]
@@ -164,8 +164,8 @@
   "s r international inc": {
     "name": "S R INTERNATIONAL INC",
     "first_seen": "2026-04-27",
-    "last_seen": "2026-05-06",
-    "hit_count": 2,
+    "last_seen": "2026-05-11",
+    "hit_count": 3,
     "sample_titles": [
       "Azure Cloud and Security Engineer (SC-200/SC-300, CISSP)"
     ]
@@ -316,7 +316,7 @@
     "name": "Brain Co.",
     "first_seen": "2026-04-29",
     "last_seen": "2026-05-09",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "IT Security Engineer",
       "AI Application Security Engineer"
@@ -754,6 +754,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cyber Security Analyst"
+    ]
+  },
+  "ag consulting partners, inc.": {
+    "name": "AG Consulting Partners, Inc.",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Hardware Security Engineer (Devices & Services Security)"
     ]
   }
 }
