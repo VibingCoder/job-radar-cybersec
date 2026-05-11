@@ -316,7 +316,7 @@
     "name": "Brain Co.",
     "first_seen": "2026-04-29",
     "last_seen": "2026-05-09",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "IT Security Engineer",
       "AI Application Security Engineer"
@@ -736,6 +736,24 @@
     "hit_count": 3,
     "sample_titles": [
       "Security Analyst / Engineer - Threat & Cortex XSIAM (Hybrid)"
+    ]
+  },
+  "astrion": {
+    "name": "Astrion",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Mid-Level Cyber Security Analyst"
+    ]
+  },
+  "trellisware technologies": {
+    "name": "TrellisWare Technologies",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Analyst"
     ]
   }
 }
