@@ -764,5 +764,32 @@
     "sample_titles": [
       "Hardware Security Engineer (Devices & Services Security)"
     ]
+  },
+  "jose merciline": {
+    "name": "Jose Merciline",
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "Data Protection Security Engineer"
+    ]
+  },
+  "state employees' credit union": {
+    "name": "State Employees' Credit Union",
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer - IAM"
+    ]
+  },
+  "archer": {
+    "name": "Archer",
+    "first_seen": "2026-05-11",
+    "last_seen": "2026-05-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Enterprise Cloud Security Engineer"
+    ]
   }
 }
