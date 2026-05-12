@@ -56,8 +56,8 @@
   "c-serv": {
     "name": "C-Serv",
     "first_seen": "2026-04-21",
-    "last_seen": "2026-05-07",
-    "hit_count": 68,
+    "last_seen": "2026-05-12",
+    "hit_count": 69,
     "sample_titles": [
       "AI Security Engineer - AI Red Team (Enterprise)"
     ]
@@ -787,7 +787,7 @@
     "name": "Archer",
     "first_seen": "2026-05-11",
     "last_seen": "2026-05-11",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Enterprise Cloud Security Engineer"
     ]
@@ -799,6 +799,24 @@
     "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "irvine technology corporation": {
+    "name": "Irvine Technology Corporation",
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Analyst/Third-Party Risk Management (TPRM) - remote PST"
+    ]
+  },
+  "code metal": {
+    "name": "Code Metal",
+    "first_seen": "2026-05-12",
+    "last_seen": "2026-05-12",
+    "hit_count": 2,
+    "sample_titles": [
+      "IT Security Analyst"
     ]
   }
 }
