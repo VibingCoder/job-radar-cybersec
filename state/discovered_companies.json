@@ -787,7 +787,7 @@
     "name": "Archer",
     "first_seen": "2026-05-11",
     "last_seen": "2026-05-11",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Enterprise Cloud Security Engineer"
     ]
@@ -832,7 +832,7 @@
     "name": "Piedmont Healthcare Inc.",
     "first_seen": "2026-05-12",
     "last_seen": "2026-05-12",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Info Security Analyst - Cyber"
     ]
@@ -844,6 +844,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer, Vulnerability & Attack Surface Management"
+    ]
+  },
+  "laserfiche": {
+    "name": "Laserfiche",
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Security Analyst I"
     ]
   }
 }
