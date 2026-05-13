@@ -352,10 +352,11 @@
   "jobot": {
     "name": "Jobot",
     "first_seen": "2026-04-30",
-    "last_seen": "2026-05-07",
-    "hit_count": 14,
+    "last_seen": "2026-05-13",
+    "hit_count": 16,
     "sample_titles": [
-      "Application Security Engineer"
+      "Application Security Engineer",
+      "IT Security Engineer (Law Firm)"
     ]
   },
   "big impact tech": {
@@ -787,7 +788,7 @@
     "name": "Archer",
     "first_seen": "2026-05-11",
     "last_seen": "2026-05-11",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Enterprise Cloud Security Engineer"
     ]
@@ -832,7 +833,7 @@
     "name": "Piedmont Healthcare Inc.",
     "first_seen": "2026-05-12",
     "last_seen": "2026-05-12",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Info Security Analyst - Cyber"
     ]
@@ -853,6 +854,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Information Security Analyst I"
+    ]
+  },
+  "k-tek resourcing llc": {
+    "name": "K-Tek Resourcing LLC",
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Network Security Engineer"
     ]
   }
 }
