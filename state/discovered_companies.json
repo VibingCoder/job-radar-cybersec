@@ -787,7 +787,7 @@
     "name": "Archer",
     "first_seen": "2026-05-11",
     "last_seen": "2026-05-11",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Enterprise Cloud Security Engineer"
     ]
@@ -832,9 +832,18 @@
     "name": "Piedmont Healthcare Inc.",
     "first_seen": "2026-05-12",
     "last_seen": "2026-05-12",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Info Security Analyst - Cyber"
+    ]
+  },
+  "aspenview technology partners": {
+    "name": "AspenView Technology Partners",
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Vulnerability & Attack Surface Management"
     ]
   }
 }
