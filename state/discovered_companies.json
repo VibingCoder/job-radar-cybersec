@@ -352,11 +352,12 @@
   "jobot": {
     "name": "Jobot",
     "first_seen": "2026-04-30",
-    "last_seen": "2026-05-13",
-    "hit_count": 16,
+    "last_seen": "2026-05-14",
+    "hit_count": 17,
     "sample_titles": [
       "Application Security Engineer",
-      "IT Security Engineer (Law Firm)"
+      "IT Security Engineer (Law Firm)",
+      "PAM Security Engineer"
     ]
   },
   "big impact tech": {
@@ -570,7 +571,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-05-13",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)"
@@ -888,7 +889,7 @@
     "name": "The Hollister Group",
     "first_seen": "2026-05-14",
     "last_seen": "2026-05-14",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -897,9 +898,18 @@
     "name": "Black Duck Software",
     "first_seen": "2026-05-14",
     "last_seen": "2026-05-14",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer (West Coast)"
+    ]
+  },
+  "bazooka": {
+    "name": "Bazooka",
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
