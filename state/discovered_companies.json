@@ -570,7 +570,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-05-13",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)"
@@ -888,9 +888,18 @@
     "name": "The Hollister Group",
     "first_seen": "2026-05-14",
     "last_seen": "2026-05-14",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "black duck software": {
+    "name": "Black Duck Software",
+    "first_seen": "2026-05-14",
+    "last_seen": "2026-05-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer (West Coast)"
     ]
   }
 }
