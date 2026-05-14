@@ -569,10 +569,11 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-05-07",
-    "hit_count": 2,
+    "last_seen": "2026-05-13",
+    "hit_count": 3,
     "sample_titles": [
-      "Security Engineer"
+      "Security Engineer",
+      "Security Engineer, AppSec (Tapestry)"
     ]
   },
   "heartflow": {
@@ -863,6 +864,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Network Security Engineer"
+    ]
+  },
+  "recruiting from scratch": {
+    "name": "Recruiting From Scratch",
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Systems Security Engineer"
+    ]
+  },
+  "navitaspartners": {
+    "name": "NavitasPartners",
+    "first_seen": "2026-05-13",
+    "last_seen": "2026-05-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Network Security Engineer - 26-05416"
     ]
   }
 }
