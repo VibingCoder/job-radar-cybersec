@@ -915,8 +915,8 @@
   "outlier ai": {
     "name": "Outlier AI",
     "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "hit_count": 40,
+    "last_seen": "2026-05-15",
+    "hit_count": 45,
     "sample_titles": [
       "AI Red Team Engineer (Remote) (Hiring Immediately)"
     ]
@@ -937,6 +937,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cybersecurity Engineer - Compliance"
+    ]
+  },
+  "ibotta": {
+    "name": "Ibotta",
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
