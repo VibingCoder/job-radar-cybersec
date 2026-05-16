@@ -916,7 +916,7 @@
     "name": "Outlier AI",
     "first_seen": "2026-05-14",
     "last_seen": "2026-05-15",
-    "hit_count": 78,
+    "hit_count": 89,
     "sample_titles": [
       "AI Red Team Engineer (Remote) (Hiring Immediately)"
     ]
@@ -943,9 +943,27 @@
     "name": "Ibotta",
     "first_seen": "2026-05-15",
     "last_seen": "2026-05-15",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "virtana": {
+    "name": "Virtana",
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "arganteal, corp.": {
+    "name": "Arganteal, Corp.",
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Branch Security Engineer"
     ]
   }
 }
