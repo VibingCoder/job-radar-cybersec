@@ -943,7 +943,7 @@
     "name": "Ibotta",
     "first_seen": "2026-05-15",
     "last_seen": "2026-05-15",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -964,6 +964,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Branch Security Engineer"
+    ]
+  },
+  "coinflow": {
+    "name": "Coinflow",
+    "first_seen": "2026-05-15",
+    "last_seen": "2026-05-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
