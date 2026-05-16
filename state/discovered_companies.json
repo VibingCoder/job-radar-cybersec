@@ -156,7 +156,7 @@
     "name": "Aevex",
     "first_seen": "2026-04-27",
     "last_seen": "2026-05-16",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Cybersecurity Engineer II"
     ]
@@ -916,7 +916,7 @@
     "name": "Outlier AI",
     "first_seen": "2026-05-14",
     "last_seen": "2026-05-15",
-    "hit_count": 104,
+    "hit_count": 107,
     "sample_titles": [
       "AI Red Team Engineer (Remote) (Hiring Immediately)"
     ]
@@ -943,7 +943,7 @@
     "name": "Ibotta",
     "first_seen": "2026-05-15",
     "last_seen": "2026-05-15",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -970,7 +970,7 @@
     "name": "Coinflow",
     "first_seen": "2026-05-15",
     "last_seen": "2026-05-15",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -979,9 +979,18 @@
     "name": "The Walt Disney Company",
     "first_seen": "2026-05-16",
     "last_seen": "2026-05-16",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer - Security Architecture and Engineering"
+    ]
+  },
+  "vision information technology consultants llc": {
+    "name": "Vision Information Technology Consultants LLC",
+    "first_seen": "2026-05-16",
+    "last_seen": "2026-05-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity -Cyber Security Analyst"
     ]
   }
 }
