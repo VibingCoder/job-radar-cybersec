@@ -915,8 +915,8 @@
   "outlier ai": {
     "name": "Outlier AI",
     "first_seen": "2026-05-14",
-    "last_seen": "2026-05-16",
-    "hit_count": 108,
+    "last_seen": "2026-05-15",
+    "hit_count": 115,
     "sample_titles": [
       "AI Red Team Engineer (Remote) (Hiring Immediately)"
     ]
@@ -943,7 +943,7 @@
     "name": "Ibotta",
     "first_seen": "2026-05-15",
     "last_seen": "2026-05-15",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -970,7 +970,7 @@
     "name": "Coinflow",
     "first_seen": "2026-05-15",
     "last_seen": "2026-05-15",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Security Engineer"
     ]
