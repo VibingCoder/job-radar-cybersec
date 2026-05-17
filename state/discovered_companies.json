@@ -283,8 +283,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-05-10",
-    "hit_count": 6,
+    "last_seen": "2026-05-17",
+    "hit_count": 7,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -916,7 +916,7 @@
     "name": "Outlier AI",
     "first_seen": "2026-05-14",
     "last_seen": "2026-05-15",
-    "hit_count": 115,
+    "hit_count": 122,
     "sample_titles": [
       "AI Red Team Engineer (Remote) (Hiring Immediately)"
     ]
@@ -970,7 +970,7 @@
     "name": "Coinflow",
     "first_seen": "2026-05-15",
     "last_seen": "2026-05-15",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -991,6 +991,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cybersecurity -Cyber Security Analyst"
+    ]
+  },
+  "arganteal": {
+    "name": "Arganteal",
+    "first_seen": "2026-05-17",
+    "last_seen": "2026-05-17",
+    "hit_count": 1,
+    "sample_titles": [
+      "Branch Security Engineer"
     ]
   }
 }
