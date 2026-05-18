@@ -284,7 +284,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-05-18",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -916,7 +916,7 @@
     "name": "Outlier AI",
     "first_seen": "2026-05-14",
     "last_seen": "2026-05-14",
-    "hit_count": 194,
+    "hit_count": 204,
     "sample_titles": [
       "AI Red Team Engineer (Remote) (Hiring Immediately)"
     ]
@@ -1006,7 +1006,7 @@
     "name": "mpathic",
     "first_seen": "2026-05-17",
     "last_seen": "2026-05-17",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Red Team Reviewer"
     ]
@@ -1015,7 +1015,7 @@
     "name": "NSS",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-18",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Android Malware Reverse Engineer"
     ]
@@ -1024,7 +1024,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-18",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
     ]
