@@ -1008,7 +1008,7 @@
     "name": "mpathic",
     "first_seen": "2026-05-17",
     "last_seen": "2026-05-17",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Red Team Reviewer"
     ]
@@ -1026,7 +1026,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-18",
-    "hit_count": 30,
+    "hit_count": 32,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1046,7 +1046,7 @@
     "name": "Coalfire Systems",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Consultant, Penetration Tester"
     ]
@@ -1055,7 +1055,7 @@
     "name": "Southern Company",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Offensive Security Analyst"
     ]
@@ -1064,7 +1064,7 @@
     "name": "Intel",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Information Security Engineer"
     ]
