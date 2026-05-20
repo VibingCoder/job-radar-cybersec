@@ -726,10 +726,11 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-09",
-    "hit_count": 1,
+    "last_seen": "2026-05-20",
+    "hit_count": 2,
     "sample_titles": [
-      "Cybersecurity Engineer and Risk Analyst"
+      "Cybersecurity Engineer and Risk Analyst",
+      "FMS Defensive Cybersecurity Engineer, Mid"
     ]
   },
   "wavestrong, inc.": {
@@ -915,8 +916,8 @@
   "outlier ai": {
     "name": "Outlier AI",
     "first_seen": "2026-05-14",
-    "last_seen": "2026-05-14",
-    "hit_count": 263,
+    "last_seen": "2026-05-15",
+    "hit_count": 264,
     "sample_titles": [
       "AI Red Team Engineer (Remote) (Hiring Immediately)"
     ]
@@ -1006,7 +1007,7 @@
     "name": "mpathic",
     "first_seen": "2026-05-17",
     "last_seen": "2026-05-17",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Red Team Reviewer"
     ]
@@ -1024,7 +1025,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-18",
-    "hit_count": 22,
+    "hit_count": 24,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1044,7 +1045,7 @@
     "name": "Coalfire Systems",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Consultant, Penetration Tester"
     ]
@@ -1053,7 +1054,7 @@
     "name": "Southern Company",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Offensive Security Analyst"
     ]
@@ -1062,7 +1063,7 @@
     "name": "Intel",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Information Security Engineer"
     ]
