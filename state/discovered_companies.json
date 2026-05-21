@@ -918,10 +918,11 @@
   "outlier ai": {
     "name": "Outlier AI",
     "first_seen": "2026-05-14",
-    "last_seen": "2026-05-15",
-    "hit_count": 266,
+    "last_seen": "2026-05-21",
+    "hit_count": 267,
     "sample_titles": [
-      "AI Red Team Engineer (Remote) (Hiring Immediately)"
+      "AI Red Team Engineer (Remote) (Hiring Immediately)",
+      "AI Red Team Engineer (Remote)"
     ]
   },
   "mondo": {
@@ -1009,7 +1010,7 @@
     "name": "mpathic",
     "first_seen": "2026-05-17",
     "last_seen": "2026-05-17",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Red Team Reviewer"
     ]
@@ -1027,7 +1028,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-18",
-    "hit_count": 36,
+    "hit_count": 38,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1047,7 +1048,7 @@
     "name": "Coalfire Systems",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Consultant, Penetration Tester"
     ]
@@ -1095,7 +1096,7 @@
     "name": "Polymarket",
     "first_seen": "2026-05-20",
     "last_seen": "2026-05-20",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1107,6 +1108,24 @@
     "hit_count": 2,
     "sample_titles": [
       "Cyber Security Engineer"
+    ]
+  },
+  "jpmorganchase": {
+    "name": "JPMorganChase",
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "Business Process Red Team Operator"
+    ]
+  },
+  "boom": {
+    "name": "Boom",
+    "first_seen": "2026-05-21",
+    "last_seen": "2026-05-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "Founding Security Engineer"
     ]
   }
 }
