@@ -1010,7 +1010,7 @@
     "name": "mpathic",
     "first_seen": "2026-05-17",
     "last_seen": "2026-05-17",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "Red Team Reviewer"
     ]
@@ -1028,7 +1028,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-18",
-    "hit_count": 44,
+    "hit_count": 46,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1048,7 +1048,7 @@
     "name": "Coalfire Systems",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Consultant, Penetration Tester"
     ]
@@ -1096,7 +1096,7 @@
     "name": "Polymarket",
     "first_seen": "2026-05-20",
     "last_seen": "2026-05-20",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1114,7 +1114,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-21",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Business Process Red Team Operator"
     ]
@@ -1123,7 +1123,7 @@
     "name": "Boom",
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-21",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Founding Security Engineer"
     ]
@@ -1132,7 +1132,7 @@
     "name": "Versana",
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-21",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
     ]
