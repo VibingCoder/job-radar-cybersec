@@ -284,7 +284,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-05-22",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1010,7 +1010,7 @@
     "name": "mpathic",
     "first_seen": "2026-05-17",
     "last_seen": "2026-05-17",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Red Team Reviewer"
     ]
@@ -1028,7 +1028,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-19",
-    "hit_count": 59,
+    "hit_count": 60,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1048,7 +1048,7 @@
     "name": "Coalfire Systems",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Consultant, Penetration Tester"
     ]
@@ -1114,7 +1114,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-21",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Business Process Red Team Operator"
     ]
@@ -1150,7 +1150,7 @@
     "name": "Opal Security",
     "first_seen": "2026-05-22",
     "last_seen": "2026-05-22",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Application Security Engineer"
     ]
