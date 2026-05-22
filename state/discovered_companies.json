@@ -284,7 +284,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-05-22",
-    "hit_count": 27,
+    "hit_count": 28,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -570,12 +570,13 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-05-20",
-    "hit_count": 11,
+    "last_seen": "2026-05-22",
+    "hit_count": 12,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
-      "Security Engineer II, Uppercase Research"
+      "Security Engineer II, Uppercase Research",
+      "Security Engineer, Offensive Security/Red Team"
     ]
   },
   "heartflow": {
@@ -1010,7 +1011,7 @@
     "name": "mpathic",
     "first_seen": "2026-05-17",
     "last_seen": "2026-05-17",
-    "hit_count": 34,
+    "hit_count": 35,
     "sample_titles": [
       "Red Team Reviewer"
     ]
@@ -1028,7 +1029,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-19",
-    "hit_count": 60,
+    "hit_count": 61,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1048,7 +1049,7 @@
     "name": "Coalfire Systems",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Consultant, Penetration Tester"
     ]
@@ -1114,7 +1115,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-21",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Business Process Red Team Operator"
     ]
@@ -1150,7 +1151,7 @@
     "name": "Opal Security",
     "first_seen": "2026-05-22",
     "last_seen": "2026-05-22",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1162,6 +1163,15 @@
     "hit_count": 3,
     "sample_titles": [
       "Network Security Engineer / Hybrid / Dallas / Phoenix"
+    ]
+  },
+  "ibm": {
+    "name": "IBM",
+    "first_seen": "2026-05-22",
+    "last_seen": "2026-05-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "XFR Red Team Operator"
     ]
   }
 }
