@@ -275,7 +275,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-05-23",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer"
@@ -572,7 +572,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-05-22",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1030,7 +1030,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-19",
-    "hit_count": 64,
+    "hit_count": 65,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1050,7 +1050,7 @@
     "name": "Coalfire Systems",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "Consultant, Penetration Tester"
     ]
@@ -1116,7 +1116,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-21",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Business Process Red Team Operator"
     ]
@@ -1170,7 +1170,7 @@
     "name": "IBM",
     "first_seen": "2026-05-22",
     "last_seen": "2026-05-22",
-    "hit_count": 10,
+    "hit_count": 12,
     "sample_titles": [
       "XFR Red Team Operator"
     ]
