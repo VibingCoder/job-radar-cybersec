@@ -276,7 +276,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-05-23",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer"
@@ -573,7 +573,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-05-22",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1051,7 +1051,7 @@
     "name": "Coalfire Systems",
     "first_seen": "2026-05-19",
     "last_seen": "2026-05-19",
-    "hit_count": 36,
+    "hit_count": 37,
     "sample_titles": [
       "Consultant, Penetration Tester"
     ]
@@ -1117,7 +1117,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-21",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Business Process Red Team Operator"
     ]
