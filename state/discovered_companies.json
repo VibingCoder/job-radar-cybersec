@@ -276,7 +276,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-05-23",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer"
@@ -1117,7 +1117,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-05-21",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Business Process Red Team Operator"
     ]
