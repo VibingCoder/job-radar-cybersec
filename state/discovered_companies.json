@@ -101,8 +101,8 @@
   "honeywell": {
     "name": "Honeywell",
     "first_seen": "2026-04-25",
-    "last_seen": "2026-05-23",
-    "hit_count": 5,
+    "last_seen": "2026-05-25",
+    "hit_count": 7,
     "sample_titles": [
       "Cyber Security Engineer II",
       "Advanced Network Security Engineer"
@@ -184,7 +184,7 @@
     "name": "Vast.ai",
     "first_seen": "2026-04-27",
     "last_seen": "2026-05-25",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -573,7 +573,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-05-24",
-    "hit_count": 37,
+    "hit_count": 38,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1201,6 +1201,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Acquisition Security Analyst (ASA) II"
+    ]
+  },
+  "judge group, inc.": {
+    "name": "Judge Group, Inc.",
+    "first_seen": "2026-05-25",
+    "last_seen": "2026-05-25",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Security Engineer"
     ]
   }
 }
