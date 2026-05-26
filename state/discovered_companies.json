@@ -573,7 +573,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-05-24",
-    "hit_count": 38,
+    "hit_count": 39,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1210,6 +1210,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Information Security Engineer"
+    ]
+  },
+  "diraq": {
+    "name": "Diraq",
+    "first_seen": "2026-05-26",
+    "last_seen": "2026-05-26",
+    "hit_count": 1,
+    "sample_titles": [
+      "IT Security Engineer"
+    ]
+  },
+  "raliant": {
+    "name": "Raliant",
+    "first_seen": "2026-05-26",
+    "last_seen": "2026-05-26",
+    "hit_count": 1,
+    "sample_titles": [
+      "Network Security Engineer"
     ]
   }
 }
