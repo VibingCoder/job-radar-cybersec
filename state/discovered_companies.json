@@ -1030,12 +1030,13 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-05-19",
-    "hit_count": 75,
+    "last_seen": "2026-05-26",
+    "hit_count": 76,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
-      "SAP Security Engineer (GRC \u2013 Technical)"
+      "SAP Security Engineer (GRC \u2013 Technical)",
+      "Oracle Cloud Security Engineer"
     ]
   },
   "civilgrid": {
@@ -1228,6 +1229,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Network Security Engineer"
+    ]
+  },
+  "best buy": {
+    "name": "Best Buy",
+    "first_seen": "2026-05-26",
+    "last_seen": "2026-05-26",
+    "hit_count": 1,
+    "sample_titles": [
+      "Incident Response Specialist"
     ]
   }
 }
