@@ -1235,9 +1235,18 @@
     "name": "Best Buy",
     "first_seen": "2026-05-26",
     "last_seen": "2026-05-26",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Incident Response Specialist"
+    ]
+  },
+  "stanley david and associates": {
+    "name": "Stanley David and Associates",
+    "first_seen": "2026-05-27",
+    "last_seen": "2026-05-27",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer"
     ]
   }
 }
