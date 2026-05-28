@@ -511,7 +511,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-27",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer"
@@ -1209,10 +1209,11 @@
   "judge group, inc.": {
     "name": "Judge Group, Inc.",
     "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "hit_count": 1,
+    "last_seen": "2026-05-28",
+    "hit_count": 2,
     "sample_titles": [
-      "Information Security Engineer"
+      "Information Security Engineer",
+      "Cloud Security Engineer"
     ]
   },
   "diraq": {
@@ -1237,7 +1238,7 @@
     "name": "Best Buy",
     "first_seen": "2026-05-26",
     "last_seen": "2026-05-26",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Incident Response Specialist"
     ]
@@ -1255,7 +1256,7 @@
     "name": "Cisco",
     "first_seen": "2026-05-27",
     "last_seen": "2026-05-27",
-    "hit_count": 4,
+    "hit_count": 6,
     "sample_titles": [
       "AI Security Engineer"
     ]
