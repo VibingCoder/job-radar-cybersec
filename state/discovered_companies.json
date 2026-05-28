@@ -1238,7 +1238,7 @@
     "name": "Best Buy",
     "first_seen": "2026-05-26",
     "last_seen": "2026-05-26",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Incident Response Specialist"
     ]
@@ -1283,9 +1283,18 @@
     "name": "IT First Source",
     "first_seen": "2026-05-28",
     "last_seen": "2026-05-28",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "graham packaging company": {
+    "name": "Graham Packaging Company",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer"
     ]
   }
 }
