@@ -275,11 +275,12 @@
   "bank of america": {
     "name": "Bank of America",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-05-23",
-    "hit_count": 22,
+    "last_seen": "2026-05-28",
+    "hit_count": 23,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
-      "AI Security Engineer"
+      "AI Security Engineer",
+      "Endpoint Security Engineer"
     ]
   },
   "amazon": {
@@ -510,7 +511,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-05-27",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer"
@@ -1236,7 +1237,7 @@
     "name": "Best Buy",
     "first_seen": "2026-05-26",
     "last_seen": "2026-05-26",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Incident Response Specialist"
     ]
@@ -1254,9 +1255,18 @@
     "name": "Cisco",
     "first_seen": "2026-05-27",
     "last_seen": "2026-05-27",
-    "hit_count": 2,
+    "hit_count": 4,
     "sample_titles": [
       "AI Security Engineer"
+    ]
+  },
+  "voyager technologies": {
+    "name": "Voyager Technologies",
+    "first_seen": "2026-05-28",
+    "last_seen": "2026-05-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
     ]
   }
 }
