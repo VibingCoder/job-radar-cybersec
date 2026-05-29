@@ -1301,9 +1301,27 @@
     "name": "Remitly",
     "first_seen": "2026-05-29",
     "last_seen": "2026-05-29",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer II"
+    ]
+  },
+  "apoynt": {
+    "name": "Apoynt",
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Offensive Security Engineer"
+    ]
+  },
+  "chaos industries": {
+    "name": "CHAOS Industries",
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer, Product Security"
     ]
   }
 }
