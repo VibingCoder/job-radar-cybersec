@@ -732,12 +732,13 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-20",
-    "hit_count": 3,
+    "last_seen": "2026-05-29",
+    "hit_count": 4,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
-      "Information Systems Security Engineer"
+      "Information Systems Security Engineer",
+      "Application Security Engineer"
     ]
   },
   "wavestrong, inc.": {
@@ -1033,7 +1034,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-29",
-    "hit_count": 77,
+    "hit_count": 78,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1301,7 +1302,7 @@
     "name": "Remitly",
     "first_seen": "2026-05-29",
     "last_seen": "2026-05-29",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer II"
     ]
@@ -1310,7 +1311,7 @@
     "name": "Apoynt",
     "first_seen": "2026-05-29",
     "last_seen": "2026-05-29",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
@@ -1322,6 +1323,15 @@
     "hit_count": 4,
     "sample_titles": [
       "Cybersecurity Engineer, Product Security"
+    ]
+  },
+  "asana": {
+    "name": "Asana",
+    "first_seen": "2026-05-29",
+    "last_seen": "2026-05-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Threat Response"
     ]
   }
 }
