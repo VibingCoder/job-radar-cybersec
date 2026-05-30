@@ -733,7 +733,7 @@
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
     "last_seen": "2026-05-29",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -1034,7 +1034,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-29",
-    "hit_count": 79,
+    "hit_count": 80,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1311,7 +1311,7 @@
     "name": "Apoynt",
     "first_seen": "2026-05-29",
     "last_seen": "2026-05-29",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
@@ -1338,9 +1338,18 @@
     "name": "Oneleet",
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "carnegie mellon university": {
+    "name": "Carnegie Mellon University",
+    "first_seen": "2026-05-30",
+    "last_seen": "2026-05-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)"
     ]
   }
 }
