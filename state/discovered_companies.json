@@ -1035,7 +1035,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-29",
-    "hit_count": 94,
+    "hit_count": 95,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1312,7 +1312,7 @@
     "name": "Apoynt",
     "first_seen": "2026-05-29",
     "last_seen": "2026-05-29",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
@@ -1339,7 +1339,7 @@
     "name": "Oneleet",
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1383,10 +1383,11 @@
   "lockheed martin": {
     "name": "Lockheed Martin",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-05-30",
-    "hit_count": 1,
+    "last_seen": "2026-05-31",
+    "hit_count": 2,
     "sample_titles": [
-      "Cyber Security Engineer with Security Clearance"
+      "Cyber Security Engineer with Security Clearance",
+      "Cyber Security Engineer"
     ]
   },
   "general matter": {
@@ -1411,7 +1412,7 @@
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Penetration Tester"
     ]
