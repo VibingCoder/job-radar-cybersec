@@ -402,8 +402,8 @@
   "draper": {
     "name": "Draper",
     "first_seen": "2026-05-01",
-    "last_seen": "2026-05-01",
-    "hit_count": 7,
+    "last_seen": "2026-06-01",
+    "hit_count": 8,
     "sample_titles": [
       "Offensive Threat Researcher with Security Clearance"
     ]
@@ -1035,7 +1035,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-05-29",
-    "hit_count": 96,
+    "hit_count": 97,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1412,7 +1412,7 @@
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Penetration Tester"
     ]
