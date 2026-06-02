@@ -403,7 +403,7 @@
     "name": "Draper",
     "first_seen": "2026-05-01",
     "last_seen": "2026-06-01",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Offensive Threat Researcher with Security Clearance"
     ]
@@ -1412,7 +1412,7 @@
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -1424,6 +1424,15 @@
     "hit_count": 1,
     "sample_titles": [
       "IT Security Engineer 2"
+    ]
+  },
+  "d9tech resources, llc": {
+    "name": "D9Tech Resources, LLC",
+    "first_seen": "2026-06-02",
+    "last_seen": "2026-06-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Builder (Cloud Security Engineer) with Security Clearance"
     ]
   }
 }
