@@ -57,9 +57,10 @@
     "name": "C-Serv",
     "first_seen": "2026-04-21",
     "last_seen": "2026-06-03",
-    "hit_count": 74,
+    "hit_count": 79,
     "sample_titles": [
-      "AI Security Engineer - AI Red Team (Enterprise)"
+      "AI Security Engineer - AI Red Team (Enterprise)",
+      "AI Offensive Security Engineer"
     ]
   },
   "manpowergroup": {
@@ -624,7 +625,7 @@
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
     "last_seen": "2026-06-02",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Platform Security Engineer"
     ]
@@ -1035,7 +1036,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-06-03",
-    "hit_count": 99,
+    "hit_count": 100,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1185,7 +1186,7 @@
     "name": "Mercor",
     "first_seen": "2026-05-23",
     "last_seen": "2026-06-03",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Cyber Security Engineer",
       "Penetration Tester"
@@ -1413,7 +1414,7 @@
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -1449,7 +1450,7 @@
     "name": "eBay",
     "first_seen": "2026-06-03",
     "last_seen": "2026-06-03",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "AI Offensive Security Engineer"
     ]
@@ -1458,7 +1459,7 @@
     "name": "SmartRent",
     "first_seen": "2026-06-03",
     "last_seen": "2026-06-03",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1470,6 +1471,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "staris ai": {
+    "name": "Staris AI",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Offensive Security Engineer"
+    ]
+  },
+  "applied research associates, inc": {
+    "name": "Applied Research Associates, Inc",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer-Cloud Platforms"
     ]
   }
 }
