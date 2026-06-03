@@ -57,7 +57,7 @@
     "name": "C-Serv",
     "first_seen": "2026-04-21",
     "last_seen": "2026-06-03",
-    "hit_count": 73,
+    "hit_count": 74,
     "sample_titles": [
       "AI Security Engineer - AI Red Team (Enterprise)"
     ]
@@ -624,7 +624,7 @@
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
     "last_seen": "2026-06-02",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Platform Security Engineer"
     ]
@@ -1184,10 +1184,11 @@
   "mercor": {
     "name": "Mercor",
     "first_seen": "2026-05-23",
-    "last_seen": "2026-05-30",
-    "hit_count": 2,
+    "last_seen": "2026-06-03",
+    "hit_count": 3,
     "sample_titles": [
-      "Cyber Security Engineer"
+      "Cyber Security Engineer",
+      "Penetration Tester"
     ]
   },
   "impinj": {
@@ -1412,7 +1413,7 @@
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -1442,6 +1443,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Cyber Security Engineer"
+    ]
+  },
+  "ebay": {
+    "name": "eBay",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "AI Offensive Security Engineer"
+    ]
+  },
+  "smartrent": {
+    "name": "SmartRent",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
