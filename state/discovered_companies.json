@@ -624,7 +624,7 @@
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
     "last_seen": "2026-06-02",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Platform Security Engineer"
     ]
@@ -1034,8 +1034,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-05-29",
-    "hit_count": 98,
+    "last_seen": "2026-06-03",
+    "hit_count": 99,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1185,7 +1185,7 @@
     "name": "Mercor",
     "first_seen": "2026-05-23",
     "last_seen": "2026-06-03",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Cyber Security Engineer",
       "Penetration Tester"
@@ -1413,7 +1413,7 @@
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -1449,7 +1449,7 @@
     "name": "eBay",
     "first_seen": "2026-06-03",
     "last_seen": "2026-06-03",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "AI Offensive Security Engineer"
     ]
@@ -1458,9 +1458,18 @@
     "name": "SmartRent",
     "first_seen": "2026-06-03",
     "last_seen": "2026-06-03",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "teksynap": {
+    "name": "TekSynap",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
