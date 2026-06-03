@@ -56,8 +56,8 @@
   "c-serv": {
     "name": "C-Serv",
     "first_seen": "2026-04-21",
-    "last_seen": "2026-05-12",
-    "hit_count": 72,
+    "last_seen": "2026-06-03",
+    "hit_count": 73,
     "sample_titles": [
       "AI Security Engineer - AI Red Team (Enterprise)"
     ]
@@ -623,8 +623,8 @@
   "applied compute": {
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
-    "last_seen": "2026-05-06",
-    "hit_count": 10,
+    "last_seen": "2026-06-02",
+    "hit_count": 11,
     "sample_titles": [
       "Platform Security Engineer"
     ]
@@ -1412,7 +1412,7 @@
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
     "last_seen": "2026-05-30",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -1433,6 +1433,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Builder (Cloud Security Engineer) with Security Clearance"
+    ]
+  },
+  "eigennet llc": {
+    "name": "EIGENNET LLC",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
     ]
   }
 }
