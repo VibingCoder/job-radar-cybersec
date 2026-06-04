@@ -57,7 +57,7 @@
     "name": "C-Serv",
     "first_seen": "2026-04-21",
     "last_seen": "2026-06-03",
-    "hit_count": 84,
+    "hit_count": 85,
     "sample_titles": [
       "AI Security Engineer - AI Red Team (Enterprise)",
       "AI Offensive Security Engineer"
@@ -266,11 +266,12 @@
   "asm research, an accenture federal services company": {
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-04-30",
-    "hit_count": 2,
+    "last_seen": "2026-06-03",
+    "hit_count": 6,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
-      "Cybersecurity Incident Response Engineer, Mid"
+      "Cybersecurity Incident Response Engineer, Mid",
+      "Penetration Tester / Security Assessor"
     ]
   },
   "bank of america": {
@@ -1036,7 +1037,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-06-03",
-    "hit_count": 101,
+    "hit_count": 102,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1450,7 +1451,7 @@
     "name": "eBay",
     "first_seen": "2026-06-03",
     "last_seen": "2026-06-03",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "AI Offensive Security Engineer"
     ]
@@ -1489,6 +1490,15 @@
     "hit_count": 2,
     "sample_titles": [
       "Security Engineer-Cloud Platforms"
+    ]
+  },
+  "hirekeyz inc": {
+    "name": "Hirekeyz Inc",
+    "first_seen": "2026-06-03",
+    "last_seen": "2026-06-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Penetration Tester II"
     ]
   }
 }
