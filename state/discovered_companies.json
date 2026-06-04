@@ -267,7 +267,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-03",
-    "hit_count": 12,
+    "hit_count": 18,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -1496,7 +1496,7 @@
     "name": "Hirekeyz Inc",
     "first_seen": "2026-06-03",
     "last_seen": "2026-06-03",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Penetration Tester II"
     ]
@@ -1505,9 +1505,18 @@
     "name": "Enlace Health",
     "first_seen": "2026-06-04",
     "last_seen": "2026-06-04",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Network Security Engineer"
+    ]
+  },
+  "ardent": {
+    "name": "Ardent",
+    "first_seen": "2026-06-04",
+    "last_seen": "2026-06-04",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer"
     ]
   }
 }
