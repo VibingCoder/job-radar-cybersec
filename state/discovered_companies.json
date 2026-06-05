@@ -267,7 +267,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-03",
-    "hit_count": 60,
+    "hit_count": 66,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -699,7 +699,7 @@
     "name": "JPMorgan Chase & Co.",
     "first_seen": "2026-05-07",
     "last_seen": "2026-06-04",
-    "hit_count": 27,
+    "hit_count": 28,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -1124,7 +1124,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1506,7 +1506,7 @@
     "name": "Enlace Health",
     "first_seen": "2026-06-04",
     "last_seen": "2026-06-04",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Network Security Engineer"
     ]
@@ -1536,6 +1536,15 @@
     "hit_count": 3,
     "sample_titles": [
       "Advisor, Information Security Engineer"
+    ]
+  },
+  "amentum": {
+    "name": "Amentum",
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer with Security Clearance"
     ]
   }
 }
