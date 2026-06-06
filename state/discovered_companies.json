@@ -267,7 +267,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-03",
-    "hit_count": 90,
+    "hit_count": 92,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -819,10 +819,11 @@
   "irvine technology corporation": {
     "name": "Irvine Technology Corporation",
     "first_seen": "2026-05-12",
-    "last_seen": "2026-05-12",
-    "hit_count": 1,
+    "last_seen": "2026-06-06",
+    "hit_count": 2,
     "sample_titles": [
-      "Security Analyst/Third-Party Risk Management (TPRM) - remote PST"
+      "Security Analyst/Third-Party Risk Management (TPRM) - remote PST",
+      "Security Engineer"
     ]
   },
   "code metal": {
@@ -1124,7 +1125,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 47,
+    "hit_count": 48,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1560,7 +1561,7 @@
     "name": "Trellix",
     "first_seen": "2026-06-05",
     "last_seen": "2026-06-06",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Reverse Engineer Android"
     ]
@@ -1569,7 +1570,7 @@
     "name": "Overland AI",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -1578,7 +1579,7 @@
     "name": "Veeam Software",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Product & Application Security Engineer"
     ]
@@ -1587,7 +1588,7 @@
     "name": "State Street",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Advanced Defensive -Applications Security Engineer"
     ]
