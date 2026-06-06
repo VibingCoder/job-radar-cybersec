@@ -267,7 +267,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-03",
-    "hit_count": 88,
+    "hit_count": 90,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -1124,7 +1124,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 46,
+    "hit_count": 47,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1560,7 +1560,7 @@
     "name": "Trellix",
     "first_seen": "2026-06-05",
     "last_seen": "2026-06-06",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Reverse Engineer Android"
     ]
@@ -1569,7 +1569,7 @@
     "name": "Overland AI",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -1578,7 +1578,7 @@
     "name": "Veeam Software",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Product & Application Security Engineer"
     ]
@@ -1587,7 +1587,7 @@
     "name": "State Street",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Advanced Defensive -Applications Security Engineer"
     ]
