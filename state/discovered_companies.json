@@ -267,7 +267,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-03",
-    "hit_count": 78,
+    "hit_count": 82,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -699,7 +699,7 @@
     "name": "JPMorgan Chase & Co.",
     "first_seen": "2026-05-07",
     "last_seen": "2026-06-04",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -1124,7 +1124,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 42,
+    "hit_count": 43,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1545,6 +1545,24 @@
     "hit_count": 2,
     "sample_titles": [
       "Cybersecurity Engineer with Security Clearance"
+    ]
+  },
+  "whoop": {
+    "name": "Whoop",
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Analyst"
+    ]
+  },
+  "trellix": {
+    "name": "Trellix",
+    "first_seen": "2026-06-05",
+    "last_seen": "2026-06-05",
+    "hit_count": 4,
+    "sample_titles": [
+      "Reverse Engineer Android"
     ]
   }
 }
