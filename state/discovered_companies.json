@@ -267,7 +267,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-03",
-    "hit_count": 82,
+    "hit_count": 84,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -699,7 +699,7 @@
     "name": "JPMorgan Chase & Co.",
     "first_seen": "2026-05-07",
     "last_seen": "2026-06-04",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -1124,7 +1124,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 43,
+    "hit_count": 44,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1559,10 +1559,37 @@
   "trellix": {
     "name": "Trellix",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-05",
-    "hit_count": 4,
+    "last_seen": "2026-06-06",
+    "hit_count": 5,
     "sample_titles": [
       "Reverse Engineer Android"
+    ]
+  },
+  "overland ai": {
+    "name": "Overland AI",
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer"
+    ]
+  },
+  "veeam software": {
+    "name": "Veeam Software",
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product & Application Security Engineer"
+    ]
+  },
+  "state street": {
+    "name": "State Street",
+    "first_seen": "2026-06-06",
+    "last_seen": "2026-06-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Advanced Defensive -Applications Security Engineer"
     ]
   }
 }
