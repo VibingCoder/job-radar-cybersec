@@ -268,7 +268,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-03",
-    "hit_count": 104,
+    "hit_count": 106,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -290,7 +290,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-06-07",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1126,7 +1126,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 54,
+    "hit_count": 55,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1572,7 +1572,7 @@
     "name": "Overland AI",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -1653,9 +1653,18 @@
     "name": "Northern Trust",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cyber Purple Team Operator"
+    ]
+  },
+  "kalles group": {
+    "name": "Kalles Group",
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Analyst Consultant - Attack Surface Management"
     ]
   }
 }
