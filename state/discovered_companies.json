@@ -268,7 +268,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-03",
-    "hit_count": 100,
+    "hit_count": 102,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -289,8 +289,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-06-06",
-    "hit_count": 34,
+    "last_seen": "2026-06-07",
+    "hit_count": 35,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1126,7 +1126,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 52,
+    "hit_count": 53,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1308,10 +1308,11 @@
   "remitly": {
     "name": "Remitly",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "hit_count": 7,
+    "last_seen": "2026-06-07",
+    "hit_count": 8,
     "sample_titles": [
-      "Security Engineer II"
+      "Security Engineer II",
+      "CorpSec Security Engineer II"
     ]
   },
   "apoynt": {
@@ -1571,7 +1572,7 @@
     "name": "Overland AI",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -1634,9 +1635,27 @@
     "name": "Home Depot",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Cybersecurity Engineer | Application Security (Remote)"
+    ]
+  },
+  "the better money company": {
+    "name": "The Better Money Company",
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "northern trust": {
+    "name": "Northern Trust",
+    "first_seen": "2026-06-07",
+    "last_seen": "2026-06-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Purple Team Operator"
     ]
   }
 }
