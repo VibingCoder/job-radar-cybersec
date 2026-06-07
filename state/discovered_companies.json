@@ -268,7 +268,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-03",
-    "hit_count": 114,
+    "hit_count": 116,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -290,7 +290,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-06-07",
-    "hit_count": 40,
+    "hit_count": 41,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -387,10 +387,11 @@
   "kbr": {
     "name": "KBR",
     "first_seen": "2026-04-30",
-    "last_seen": "2026-04-30",
-    "hit_count": 1,
+    "last_seen": "2026-06-07",
+    "hit_count": 2,
     "sample_titles": [
-      "Strategic Crypto Security Engineer SME"
+      "Strategic Crypto Security Engineer SME",
+      "Cyber Security Engineer"
     ]
   },
   "safelease": {
@@ -700,7 +701,7 @@
     "name": "JPMorgan Chase & Co.",
     "first_seen": "2026-05-07",
     "last_seen": "2026-06-04",
-    "hit_count": 38,
+    "hit_count": 39,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -1126,7 +1127,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 59,
+    "hit_count": 60,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1572,7 +1573,7 @@
     "name": "Overland AI",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -1653,7 +1654,7 @@
     "name": "Northern Trust",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Cyber Purple Team Operator"
     ]
@@ -1662,7 +1663,7 @@
     "name": "Kalles Group",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Analyst Consultant - Attack Surface Management"
     ]
