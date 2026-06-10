@@ -579,7 +579,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-06-09",
-    "hit_count": 44,
+    "hit_count": 45,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1127,7 +1127,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 76,
+    "hit_count": 77,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1681,7 +1681,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "hit_count": 11,
+    "hit_count": 13,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor"
