@@ -578,8 +578,8 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-06-04",
-    "hit_count": 41,
+    "last_seen": "2026-06-09",
+    "hit_count": 42,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1127,7 +1127,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 73,
+    "hit_count": 74,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1654,7 +1654,7 @@
     "name": "Northern Trust",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Cyber Purple Team Operator"
     ]
@@ -1663,7 +1663,7 @@
     "name": "Kalles Group",
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-07",
-    "hit_count": 23,
+    "hit_count": 24,
     "sample_titles": [
       "Security Analyst Consultant - Attack Surface Management"
     ]
@@ -1681,7 +1681,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Offensive Security Specialist"
     ]
