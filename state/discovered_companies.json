@@ -579,7 +579,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-06-09",
-    "hit_count": 42,
+    "hit_count": 43,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1127,7 +1127,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-05",
-    "hit_count": 74,
+    "hit_count": 75,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1681,9 +1681,10 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "hit_count": 7,
+    "hit_count": 9,
     "sample_titles": [
-      "Offensive Security Specialist"
+      "Offensive Security Specialist",
+      "Offensive Security Supervisor"
     ]
   },
   "apex systems": {
@@ -1702,6 +1703,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Founding Security Engineer"
+    ]
+  },
+  "xcel energy": {
+    "name": "Xcel Energy",
+    "first_seen": "2026-06-10",
+    "last_seen": "2026-06-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer \u2013 Cloud Security (AWS)"
     ]
   }
 }
