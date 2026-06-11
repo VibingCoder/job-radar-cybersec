@@ -1681,7 +1681,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor"
@@ -1727,7 +1727,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-10",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "FedRAMP Security Consultant"
     ]
