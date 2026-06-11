@@ -1681,7 +1681,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor"
@@ -1727,13 +1727,23 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-10",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "FedRAMP Security Consultant"
     ]
   },
   "techno-comp, inc.": {
     "name": "Techno-Comp, Inc.",
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "hit_count": 2,
+    "sample_titles": [
+      "Application Security Engineer",
+      "Cyber Security Engineer"
+    ]
+  },
+  "configusa": {
+    "name": "ConfigUSA",
     "first_seen": "2026-06-11",
     "last_seen": "2026-06-11",
     "hit_count": 1,
