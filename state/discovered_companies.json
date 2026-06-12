@@ -514,11 +514,12 @@
   "insight global": {
     "name": "Insight Global",
     "first_seen": "2026-05-03",
-    "last_seen": "2026-05-27",
-    "hit_count": 21,
+    "last_seen": "2026-06-11",
+    "hit_count": 22,
     "sample_titles": [
       "AI Security Engineer",
-      "Security Engineer"
+      "Security Engineer",
+      "INTL India - Remote Detection Engineer"
     ]
   },
   "holistic partners, inc": {
@@ -737,13 +738,14 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-29",
-    "hit_count": 12,
+    "last_seen": "2026-06-11",
+    "hit_count": 13,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
       "Information Systems Security Engineer",
-      "Application Security Engineer"
+      "Application Security Engineer",
+      "Cybersecurity Engineer, Mid"
     ]
   },
   "wavestrong, inc.": {
@@ -1681,7 +1683,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "hit_count": 23,
+    "hit_count": 24,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor"
@@ -1727,7 +1729,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-10",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "FedRAMP Security Consultant"
     ]
@@ -1736,7 +1738,7 @@
     "name": "Techno-Comp, Inc.",
     "first_seen": "2026-06-11",
     "last_seen": "2026-06-11",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer",
       "Cyber Security Engineer"
@@ -1746,9 +1748,18 @@
     "name": "ConfigUSA",
     "first_seen": "2026-06-11",
     "last_seen": "2026-06-11",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "nordic consulting partners": {
+    "name": "Nordic Consulting Partners",
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer I"
     ]
   }
 }
