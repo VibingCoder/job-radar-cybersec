@@ -289,8 +289,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-06-07",
-    "hit_count": 50,
+    "last_seen": "2026-06-12",
+    "hit_count": 51,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -515,7 +515,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-06-11",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -1683,7 +1683,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor"
@@ -1748,7 +1748,7 @@
     "name": "ConfigUSA",
     "first_seen": "2026-06-11",
     "last_seen": "2026-06-11",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1760,6 +1760,16 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer I"
+    ]
+  },
+  "kelly services": {
+    "name": "Kelly Services",
+    "first_seen": "2026-06-11",
+    "last_seen": "2026-06-11",
+    "hit_count": 2,
+    "sample_titles": [
+      "Offensive Cybersecurity Engineer / Relocation offered to Washington DC",
+      "Offensive Cybersecurity Engineer / AI / Startup"
     ]
   }
 }
