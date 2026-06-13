@@ -248,11 +248,12 @@
   "eliassen group": {
     "name": "Eliassen Group",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-06-07",
-    "hit_count": 2,
+    "last_seen": "2026-06-13",
+    "hit_count": 3,
     "sample_titles": [
       "Operational Technology Security Engineer",
-      "Information Security Engineer (DevOps/Containerization Focus)"
+      "Information Security Engineer (DevOps/Containerization Focus)",
+      "Security Engineer with Security Clearance"
     ]
   },
   "qgenda": {
