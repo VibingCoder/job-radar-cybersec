@@ -279,12 +279,13 @@
   "bank of america": {
     "name": "Bank of America",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-05-28",
-    "hit_count": 23,
+    "last_seen": "2026-06-14",
+    "hit_count": 24,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
-      "Endpoint Security Engineer"
+      "Endpoint Security Engineer",
+      "Manual Ethical Hacker"
     ]
   },
   "amazon": {
@@ -1780,6 +1781,16 @@
     "hit_count": 1,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "cyber defense technologies": {
+    "name": "Cyber Defense Technologies",
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "hit_count": 2,
+    "sample_titles": [
+      "SME Penetration Tester",
+      "Intermediate Penetration Tester"
     ]
   }
 }
