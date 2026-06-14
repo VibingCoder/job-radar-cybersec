@@ -1772,5 +1772,14 @@
       "Offensive Cybersecurity Engineer / Relocation offered to Washington DC",
       "Offensive Cybersecurity Engineer / AI / Startup"
     ]
+  },
+  "sira consulting, an inc 5000 company": {
+    "name": "Sira Consulting, an Inc 5000 company",
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
+    ]
   }
 }
