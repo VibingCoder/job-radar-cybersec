@@ -280,7 +280,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-14",
-    "hit_count": 29,
+    "hit_count": 30,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1787,7 +1787,7 @@
     "name": "Cyber Defense Technologies",
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "hit_count": 17,
+    "hit_count": 20,
     "sample_titles": [
       "SME Penetration Tester",
       "Intermediate Penetration Tester",
@@ -1798,7 +1798,7 @@
     "name": "The E Group",
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cyber Security Analyst"
     ]
