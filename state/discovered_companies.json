@@ -280,7 +280,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-14",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1558,10 +1558,11 @@
   "whoop": {
     "name": "Whoop",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-05",
-    "hit_count": 1,
+    "last_seen": "2026-06-15",
+    "hit_count": 2,
     "sample_titles": [
-      "Security Analyst"
+      "Security Analyst",
+      "Security Engineer, IAM"
     ]
   },
   "trellix": {
@@ -1787,7 +1788,7 @@
     "name": "Cyber Defense Technologies",
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "hit_count": 23,
+    "hit_count": 26,
     "sample_titles": [
       "SME Penetration Tester",
       "Intermediate Penetration Tester",
