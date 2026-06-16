@@ -280,7 +280,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-14",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1341,10 +1341,11 @@
   "asana": {
     "name": "Asana",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "hit_count": 1,
+    "last_seen": "2026-06-16",
+    "hit_count": 2,
     "sample_titles": [
-      "Security Engineer, Threat Response"
+      "Security Engineer, Threat Response",
+      "Security Engineer (Threat Response)"
     ]
   },
   "oneleet": {
@@ -1788,7 +1789,7 @@
     "name": "Cyber Defense Technologies",
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "hit_count": 35,
+    "hit_count": 38,
     "sample_titles": [
       "SME Penetration Tester",
       "Intermediate Penetration Tester",
@@ -1826,7 +1827,7 @@
     "name": "Spry Methods",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
