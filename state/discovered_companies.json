@@ -1570,8 +1570,8 @@
   "trellix": {
     "name": "Trellix",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-17",
-    "hit_count": 10,
+    "last_seen": "2026-06-16",
+    "hit_count": 12,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android"
@@ -1791,7 +1791,7 @@
     "name": "Cyber Defense Technologies",
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "hit_count": 50,
+    "hit_count": 53,
     "sample_titles": [
       "SME Penetration Tester",
       "Intermediate Penetration Tester",
@@ -1829,7 +1829,7 @@
     "name": "Spry Methods",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
@@ -1847,7 +1847,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16",
-    "hit_count": 4,
+    "hit_count": 6,
     "sample_titles": [
       "Network Security Engineer, Infrastructure"
     ]
@@ -1856,7 +1856,7 @@
     "name": "Truist",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)"
     ]
@@ -1874,7 +1874,7 @@
     "name": "HarbourVest Partners",
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-17",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1883,7 +1883,7 @@
     "name": "ESRhealthcare and EXEC STAFF RECRUITERS",
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-17",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Product Security Engineer"
     ]
