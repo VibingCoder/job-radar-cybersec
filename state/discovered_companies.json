@@ -280,7 +280,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-14",
-    "hit_count": 38,
+    "hit_count": 39,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1789,7 +1789,7 @@
     "name": "Cyber Defense Technologies",
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "hit_count": 44,
+    "hit_count": 47,
     "sample_titles": [
       "SME Penetration Tester",
       "Intermediate Penetration Tester",
@@ -1827,9 +1827,36 @@
     "name": "Spry Methods",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Web Developer Security Engineer"
+    ]
+  },
+  "cyclotron": {
+    "name": "Cyclotron",
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "hit_count": 1,
+    "sample_titles": [
+      "Microsoft Security Engineer-Client Consulting"
+    ]
+  },
+  "meta": {
+    "name": "Meta",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16",
+    "hit_count": 2,
+    "sample_titles": [
+      "Network Security Engineer, Infrastructure"
+    ]
+  },
+  "truist": {
+    "name": "Truist",
+    "first_seen": "2026-06-16",
+    "last_seen": "2026-06-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer (AI Cloud Security)"
     ]
   }
 }
