@@ -1360,10 +1360,11 @@
   "carnegie mellon university": {
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-05-30",
-    "hit_count": 1,
+    "last_seen": "2026-06-17",
+    "hit_count": 2,
     "sample_titles": [
-      "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)"
+      "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
+      "Reverse Engineer Researcher"
     ]
   },
   "one step secure it": {
@@ -1569,10 +1570,11 @@
   "trellix": {
     "name": "Trellix",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-06",
-    "hit_count": 9,
+    "last_seen": "2026-06-17",
+    "hit_count": 10,
     "sample_titles": [
-      "Reverse Engineer Android"
+      "Reverse Engineer Android",
+      "Reverse Engineer- Android"
     ]
   },
   "overland ai": {
@@ -1789,7 +1791,7 @@
     "name": "Cyber Defense Technologies",
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "hit_count": 47,
+    "hit_count": 50,
     "sample_titles": [
       "SME Penetration Tester",
       "Intermediate Penetration Tester",
@@ -1827,7 +1829,7 @@
     "name": "Spry Methods",
     "first_seen": "2026-06-15",
     "last_seen": "2026-06-15",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
@@ -1845,7 +1847,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16",
-    "hit_count": 2,
+    "hit_count": 4,
     "sample_titles": [
       "Network Security Engineer, Infrastructure"
     ]
@@ -1857,6 +1859,33 @@
     "hit_count": 1,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)"
+    ]
+  },
+  "technologent": {
+    "name": "Technologent",
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "hit_count": 1,
+    "sample_titles": [
+      "Oracle Cloud Security Engineer"
+    ]
+  },
+  "harbourvest partners": {
+    "name": "HarbourVest Partners",
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
+    ]
+  },
+  "esrhealthcare and exec staff recruiters": {
+    "name": "ESRhealthcare and EXEC STAFF RECRUITERS",
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-17",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer"
     ]
   }
 }
