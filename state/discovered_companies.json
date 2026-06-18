@@ -1250,8 +1250,8 @@
   "best buy": {
     "name": "Best Buy",
     "first_seen": "2026-05-26",
-    "last_seen": "2026-05-26",
-    "hit_count": 13,
+    "last_seen": "2026-06-17",
+    "hit_count": 14,
     "sample_titles": [
       "Incident Response Specialist"
     ]
@@ -1470,8 +1470,8 @@
   "smartrent": {
     "name": "SmartRent",
     "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "hit_count": 3,
+    "last_seen": "2026-06-18",
+    "hit_count": 4,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1791,7 +1791,7 @@
     "name": "Cyber Defense Technologies",
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "hit_count": 62,
+    "hit_count": 65,
     "sample_titles": [
       "SME Penetration Tester",
       "Intermediate Penetration Tester",
@@ -1847,7 +1847,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-16",
-    "hit_count": 12,
+    "hit_count": 14,
     "sample_titles": [
       "Network Security Engineer, Infrastructure"
     ]
@@ -1901,9 +1901,18 @@
     "name": "U.S. Bank",
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-17",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "ohm systems, inc": {
+    "name": "Ohm Systems, Inc",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Web Developer Security Engineer - Public Trust Tier 2 clearance"
     ]
   }
 }
