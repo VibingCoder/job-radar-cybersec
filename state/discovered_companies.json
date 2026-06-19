@@ -1333,7 +1333,7 @@
     "name": "CHAOS Industries",
     "first_seen": "2026-05-29",
     "last_seen": "2026-06-19",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Cybersecurity Engineer, Product Security"
     ]
@@ -1791,7 +1791,7 @@
     "name": "Cyber Defense Technologies",
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "hit_count": 77,
+    "hit_count": 80,
     "sample_titles": [
       "SME Penetration Tester",
       "Intermediate Penetration Tester",
@@ -1919,7 +1919,7 @@
     "name": "CoreWeave",
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
@@ -1928,7 +1928,7 @@
     "name": "Quanata",
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer [Remote-US]"
     ]
