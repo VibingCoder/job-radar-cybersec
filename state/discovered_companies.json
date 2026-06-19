@@ -1332,8 +1332,8 @@
   "chaos industries": {
     "name": "CHAOS Industries",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-05-29",
-    "hit_count": 4,
+    "last_seen": "2026-06-19",
+    "hit_count": 5,
     "sample_titles": [
       "Cybersecurity Engineer, Product Security"
     ]
@@ -1791,7 +1791,7 @@
     "name": "Cyber Defense Technologies",
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "hit_count": 71,
+    "hit_count": 74,
     "sample_titles": [
       "SME Penetration Tester",
       "Intermediate Penetration Tester",
@@ -1913,6 +1913,24 @@
     "hit_count": 2,
     "sample_titles": [
       "Web Developer Security Engineer - Public Trust Tier 2 clearance"
+    ]
+  },
+  "coreweave": {
+    "name": "CoreWeave",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Offensive Security Engineer"
+    ]
+  },
+  "quanata": {
+    "name": "Quanata",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer [Remote-US]"
     ]
   }
 }
