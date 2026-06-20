@@ -732,7 +732,7 @@
     "name": "Robert Half",
     "first_seen": "2026-05-09",
     "last_seen": "2026-06-19",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cyber Security Engineer"
     ]
@@ -889,10 +889,11 @@
   "recruiting from scratch": {
     "name": "Recruiting From Scratch",
     "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "hit_count": 1,
+    "last_seen": "2026-06-20",
+    "hit_count": 2,
     "sample_titles": [
-      "Systems Security Engineer"
+      "Systems Security Engineer",
+      "Security Engineer"
     ]
   },
   "navitaspartners": {
@@ -1931,6 +1932,15 @@
     "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer [Remote-US]"
+    ]
+  },
+  "bosch": {
+    "name": "Bosch",
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Forensics and Incident Response Analyst"
     ]
   }
 }
