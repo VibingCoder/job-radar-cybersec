@@ -731,8 +731,8 @@
   "robert half": {
     "name": "Robert Half",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-05-09",
-    "hit_count": 1,
+    "last_seen": "2026-06-19",
+    "hit_count": 2,
     "sample_titles": [
       "Cyber Security Engineer"
     ]
@@ -1043,8 +1043,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-06-03",
-    "hit_count": 102,
+    "last_seen": "2026-06-19",
+    "hit_count": 103,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1919,7 +1919,7 @@
     "name": "CoreWeave",
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
