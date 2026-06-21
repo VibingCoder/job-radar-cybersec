@@ -1939,7 +1939,7 @@
     "name": "Bosch",
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-19",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Cybersecurity Forensics and Incident Response Analyst"
     ]
@@ -1969,6 +1969,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "jll": {
+    "name": "JLL",
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Security Engineer, Network Security Engineering"
     ]
   }
 }
