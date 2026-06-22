@@ -1975,7 +1975,7 @@
     "name": "JLL",
     "first_seen": "2026-06-21",
     "last_seen": "2026-06-21",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Information Security Engineer, Network Security Engineering"
     ]
@@ -1993,9 +1993,10 @@
     "name": "xAI",
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
-      "Security Engineer - Azure Government"
+      "Security Engineer - Azure Government",
+      "Application Security Engineer"
     ]
   },
   "id.me": {
