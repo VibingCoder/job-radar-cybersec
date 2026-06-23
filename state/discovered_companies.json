@@ -84,10 +84,12 @@
   "spacex": {
     "name": "SpaceX",
     "first_seen": "2026-04-24",
-    "last_seen": "2026-04-24",
-    "hit_count": 1,
+    "last_seen": "2026-06-23",
+    "hit_count": 3,
     "sample_titles": [
-      "Information Security Analyst"
+      "Information Security Analyst",
+      "Security Engineer (Embedded & Networking)",
+      "Security Engineer (Embedded OT)"
     ]
   },
   "little caesars": {
@@ -1151,7 +1153,7 @@
     "name": "Versana",
     "first_seen": "2026-05-21",
     "last_seen": "2026-06-23",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -2030,7 +2032,7 @@
     "name": "Essnova Solutions, Inc.",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Web Application Security Engineer (AppSec / DevSecOps)"
     ]
@@ -2042,6 +2044,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer II, Detection and Response"
+    ]
+  },
+  "lockheed martin corporation": {
+    "name": "Lockheed Martin Corporation",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber System Security Engineer - Early Career"
+    ]
+  },
+  "figure": {
+    "name": "Figure",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Application Security"
     ]
   }
 }
