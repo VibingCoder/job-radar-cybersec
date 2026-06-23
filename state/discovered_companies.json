@@ -1975,7 +1975,7 @@
     "name": "JLL",
     "first_seen": "2026-06-21",
     "last_seen": "2026-06-21",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Information Security Engineer, Network Security Engineering"
     ]
@@ -1993,7 +1993,7 @@
     "name": "xAI",
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Security Engineer - Azure Government",
       "Application Security Engineer"
@@ -2015,6 +2015,15 @@
     "hit_count": 1,
     "sample_titles": [
       "CIS Baseline & Server Image Security Engineer"
+    ]
+  },
+  "next gen it inc": {
+    "name": "Next Gen IT Inc",
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "Infrastructure Security Engineer (HSM)"
     ]
   }
 }
