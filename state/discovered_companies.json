@@ -1923,7 +1923,7 @@
     "name": "CoreWeave",
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-22",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
@@ -2032,7 +2032,7 @@
     "name": "Essnova Solutions, Inc.",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Web Application Security Engineer (AppSec / DevSecOps)"
     ]
@@ -2059,7 +2059,7 @@
     "name": "Figure",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer, Application Security"
     ]
@@ -2068,9 +2068,18 @@
     "name": "Opendoor",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "minimed": {
+    "name": "MiniMed",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Product Cybersecurity Engineer"
     ]
   }
 }
