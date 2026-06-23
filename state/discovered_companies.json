@@ -1150,8 +1150,8 @@
   "versana": {
     "name": "Versana",
     "first_seen": "2026-05-21",
-    "last_seen": "2026-05-21",
-    "hit_count": 3,
+    "last_seen": "2026-06-23",
+    "hit_count": 4,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1975,7 +1975,7 @@
     "name": "JLL",
     "first_seen": "2026-06-21",
     "last_seen": "2026-06-21",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Information Security Engineer, Network Security Engineering"
     ]
@@ -2024,6 +2024,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Infrastructure Security Engineer (HSM)"
+    ]
+  },
+  "essnova solutions, inc.": {
+    "name": "Essnova Solutions, Inc.",
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Web Application Security Engineer (AppSec / DevSecOps)"
     ]
   }
 }
