@@ -344,10 +344,11 @@
   "teksystems": {
     "name": "TEKsystems",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-04-29",
-    "hit_count": 7,
+    "last_seen": "2026-06-24",
+    "hit_count": 8,
     "sample_titles": [
-      "Security Engineer"
+      "Security Engineer",
+      "Security Analyst/Engineer"
     ]
   },
   "first american payments systems": {
@@ -2107,7 +2108,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
@@ -2125,7 +2126,7 @@
     "name": "Nationwide IT Service, Inc.",
     "first_seen": "2026-06-24",
     "last_seen": "2026-06-24",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Web Developer Security Engineer with Security Clearance"
     ]
@@ -2134,7 +2135,7 @@
     "name": "USA-Medtronic MiniMed 1017",
     "first_seen": "2026-06-24",
     "last_seen": "2026-06-24",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Cloud Product Cybersecurity Engineer"
     ]
