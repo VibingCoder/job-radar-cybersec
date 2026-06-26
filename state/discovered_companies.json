@@ -281,13 +281,14 @@
   "bank of america": {
     "name": "Bank of America",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-06-14",
-    "hit_count": 39,
+    "last_seen": "2026-06-26",
+    "hit_count": 40,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
       "Endpoint Security Engineer",
-      "Manual Ethical Hacker"
+      "Manual Ethical Hacker",
+      "Threat Hunter"
     ]
   },
   "amazon": {
@@ -1198,11 +1199,12 @@
   "mercor": {
     "name": "Mercor",
     "first_seen": "2026-05-23",
-    "last_seen": "2026-06-03",
-    "hit_count": 6,
+    "last_seen": "2026-06-26",
+    "hit_count": 7,
     "sample_titles": [
       "Cyber Security Engineer",
-      "Penetration Tester"
+      "Penetration Tester",
+      "Security Engineer, Application Security"
     ]
   },
   "impinj": {
@@ -1988,7 +1990,7 @@
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
     "last_seen": "2026-06-26",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
       "Security Engineer \u2013 Identity Governance & Administration (IGA)"
@@ -2110,7 +2112,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 32,
+    "hit_count": 35,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -2183,7 +2185,7 @@
     "name": "Maximus, Inc.",
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-25",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cyber Security Engineer"
     ]
@@ -2192,7 +2194,7 @@
     "name": "ISC2",
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-25",
-    "hit_count": 7,
+    "hit_count": 11,
     "sample_titles": [
       "AI Security Engineer"
     ]
@@ -2201,7 +2203,7 @@
     "name": "Maximus Inc",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Cyber Security Engineer with Security Clearance"
     ]
