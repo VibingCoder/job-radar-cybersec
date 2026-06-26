@@ -2108,7 +2108,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 24,
+    "hit_count": 26,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -2127,7 +2127,7 @@
     "name": "Nationwide IT Service, Inc.",
     "first_seen": "2026-06-24",
     "last_seen": "2026-06-24",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Web Developer Security Engineer with Security Clearance"
     ]
@@ -2166,6 +2166,33 @@
     "hit_count": 1,
     "sample_titles": [
       "Cybersecurity Engineer"
+    ]
+  },
+  "duetti": {
+    "name": "Duetti",
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "hit_count": 1,
+    "sample_titles": [
+      "IT & EP Security Engineer"
+    ]
+  },
+  "maximus, inc.": {
+    "name": "Maximus, Inc.",
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
+    ]
+  },
+  "isc2": {
+    "name": "ISC2",
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-06-25",
+    "hit_count": 3,
+    "sample_titles": [
+      "AI Security Engineer"
     ]
   }
 }
