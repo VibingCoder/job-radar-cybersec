@@ -1988,7 +1988,7 @@
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
     "last_seen": "2026-06-26",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
       "Security Engineer \u2013 Identity Governance & Administration (IGA)"
@@ -2110,7 +2110,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 29,
+    "hit_count": 32,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -2183,7 +2183,7 @@
     "name": "Maximus, Inc.",
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-25",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Cyber Security Engineer"
     ]
@@ -2192,9 +2192,18 @@
     "name": "ISC2",
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-25",
-    "hit_count": 3,
+    "hit_count": 7,
     "sample_titles": [
       "AI Security Engineer"
+    ]
+  },
+  "maximus inc": {
+    "name": "Maximus Inc",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer with Security Clearance"
     ]
   }
 }
