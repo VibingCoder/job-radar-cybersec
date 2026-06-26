@@ -1950,10 +1950,11 @@
   "leidos": {
     "name": "Leidos",
     "first_seen": "2026-06-20",
-    "last_seen": "2026-06-20",
-    "hit_count": 2,
+    "last_seen": "2026-06-26",
+    "hit_count": 3,
     "sample_titles": [
-      "Information Systems Security Engineer"
+      "Information Systems Security Engineer",
+      "IT Security Engineer"
     ]
   },
   "staffright associates, llc": {
@@ -1986,10 +1987,11 @@
   "truist bank": {
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-06-21",
-    "hit_count": 5,
+    "last_seen": "2026-06-26",
+    "hit_count": 6,
     "sample_titles": [
-      "Cyber Security Third Party SOC and Threat Hunting Analyst"
+      "Cyber Security Third Party SOC and Threat Hunting Analyst",
+      "Security Engineer \u2013 Identity Governance & Administration (IGA)"
     ]
   },
   "xai": {
@@ -2108,7 +2110,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 26,
+    "hit_count": 29,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
