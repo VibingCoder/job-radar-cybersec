@@ -282,7 +282,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 41,
+    "hit_count": 42,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1200,7 +1200,7 @@
     "name": "Mercor",
     "first_seen": "2026-05-23",
     "last_seen": "2026-06-26",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Cyber Security Engineer",
       "Penetration Tester",
@@ -1990,7 +1990,7 @@
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
     "last_seen": "2026-06-26",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
       "Security Engineer \u2013 Identity Governance & Administration (IGA)"
@@ -2112,7 +2112,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 38,
+    "hit_count": 40,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -2185,7 +2185,7 @@
     "name": "Maximus, Inc.",
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-25",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Cyber Security Engineer"
     ]
@@ -2194,7 +2194,7 @@
     "name": "ISC2",
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-25",
-    "hit_count": 15,
+    "hit_count": 18,
     "sample_titles": [
       "AI Security Engineer"
     ]
@@ -2203,9 +2203,18 @@
     "name": "Maximus Inc",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Cyber Security Engineer with Security Clearance"
+    ]
+  },
+  "omm it solutions": {
+    "name": "Omm IT Solutions",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "hit_count": 1,
+    "sample_titles": [
+      "Web Developer Security Engineer (AppSec / DevSecOps)"
     ]
   }
 }
