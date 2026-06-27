@@ -282,7 +282,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 44,
+    "hit_count": 47,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1200,7 +1200,7 @@
     "name": "Mercor",
     "first_seen": "2026-05-23",
     "last_seen": "2026-06-26",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Cyber Security Engineer",
       "Penetration Tester",
@@ -2112,7 +2112,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 44,
+    "hit_count": 46,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -2203,7 +2203,7 @@
     "name": "Maximus Inc",
     "first_seen": "2026-06-26",
     "last_seen": "2026-06-26",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Cyber Security Engineer with Security Clearance"
     ]
@@ -2215,6 +2215,15 @@
     "hit_count": 3,
     "sample_titles": [
       "Web Developer Security Engineer (AppSec / DevSecOps)"
+    ]
+  },
+  "hinshaw & culbertson": {
+    "name": "Hinshaw & Culbertson",
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Security Analyst"
     ]
   }
 }
