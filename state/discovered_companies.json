@@ -282,7 +282,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 61,
+    "hit_count": 63,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -295,7 +295,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-06-27",
-    "hit_count": 64,
+    "hit_count": 65,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1200,7 +1200,7 @@
     "name": "Mercor",
     "first_seen": "2026-05-23",
     "last_seen": "2026-06-26",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Cyber Security Engineer",
       "Penetration Tester",
@@ -2112,7 +2112,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-06-23",
-    "hit_count": 60,
+    "hit_count": 62,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -2230,7 +2230,7 @@
     "name": "Infosys",
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-27",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "DevSecOps Application Security Engineer"
     ]
@@ -2239,7 +2239,7 @@
     "name": "Kyndryl",
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-27",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Security Engineer/Analyst"
     ]
