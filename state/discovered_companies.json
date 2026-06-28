@@ -283,7 +283,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 88,
+    "hit_count": 93,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -296,7 +296,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-06-27",
-    "hit_count": 70,
+    "hit_count": 71,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1578,7 +1578,7 @@
     "name": "Trellix",
     "first_seen": "2026-06-05",
     "last_seen": "2026-06-27",
-    "hit_count": 27,
+    "hit_count": 29,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android",
@@ -1625,7 +1625,7 @@
     "name": "Maximus",
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-28",
-    "hit_count": 7,
+    "hit_count": 9,
     "sample_titles": [
       "Junior Security Engineer"
     ]
@@ -1864,7 +1864,7 @@
     "name": "Truist",
     "first_seen": "2026-06-16",
     "last_seen": "2026-06-27",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)"
@@ -2242,7 +2242,7 @@
     "name": "Kyndryl",
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-27",
-    "hit_count": 17,
+    "hit_count": 19,
     "sample_titles": [
       "Security Engineer/Analyst"
     ]
