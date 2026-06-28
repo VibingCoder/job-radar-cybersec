@@ -84,12 +84,13 @@
   "spacex": {
     "name": "SpaceX",
     "first_seen": "2026-04-24",
-    "last_seen": "2026-06-23",
-    "hit_count": 3,
+    "last_seen": "2026-06-27",
+    "hit_count": 4,
     "sample_titles": [
       "Information Security Analyst",
       "Security Engineer (Embedded & Networking)",
-      "Security Engineer (Embedded OT)"
+      "Security Engineer (Embedded OT)",
+      "Security Engineer (Blue Team)"
     ]
   },
   "little caesars": {
@@ -282,7 +283,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 63,
+    "hit_count": 68,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -295,7 +296,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-06-27",
-    "hit_count": 65,
+    "hit_count": 66,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1576,11 +1577,12 @@
   "trellix": {
     "name": "Trellix",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-17",
-    "hit_count": 14,
+    "last_seen": "2026-06-27",
+    "hit_count": 17,
     "sample_titles": [
       "Reverse Engineer Android",
-      "Reverse Engineer- Android"
+      "Reverse Engineer- Android",
+      "Reverse Engineer - Android"
     ]
   },
   "overland ai": {
@@ -1861,10 +1863,11 @@
   "truist": {
     "name": "Truist",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-06-16",
-    "hit_count": 2,
+    "last_seen": "2026-06-27",
+    "hit_count": 3,
     "sample_titles": [
-      "Cybersecurity Engineer (AI Cloud Security)"
+      "Cybersecurity Engineer (AI Cloud Security)",
+      "Security Engineer - Identity Governance & Administration (IGA)"
     ]
   },
   "technologent": {
@@ -2111,8 +2114,8 @@
   "nationwide it services": {
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "hit_count": 62,
+    "last_seen": "2026-06-25",
+    "hit_count": 63,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -2239,7 +2242,7 @@
     "name": "Kyndryl",
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-27",
-    "hit_count": 7,
+    "hit_count": 9,
     "sample_titles": [
       "Security Engineer/Analyst"
     ]
@@ -2251,6 +2254,15 @@
     "hit_count": 1,
     "sample_titles": [
       "API & Security Engineer"
+    ]
+  },
+  "turo": {
+    "name": "Turo",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Enterprise Security"
     ]
   }
 }
