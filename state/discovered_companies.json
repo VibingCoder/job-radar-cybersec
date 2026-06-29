@@ -283,7 +283,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 108,
+    "hit_count": 112,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -2196,10 +2196,11 @@
   "isc2": {
     "name": "ISC2",
     "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "hit_count": 22,
+    "last_seen": "2026-06-28",
+    "hit_count": 25,
     "sample_titles": [
-      "AI Security Engineer"
+      "AI Security Engineer",
+      "Security Engineer, Penetration Testing"
     ]
   },
   "maximus inc": {
