@@ -283,7 +283,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 112,
+    "hit_count": 117,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1892,8 +1892,8 @@
   "esrhealthcare and exec staff recruiters": {
     "name": "ESRhealthcare and EXEC STAFF RECRUITERS",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "hit_count": 4,
+    "last_seen": "2026-06-29",
+    "hit_count": 5,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -2197,7 +2197,7 @@
     "name": "ISC2",
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-28",
-    "hit_count": 25,
+    "hit_count": 30,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer, Penetration Testing"
@@ -2273,6 +2273,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "lancesoft inc": {
+    "name": "Lancesoft INC",
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-06-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information System Security Engineer"
     ]
   }
 }
