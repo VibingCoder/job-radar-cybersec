@@ -283,7 +283,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 147,
+    "hit_count": 152,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1050,7 +1050,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-06-29",
-    "hit_count": 105,
+    "hit_count": 106,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1496,7 +1496,7 @@
     "name": "Staris AI",
     "first_seen": "2026-06-03",
     "last_seen": "2026-06-30",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
@@ -2197,7 +2197,7 @@
     "name": "ISC2",
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-28",
-    "hit_count": 60,
+    "hit_count": 65,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer, Penetration Testing"
