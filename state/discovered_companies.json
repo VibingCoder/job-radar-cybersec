@@ -283,7 +283,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 157,
+    "hit_count": 162,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1050,7 +1050,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-06-29",
-    "hit_count": 107,
+    "hit_count": 108,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1220,8 +1220,8 @@
   "k2 group, inc.": {
     "name": "K2 Group, Inc.",
     "first_seen": "2026-05-25",
-    "last_seen": "2026-05-25",
-    "hit_count": 1,
+    "last_seen": "2026-06-30",
+    "hit_count": 2,
     "sample_titles": [
       "Acquisition Security Analyst (ASA) II"
     ]
@@ -2197,7 +2197,7 @@
     "name": "ISC2",
     "first_seen": "2026-06-25",
     "last_seen": "2026-06-28",
-    "hit_count": 70,
+    "hit_count": 74,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer, Penetration Testing"
@@ -2300,6 +2300,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Infrastructure Security Engineer - Chicago, IL"
+    ]
+  },
+  "promantis inc": {
+    "name": "Promantis Inc",
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer OCI & SaaS Security"
     ]
   }
 }
