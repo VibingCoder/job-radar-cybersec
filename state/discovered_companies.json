@@ -283,7 +283,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 192,
+    "hit_count": 197,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -366,7 +366,7 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-07-01",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Application Security Engineer",
       "IT Security Engineer (Law Firm)",
@@ -1050,7 +1050,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-06-29",
-    "hit_count": 117,
+    "hit_count": 119,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1902,7 +1902,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-01",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2324,7 +2324,7 @@
     "name": "InquisIT",
     "first_seen": "2026-06-30",
     "last_seen": "2026-06-30",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Threat Detection and Vulnerability Managment Cybersecurity Engineer"
     ]
@@ -2333,7 +2333,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
