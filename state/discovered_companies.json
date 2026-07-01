@@ -283,7 +283,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-26",
-    "hit_count": 172,
+    "hit_count": 177,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1050,7 +1050,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-06-29",
-    "hit_count": 110,
+    "hit_count": 111,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2318,6 +2318,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cybersecurity Engineer"
+    ]
+  },
+  "inquisit": {
+    "name": "InquisIT",
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Threat Detection and Vulnerability Managment Cybersecurity Engineer"
     ]
   }
 }
