@@ -283,7 +283,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-27",
-    "hit_count": 213,
+    "hit_count": 216,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -296,7 +296,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-07-02",
-    "hit_count": 76,
+    "hit_count": 77,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -877,7 +877,7 @@
     "name": "Laserfiche",
     "first_seen": "2026-05-13",
     "last_seen": "2026-07-02",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Information Security Analyst I",
       "Application Security Engineer"
@@ -1051,7 +1051,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-06-29",
-    "hit_count": 127,
+    "hit_count": 129,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1129,7 +1129,7 @@
     "name": "Regions Bank",
     "first_seen": "2026-05-20",
     "last_seen": "2026-07-01",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Cyber Security Engineer",
       "Application Security Engineer"
@@ -2335,7 +2335,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
@@ -2347,6 +2347,33 @@
     "hit_count": 1,
     "sample_titles": [
       "Cloud Security Engineer"
+    ]
+  },
+  "acuity": {
+    "name": "Acuity",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "voya financial": {
+    "name": "Voya Financial",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "IT Security Consultant - Web Security"
+    ]
+  },
+  "nooks": {
+    "name": "Nooks",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
