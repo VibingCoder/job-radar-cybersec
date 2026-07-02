@@ -283,7 +283,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-06-27",
-    "hit_count": 210,
+    "hit_count": 213,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -295,8 +295,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-06-27",
-    "hit_count": 74,
+    "last_seen": "2026-07-02",
+    "hit_count": 76,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -876,10 +876,11 @@
   "laserfiche": {
     "name": "Laserfiche",
     "first_seen": "2026-05-13",
-    "last_seen": "2026-05-13",
-    "hit_count": 1,
+    "last_seen": "2026-07-02",
+    "hit_count": 2,
     "sample_titles": [
-      "Information Security Analyst I"
+      "Information Security Analyst I",
+      "Application Security Engineer"
     ]
   },
   "k-tek resourcing llc": {
@@ -1050,7 +1051,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-06-29",
-    "hit_count": 125,
+    "hit_count": 127,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1128,7 +1129,7 @@
     "name": "Regions Bank",
     "first_seen": "2026-05-20",
     "last_seen": "2026-07-01",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Cyber Security Engineer",
       "Application Security Engineer"
@@ -2334,7 +2335,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
