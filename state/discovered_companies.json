@@ -1051,7 +1051,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-01",
-    "hit_count": 140,
+    "hit_count": 141,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2335,7 +2335,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
@@ -2374,6 +2374,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "onpoint credit union": {
+    "name": "OnPoint Credit Union",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Security Engineer II"
     ]
   }
 }
