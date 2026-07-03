@@ -1050,8 +1050,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-06-29",
-    "hit_count": 139,
+    "last_seen": "2026-07-01",
+    "hit_count": 140,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2335,7 +2335,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
