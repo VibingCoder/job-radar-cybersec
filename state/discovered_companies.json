@@ -295,8 +295,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-07-02",
-    "hit_count": 82,
+    "last_seen": "2026-07-04",
+    "hit_count": 83,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1051,7 +1051,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-01",
-    "hit_count": 149,
+    "hit_count": 150,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2335,7 +2335,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
@@ -2398,7 +2398,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Penetration Tester"
     ]
