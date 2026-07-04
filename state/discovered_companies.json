@@ -1051,7 +1051,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-01",
-    "hit_count": 153,
+    "hit_count": 154,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1342,7 +1342,7 @@
     "name": "CHAOS Industries",
     "first_seen": "2026-05-29",
     "last_seen": "2026-07-04",
-    "hit_count": 15,
+    "hit_count": 17,
     "sample_titles": [
       "Cybersecurity Engineer, Product Security"
     ]
@@ -1903,8 +1903,8 @@
   "bc forward": {
     "name": "BC Forward",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-03",
-    "hit_count": 18,
+    "last_seen": "2026-07-04",
+    "hit_count": 19,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2335,7 +2335,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
@@ -2398,7 +2398,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2416,7 +2416,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Penetration Tester"
     ]
