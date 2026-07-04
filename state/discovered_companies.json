@@ -1051,7 +1051,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-01",
-    "hit_count": 150,
+    "hit_count": 151,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1341,8 +1341,8 @@
   "chaos industries": {
     "name": "CHAOS Industries",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-06-19",
-    "hit_count": 9,
+    "last_seen": "2026-07-04",
+    "hit_count": 11,
     "sample_titles": [
       "Cybersecurity Engineer, Product Security"
     ]
@@ -2335,7 +2335,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
@@ -2398,7 +2398,25 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 3,
+    "hit_count": 4,
+    "sample_titles": [
+      "Penetration Tester"
+    ]
+  },
+  "zscaler": {
+    "name": "Zscaler",
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Security Engineer (Data Security)"
+    ]
+  },
+  "accenture federal services": {
+    "name": "Accenture Federal Services",
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "hit_count": 1,
     "sample_titles": [
       "Penetration Tester"
     ]
