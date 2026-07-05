@@ -1342,7 +1342,7 @@
     "name": "CHAOS Industries",
     "first_seen": "2026-05-29",
     "last_seen": "2026-07-04",
-    "hit_count": 23,
+    "hit_count": 25,
     "sample_titles": [
       "Cybersecurity Engineer, Product Security"
     ]
@@ -1904,7 +1904,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-04",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2335,7 +2335,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 32,
+    "hit_count": 33,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
@@ -2398,7 +2398,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2416,7 +2416,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2425,9 +2425,27 @@
     "name": "East West Bank",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Cloud Security Engineer"
+    ]
+  },
+  "greenstone meats": {
+    "name": "Greenstone Meats",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "hit_count": 1,
+    "sample_titles": [
+      "IT Security Analyst"
+    ]
+  },
+  "obsidian security": {
+    "name": "Obsidian Security",
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "hit_count": 1,
+    "sample_titles": [
+      "AI Security Engineer"
     ]
   }
 }
