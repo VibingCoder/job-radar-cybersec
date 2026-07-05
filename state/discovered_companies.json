@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-04",
-    "hit_count": 47,
+    "hit_count": 48,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1342,7 +1342,7 @@
     "name": "CHAOS Industries",
     "first_seen": "2026-05-29",
     "last_seen": "2026-07-04",
-    "hit_count": 21,
+    "hit_count": 23,
     "sample_titles": [
       "Cybersecurity Engineer, Product Security"
     ]
@@ -1904,7 +1904,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-04",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2335,7 +2335,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
@@ -2398,7 +2398,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2416,9 +2416,18 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Penetration Tester"
+    ]
+  },
+  "east west bank": {
+    "name": "East West Bank",
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer"
     ]
   }
 }
