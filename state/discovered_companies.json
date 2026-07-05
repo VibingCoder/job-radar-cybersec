@@ -1342,7 +1342,7 @@
     "name": "CHAOS Industries",
     "first_seen": "2026-05-29",
     "last_seen": "2026-07-04",
-    "hit_count": 31,
+    "hit_count": 33,
     "sample_titles": [
       "Cybersecurity Engineer, Product Security"
     ]
@@ -2335,7 +2335,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-01",
-    "hit_count": 36,
+    "hit_count": 37,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
@@ -2398,7 +2398,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2416,7 +2416,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2424,8 +2424,8 @@
   "east west bank": {
     "name": "East West Bank",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-04",
-    "hit_count": 2,
+    "last_seen": "2026-07-05",
+    "hit_count": 3,
     "sample_titles": [
       "Cloud Security Engineer"
     ]
