@@ -1098,8 +1098,8 @@
   "electronic consulting services, inc": {
     "name": "Electronic Consulting Services, Inc",
     "first_seen": "2026-05-20",
-    "last_seen": "2026-05-20",
-    "hit_count": 4,
+    "last_seen": "2026-07-06",
+    "hit_count": 5,
     "sample_titles": [
       "SOC Threat Hunter",
       "SIEM Infrastructure and Detection Engineer",
@@ -2380,7 +2380,7 @@
     "name": "OnPoint Credit Union",
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-05",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Information Security Engineer II"
     ]
@@ -2398,7 +2398,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2416,7 +2416,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2470,7 +2470,7 @@
     "name": "AgileEngine",
     "first_seen": "2026-07-06",
     "last_seen": "2026-07-06",
-    "hit_count": 13,
+    "hit_count": 18,
     "sample_titles": [
       "AppSec Engineer ID71671"
     ]
