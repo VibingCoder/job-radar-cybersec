@@ -2398,7 +2398,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2416,7 +2416,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2506,7 +2506,7 @@
     "name": "DMS Vision Inc",
     "first_seen": "2026-07-07",
     "last_seen": "2026-07-07",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer (Hybrid) :: Houston, TX (Local Only)"
     ]
@@ -2515,9 +2515,18 @@
     "name": "NetSPI LLC",
     "first_seen": "2026-07-08",
     "last_seen": "2026-07-08",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
+    ]
+  },
+  "microtechnologies": {
+    "name": "MicroTechnologies",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer"
     ]
   }
 }
