@@ -1904,7 +1904,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-07",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2380,7 +2380,7 @@
     "name": "OnPoint Credit Union",
     "first_seen": "2026-07-02",
     "last_seen": "2026-07-05",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Information Security Engineer II"
     ]
@@ -2398,7 +2398,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2416,7 +2416,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2497,9 +2497,18 @@
     "name": "Computer Technologies Consultants, Inc.",
     "first_seen": "2026-07-07",
     "last_seen": "2026-07-07",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cybersecurity Engineer - 3629948 with Security Clearance"
+    ]
+  },
+  "dms vision inc": {
+    "name": "DMS Vision Inc",
+    "first_seen": "2026-07-07",
+    "last_seen": "2026-07-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer (Hybrid) :: Houston, TX (Local Only)"
     ]
   }
 }
