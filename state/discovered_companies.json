@@ -2398,7 +2398,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 34,
+    "hit_count": 35,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2416,7 +2416,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2506,7 +2506,7 @@
     "name": "DMS Vision Inc",
     "first_seen": "2026-07-07",
     "last_seen": "2026-07-07",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Application Security Engineer (Hybrid) :: Houston, TX (Local Only)"
     ]
@@ -2515,7 +2515,7 @@
     "name": "NetSPI LLC",
     "first_seen": "2026-07-08",
     "last_seen": "2026-07-08",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)"
     ]
@@ -2527,6 +2527,33 @@
     "hit_count": 1,
     "sample_titles": [
       "Cybersecurity Engineer"
+    ]
+  },
+  "the ceres group": {
+    "name": "The Ceres Group",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Analyst"
+    ]
+  },
+  "studyfetch": {
+    "name": "StudyFetch",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "DevOps & Security Engineer"
+    ]
+  },
+  "ctc": {
+    "name": "CTC",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer - 3629948"
     ]
   }
 }
