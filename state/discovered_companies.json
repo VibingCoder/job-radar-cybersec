@@ -1213,8 +1213,8 @@
   "impinj": {
     "name": "Impinj",
     "first_seen": "2026-05-24",
-    "last_seen": "2026-05-30",
-    "hit_count": 2,
+    "last_seen": "2026-07-08",
+    "hit_count": 3,
     "sample_titles": [
       "Information Security Engineer"
     ]
@@ -2398,7 +2398,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-07-03",
-    "hit_count": 32,
+    "hit_count": 33,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2416,7 +2416,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 29,
+    "hit_count": 30,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2497,7 +2497,7 @@
     "name": "Computer Technologies Consultants, Inc.",
     "first_seen": "2026-07-07",
     "last_seen": "2026-07-07",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Cybersecurity Engineer - 3629948 with Security Clearance"
     ]
@@ -2506,9 +2506,18 @@
     "name": "DMS Vision Inc",
     "first_seen": "2026-07-07",
     "last_seen": "2026-07-07",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer (Hybrid) :: Houston, TX (Local Only)"
+    ]
+  },
+  "netspi llc": {
+    "name": "NetSPI LLC",
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Consultant II (Web Application Penetration Tester)"
     ]
   }
 }
