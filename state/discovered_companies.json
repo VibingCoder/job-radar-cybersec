@@ -1905,7 +1905,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-09",
-    "hit_count": 34,
+    "hit_count": 35,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2417,7 +2417,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -2555,6 +2555,15 @@
     "hit_count": 6,
     "sample_titles": [
       "Cybersecurity Engineer - 3629948"
+    ]
+  },
+  "logicplanet, inc.": {
+    "name": "Logicplanet, Inc.",
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "hit_count": 1,
+    "sample_titles": [
+      "Data Security Engineer(Cohesity, PKI/Venafi, Azure Security)"
     ]
   }
 }
