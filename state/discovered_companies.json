@@ -1369,11 +1369,12 @@
   "carnegie mellon university": {
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-06-17",
-    "hit_count": 2,
+    "last_seen": "2026-07-09",
+    "hit_count": 3,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
-      "Reverse Engineer Researcher"
+      "Reverse Engineer Researcher",
+      "Network Security Researcher"
     ]
   },
   "one step secure it": {
@@ -1903,8 +1904,8 @@
   "bc forward": {
     "name": "BC Forward",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-07",
-    "hit_count": 32,
+    "last_seen": "2026-07-09",
+    "hit_count": 33,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2416,7 +2417,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-07-04",
-    "hit_count": 37,
+    "hit_count": 38,
     "sample_titles": [
       "Penetration Tester"
     ]
