@@ -282,8 +282,8 @@
   "bank of america": {
     "name": "Bank of America",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-07-08",
-    "hit_count": 232,
+    "last_seen": "2026-07-10",
+    "hit_count": 233,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-10",
-    "hit_count": 54,
+    "hit_count": 55,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -746,7 +746,7 @@
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
     "last_seen": "2026-07-10",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -1905,7 +1905,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-10",
-    "hit_count": 40,
+    "hit_count": 41,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
