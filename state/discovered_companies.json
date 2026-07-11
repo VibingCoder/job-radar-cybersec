@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-10",
-    "hit_count": 57,
+    "hit_count": 58,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2588,9 +2588,18 @@
     "name": "Harvey",
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-11",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Detection & Response Security Engineer"
+    ]
+  },
+  "samsung": {
+    "name": "Samsung",
+    "first_seen": "2026-07-11",
+    "last_seen": "2026-07-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
     ]
   }
 }
