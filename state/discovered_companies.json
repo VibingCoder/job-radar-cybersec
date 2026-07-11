@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-10",
-    "hit_count": 62,
+    "hit_count": 63,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1904,8 +1904,8 @@
   "bc forward": {
     "name": "BC Forward",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-10",
-    "hit_count": 42,
+    "last_seen": "2026-07-11",
+    "hit_count": 43,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2588,7 +2588,7 @@
     "name": "Harvey",
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-11",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Detection & Response Security Engineer"
     ]
