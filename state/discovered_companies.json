@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-10",
-    "hit_count": 55,
+    "hit_count": 56,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1905,7 +1905,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-10",
-    "hit_count": 41,
+    "hit_count": 42,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2573,6 +2573,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Cyber Security Analyst II"
+    ]
+  },
+  "lucid software": {
+    "name": "Lucid Software",
+    "first_seen": "2026-07-11",
+    "last_seen": "2026-07-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Analyst II"
+    ]
+  },
+  "harvey": {
+    "name": "Harvey",
+    "first_seen": "2026-07-11",
+    "last_seen": "2026-07-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Detection & Response Security Engineer"
     ]
   }
 }
