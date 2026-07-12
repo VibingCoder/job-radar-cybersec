@@ -1905,7 +1905,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-11",
-    "hit_count": 44,
+    "hit_count": 45,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2588,7 +2588,7 @@
     "name": "Harvey",
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-11",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Detection & Response Security Engineer"
     ]
@@ -2600,6 +2600,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cyber Security Engineer"
+    ]
+  },
+  "relx inc": {
+    "name": "RELX INC",
+    "first_seen": "2026-07-11",
+    "last_seen": "2026-07-11",
+    "hit_count": 2,
+    "sample_titles": [
+      "Security Assurance Penetration Tester"
     ]
   }
 }
