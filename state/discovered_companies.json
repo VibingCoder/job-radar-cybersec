@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-11",
-    "hit_count": 70,
+    "hit_count": 71,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2606,7 +2606,7 @@
     "name": "RELX INC",
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-11",
-    "hit_count": 14,
+    "hit_count": 16,
     "sample_titles": [
       "Security Assurance Penetration Tester"
     ]
@@ -2615,9 +2615,19 @@
     "name": "ModernaTX",
     "first_seen": "2026-07-12",
     "last_seen": "2026-07-12",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "API Security Engineer"
+    ]
+  },
+  "check point software technologies": {
+    "name": "Check Point Software Technologies",
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "hit_count": 3,
+    "sample_titles": [
+      "Security Engineer",
+      "Security Engineer, Channel Sales"
     ]
   }
 }
