@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-11",
-    "hit_count": 75,
+    "hit_count": 76,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2606,7 +2606,7 @@
     "name": "RELX INC",
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-11",
-    "hit_count": 24,
+    "hit_count": 26,
     "sample_titles": [
       "Security Assurance Penetration Tester"
     ]
@@ -2615,7 +2615,7 @@
     "name": "ModernaTX",
     "first_seen": "2026-07-12",
     "last_seen": "2026-07-12",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "API Security Engineer"
     ]
