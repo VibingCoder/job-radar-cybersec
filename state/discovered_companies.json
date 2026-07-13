@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-11",
-    "hit_count": 79,
+    "hit_count": 80,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1905,7 +1905,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-13",
-    "hit_count": 51,
+    "hit_count": 52,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2606,7 +2606,7 @@
     "name": "RELX INC",
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-11",
-    "hit_count": 32,
+    "hit_count": 34,
     "sample_titles": [
       "Security Assurance Penetration Tester"
     ]
@@ -2637,6 +2637,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer - OpenSSL or MPC- Blockchain nodes/APIs - Intel SGX"
+    ]
+  },
+  "midasis technologies llc": {
+    "name": "Midasis Technologies LLC",
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer / North Phoenix, Arizona (Hybrid ONLY LOCALS)"
     ]
   }
 }
