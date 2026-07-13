@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-11",
-    "hit_count": 73,
+    "hit_count": 74,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1905,7 +1905,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-12",
-    "hit_count": 47,
+    "hit_count": 48,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2606,7 +2606,7 @@
     "name": "RELX INC",
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-11",
-    "hit_count": 20,
+    "hit_count": 22,
     "sample_titles": [
       "Security Assurance Penetration Tester"
     ]
@@ -2615,7 +2615,7 @@
     "name": "ModernaTX",
     "first_seen": "2026-07-12",
     "last_seen": "2026-07-12",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "API Security Engineer"
     ]
