@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-11",
-    "hit_count": 83,
+    "hit_count": 84,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2606,7 +2606,7 @@
     "name": "RELX INC",
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-11",
-    "hit_count": 40,
+    "hit_count": 42,
     "sample_titles": [
       "Security Assurance Penetration Tester"
     ]
@@ -2646,6 +2646,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cloud Security Engineer / North Phoenix, Arizona (Hybrid ONLY LOCALS)"
+    ]
+  },
+  "coalfire federal": {
+    "name": "Coalfire Federal",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information System Security Engineer (ISSE) - Hybrid"
     ]
   }
 }
