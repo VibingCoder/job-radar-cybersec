@@ -587,7 +587,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-11",
-    "hit_count": 90,
+    "hit_count": 91,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1580,8 +1580,8 @@
   "trellix": {
     "name": "Trellix",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-27",
-    "hit_count": 33,
+    "last_seen": "2026-07-14",
+    "hit_count": 37,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android",
@@ -2664,6 +2664,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Information Cyber Security Engineer(OpenNMS) - San Antonio, TX (100% Onsite) - Active Secret"
+    ]
+  },
+  "cook & boardman group": {
+    "name": "Cook & Boardman Group",
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Physical Security Engineer"
+    ]
+  },
+  "gulf coast automation group": {
+    "name": "Gulf Coast Automation Group",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Vulnerability Management & Offensive Security Analyst"
     ]
   }
 }
