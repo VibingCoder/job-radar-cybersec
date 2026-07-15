@@ -1905,8 +1905,8 @@
   "bc forward": {
     "name": "BC Forward",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-14",
-    "hit_count": 60,
+    "last_seen": "2026-07-15",
+    "hit_count": 61,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -2680,7 +2680,7 @@
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
     "last_seen": "2026-07-14",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst"
     ]
@@ -2698,7 +2698,7 @@
     "name": "All Native Group",
     "first_seen": "2026-07-15",
     "last_seen": "2026-07-15",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cybersecurity Engineer with Security Clearance"
     ]
