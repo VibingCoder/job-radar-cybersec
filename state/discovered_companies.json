@@ -2679,9 +2679,27 @@
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
     "last_seen": "2026-07-14",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst"
+    ]
+  },
+  "icon international group llc": {
+    "name": "Icon International Group LLC",
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer"
+    ]
+  },
+  "all native group": {
+    "name": "All Native Group",
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer with Security Clearance"
     ]
   }
 }
