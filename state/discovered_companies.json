@@ -747,8 +747,8 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-07-13",
-    "hit_count": 22,
+    "last_seen": "2026-07-16",
+    "hit_count": 23,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -1952,7 +1952,7 @@
     "name": "Bosch",
     "first_seen": "2026-06-19",
     "last_seen": "2026-07-15",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Cybersecurity Forensics and Incident Response Analyst"
     ]
@@ -2708,7 +2708,7 @@
     "name": "BaseCamp Consulting & Solutions",
     "first_seen": "2026-07-15",
     "last_seen": "2026-07-15",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
