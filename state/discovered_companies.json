@@ -602,7 +602,7 @@
     "name": "Heartflow",
     "first_seen": "2026-05-05",
     "last_seen": "2026-07-16",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1186,10 +1186,11 @@
   "motion recruitment": {
     "name": "Motion Recruitment",
     "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "hit_count": 3,
+    "last_seen": "2026-07-16",
+    "hit_count": 4,
     "sample_titles": [
-      "Network Security Engineer / Hybrid / Dallas / Phoenix"
+      "Network Security Engineer / Hybrid / Dallas / Phoenix",
+      "Offensive Cybersecurity Engineer / AI / Startup"
     ]
   },
   "ibm": {
@@ -1907,7 +1908,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-16",
-    "hit_count": 63,
+    "hit_count": 64,
     "sample_titles": [
       "Application Security Engineer / Security Tester"
     ]
@@ -1952,7 +1953,7 @@
     "name": "Bosch",
     "first_seen": "2026-06-19",
     "last_seen": "2026-07-15",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "Cybersecurity Forensics and Incident Response Analyst"
     ]
