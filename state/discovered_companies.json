@@ -1952,7 +1952,7 @@
     "name": "Bosch",
     "first_seen": "2026-06-19",
     "last_seen": "2026-07-15",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Cybersecurity Forensics and Incident Response Analyst"
     ]
@@ -2681,7 +2681,7 @@
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
     "last_seen": "2026-07-14",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst"
     ]
@@ -2702,6 +2702,15 @@
     "hit_count": 4,
     "sample_titles": [
       "Cybersecurity Engineer with Security Clearance"
+    ]
+  },
+  "basecamp consulting & solutions": {
+    "name": "BaseCamp Consulting & Solutions",
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Web Developer Security Engineer"
     ]
   }
 }
