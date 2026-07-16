@@ -601,8 +601,8 @@
   "heartflow": {
     "name": "Heartflow",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-05-05",
-    "hit_count": 8,
+    "last_seen": "2026-07-16",
+    "hit_count": 9,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -1952,7 +1952,7 @@
     "name": "Bosch",
     "first_seen": "2026-06-19",
     "last_seen": "2026-07-15",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Cybersecurity Forensics and Incident Response Analyst"
     ]
@@ -2708,7 +2708,7 @@
     "name": "BaseCamp Consulting & Solutions",
     "first_seen": "2026-07-15",
     "last_seen": "2026-07-15",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
