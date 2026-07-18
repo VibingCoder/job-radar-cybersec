@@ -284,7 +284,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-07-16",
-    "hit_count": 245,
+    "hit_count": 246,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -367,7 +367,7 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-07-18",
-    "hit_count": 23,
+    "hit_count": 24,
     "sample_titles": [
       "Application Security Engineer",
       "IT Security Engineer (Law Firm)",
@@ -1053,7 +1053,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-17",
-    "hit_count": 159,
+    "hit_count": 161,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2764,7 +2764,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance"
     ]
@@ -2773,9 +2773,27 @@
     "name": "Envision Technology Solutions",
     "first_seen": "2026-07-17",
     "last_seen": "2026-07-17",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer- Penetration Testing"
+    ]
+  },
+  "delta defense": {
+    "name": "Delta Defense",
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer"
+    ]
+  },
+  "clearfocus technologies": {
+    "name": "ClearFocus Technologies",
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Firewall Cybersecurity Engineer"
     ]
   }
 }
