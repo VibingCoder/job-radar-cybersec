@@ -284,7 +284,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-07-16",
-    "hit_count": 243,
+    "hit_count": 244,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -366,8 +366,8 @@
   "jobot": {
     "name": "Jobot",
     "first_seen": "2026-04-30",
-    "last_seen": "2026-07-01",
-    "hit_count": 21,
+    "last_seen": "2026-07-18",
+    "hit_count": 22,
     "sample_titles": [
       "Application Security Engineer",
       "IT Security Engineer (Law Firm)",
@@ -1052,8 +1052,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-07-01",
-    "hit_count": 156,
+    "last_seen": "2026-07-17",
+    "hit_count": 157,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2757,6 +2757,24 @@
     "hit_count": 1,
     "sample_titles": [
       "SOC Security Engineer"
+    ]
+  },
+  "asrc federal": {
+    "name": "ASRC Federal",
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Penetration Tester with Security Clearance"
+    ]
+  },
+  "envision technology solutions": {
+    "name": "Envision Technology Solutions",
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer- Penetration Testing"
     ]
   }
 }
