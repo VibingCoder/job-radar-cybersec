@@ -296,8 +296,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-07-04",
-    "hit_count": 83,
+    "last_seen": "2026-07-19",
+    "hit_count": 84,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1053,7 +1053,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-17",
-    "hit_count": 175,
+    "hit_count": 177,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2764,7 +2764,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance"
     ]
@@ -2782,7 +2782,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -2795,6 +2795,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Firewall Cybersecurity Engineer"
+    ]
+  },
+  "asrc federal holding company": {
+    "name": "ASRC Federal Holding Company",
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Penetration Tester"
     ]
   }
 }
