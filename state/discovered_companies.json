@@ -1053,7 +1053,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-17",
-    "hit_count": 191,
+    "hit_count": 193,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2764,7 +2764,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 25,
+    "hit_count": 27,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester"
@@ -2783,7 +2783,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 18,
+    "hit_count": 20,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -2802,7 +2802,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Cyber Penetration Tester"
     ]
@@ -2816,6 +2816,15 @@
       "Network Security Engineer",
       "Security Engineer, Cloud",
       "Physical Security Engineer, R&D"
+    ]
+  },
+  "honeywell - aerospace": {
+    "name": "Honeywell - AEROSPACE",
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Systems Security Engineer (ISSE)/Systems Administrator"
     ]
   }
 }
