@@ -1053,7 +1053,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-17",
-    "hit_count": 215,
+    "hit_count": 217,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2466,7 +2466,7 @@
     "name": "Marathon TS",
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-20",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Cyber Security Analyst (Hybrid onsite/remote)"
     ]
@@ -2483,10 +2483,11 @@
   "sn cloud solutions": {
     "name": "SN Cloud Solutions",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-06",
-    "hit_count": 1,
+    "last_seen": "2026-07-21",
+    "hit_count": 2,
     "sample_titles": [
-      "Cloud Security Engineer (OCI & SAAS)"
+      "Cloud Security Engineer (OCI & SAAS)",
+      "Security Engineer (OCI&SAAS)"
     ]
   },
   "aroghia": {
@@ -2764,7 +2765,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 49,
+    "hit_count": 51,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester"
@@ -2802,7 +2803,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Cyber Penetration Tester"
     ]
@@ -2840,7 +2841,7 @@
     "name": "David Joseph & Company",
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-21",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
