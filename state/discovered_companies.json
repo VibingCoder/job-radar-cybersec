@@ -56,11 +56,12 @@
   "c-serv": {
     "name": "C-Serv",
     "first_seen": "2026-04-21",
-    "last_seen": "2026-06-08",
-    "hit_count": 87,
+    "last_seen": "2026-07-22",
+    "hit_count": 88,
     "sample_titles": [
       "AI Security Engineer - AI Red Team (Enterprise)",
-      "AI Offensive Security Engineer"
+      "AI Offensive Security Engineer",
+      "Network Security Engineer (Fortinet) - Resident Engineer"
     ]
   },
   "manpowergroup": {
@@ -1053,7 +1054,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-17",
-    "hit_count": 234,
+    "hit_count": 237,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2466,7 +2467,7 @@
     "name": "Marathon TS",
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-22",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Cyber Security Analyst (Hybrid onsite/remote)"
     ]
@@ -2764,8 +2765,8 @@
   "asrc federal": {
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "hit_count": 65,
+    "last_seen": "2026-07-19",
+    "hit_count": 66,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester"
@@ -2803,7 +2804,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Cyber Penetration Tester"
     ]
@@ -2841,7 +2842,7 @@
     "name": "David Joseph & Company",
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-21",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
@@ -2886,7 +2887,7 @@
     "name": "Military Spouse Corporate Career Network",
     "first_seen": "2026-07-22",
     "last_seen": "2026-07-22",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Cybersecurity Engineer - Washington DC"
     ]
