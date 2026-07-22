@@ -1053,7 +1053,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-17",
-    "hit_count": 225,
+    "hit_count": 228,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2465,8 +2465,8 @@
   "marathon ts": {
     "name": "Marathon TS",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-20",
-    "hit_count": 16,
+    "last_seen": "2026-07-21",
+    "hit_count": 17,
     "sample_titles": [
       "Cyber Security Analyst (Hybrid onsite/remote)"
     ]
@@ -2765,7 +2765,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 59,
+    "hit_count": 61,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester"
@@ -2803,7 +2803,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "Cyber Penetration Tester"
     ]
@@ -2841,7 +2841,7 @@
     "name": "David Joseph & Company",
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-21",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
