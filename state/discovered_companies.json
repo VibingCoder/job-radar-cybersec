@@ -1053,7 +1053,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-17",
-    "hit_count": 231,
+    "hit_count": 234,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2465,8 +2465,8 @@
   "marathon ts": {
     "name": "Marathon TS",
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-21",
-    "hit_count": 17,
+    "last_seen": "2026-07-22",
+    "hit_count": 18,
     "sample_titles": [
       "Cyber Security Analyst (Hybrid onsite/remote)"
     ]
@@ -2765,7 +2765,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 63,
+    "hit_count": 65,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester"
@@ -2803,7 +2803,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 27,
+    "hit_count": 28,
     "sample_titles": [
       "Cyber Penetration Tester"
     ]
@@ -2841,7 +2841,7 @@
     "name": "David Joseph & Company",
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-21",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
@@ -2880,6 +2880,15 @@
     "hit_count": 1,
     "sample_titles": [
       "IAM Security Engineer"
+    ]
+  },
+  "military spouse corporate career network": {
+    "name": "Military Spouse Corporate Career Network",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer - Washington DC"
     ]
   }
 }
