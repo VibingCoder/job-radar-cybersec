@@ -298,7 +298,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-07-23",
-    "hit_count": 86,
+    "hit_count": 87,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1054,7 +1054,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-23",
-    "hit_count": 250,
+    "hit_count": 251,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2917,9 +2917,36 @@
     "name": "International Monetary Fund",
     "first_seen": "2026-07-23",
     "last_seen": "2026-07-23",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Associate Security Analyst (Application Security) Contractual -ITDSGGR"
+    ]
+  },
+  "itr group": {
+    "name": "ITR Group",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer (GCP)"
+    ]
+  },
+  "virtru corporation": {
+    "name": "Virtru Corporation",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer with Security Clearance"
+    ]
+  },
+  "ask consulting": {
+    "name": "ASK Consulting",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
