@@ -1963,11 +1963,12 @@
   "leidos": {
     "name": "Leidos",
     "first_seen": "2026-06-20",
-    "last_seen": "2026-06-26",
-    "hit_count": 3,
+    "last_seen": "2026-07-22",
+    "hit_count": 4,
     "sample_titles": [
       "Information Systems Security Engineer",
-      "IT Security Engineer"
+      "IT Security Engineer",
+      "Cybersecurity Engineer"
     ]
   },
   "staffright associates, llc": {
@@ -2739,7 +2740,7 @@
     "name": "TechniPros, LLC",
     "first_seen": "2026-07-17",
     "last_seen": "2026-07-22",
-    "hit_count": 9,
+    "hit_count": 11,
     "sample_titles": [
       "Cybersecurity Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
       "Cyber Security Engineer-Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
@@ -2768,7 +2769,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-19",
-    "hit_count": 70,
+    "hit_count": 71,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester"
@@ -2806,7 +2807,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-18",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Cyber Penetration Tester"
     ]
