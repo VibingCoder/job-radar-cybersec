@@ -298,7 +298,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-07-23",
-    "hit_count": 87,
+    "hit_count": 88,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -748,8 +748,8 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-07-22",
-    "hit_count": 24,
+    "last_seen": "2026-07-23",
+    "hit_count": 25,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -981,8 +981,8 @@
   "virtana": {
     "name": "Virtana",
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-15",
-    "hit_count": 1,
+    "last_seen": "2026-07-23",
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -1054,7 +1054,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-23",
-    "hit_count": 251,
+    "hit_count": 252,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1686,8 +1686,8 @@
   "kalles group": {
     "name": "Kalles Group",
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "hit_count": 24,
+    "last_seen": "2026-07-23",
+    "hit_count": 25,
     "sample_titles": [
       "Security Analyst Consultant - Attack Surface Management"
     ]
@@ -2917,7 +2917,7 @@
     "name": "International Monetary Fund",
     "first_seen": "2026-07-23",
     "last_seen": "2026-07-23",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Associate Security Analyst (Application Security) Contractual -ITDSGGR"
     ]
@@ -2935,7 +2935,7 @@
     "name": "Virtru Corporation",
     "first_seen": "2026-07-23",
     "last_seen": "2026-07-23",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer with Security Clearance"
     ]
@@ -2944,9 +2944,27 @@
     "name": "ASK Consulting",
     "first_seen": "2026-07-23",
     "last_seen": "2026-07-23",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "life cycle power": {
+    "name": "Life Cycle Power",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "IT Security Engineer (Mid-Level)"
+    ]
+  },
+  "lumbee tribe holdings, inc.": {
+    "name": "Lumbee Tribe Holdings, Inc.",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Vulnerability Researcher"
     ]
   }
 }
