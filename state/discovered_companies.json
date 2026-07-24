@@ -297,8 +297,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-07-23",
-    "hit_count": 90,
+    "last_seen": "2026-07-24",
+    "hit_count": 91,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -523,12 +523,13 @@
   "insight global": {
     "name": "Insight Global",
     "first_seen": "2026-05-03",
-    "last_seen": "2026-06-11",
-    "hit_count": 28,
+    "last_seen": "2026-07-23",
+    "hit_count": 29,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
-      "INTL India - Remote Detection Engineer"
+      "INTL India - Remote Detection Engineer",
+      "Application Security Engineer"
     ]
   },
   "holistic partners, inc": {
@@ -1054,7 +1055,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-23",
-    "hit_count": 256,
+    "hit_count": 257,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1143,7 +1144,7 @@
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
     "last_seen": "2026-07-23",
-    "hit_count": 80,
+    "hit_count": 81,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -2788,7 +2789,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-23",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
