@@ -629,8 +629,8 @@
   "noblis": {
     "name": "Noblis",
     "first_seen": "2026-05-06",
-    "last_seen": "2026-05-06",
-    "hit_count": 1,
+    "last_seen": "2026-07-23",
+    "hit_count": 3,
     "sample_titles": [
       "Network Security Engineer"
     ]
@@ -1054,7 +1054,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-23",
-    "hit_count": 255,
+    "hit_count": 256,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1142,8 +1142,8 @@
   "jpmorganchase": {
     "name": "JPMorganChase",
     "first_seen": "2026-05-21",
-    "last_seen": "2026-06-05",
-    "hit_count": 79,
+    "last_seen": "2026-07-23",
+    "hit_count": 80,
     "sample_titles": [
       "Business Process Red Team Operator",
       "Penetration Tester"
@@ -1687,7 +1687,7 @@
     "name": "Kalles Group",
     "first_seen": "2026-06-07",
     "last_seen": "2026-07-23",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Security Analyst Consultant - Attack Surface Management"
     ]
@@ -2787,8 +2787,8 @@
   "delta defense": {
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "hit_count": 34,
+    "last_seen": "2026-07-23",
+    "hit_count": 35,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -2962,9 +2962,27 @@
     "name": "Lumbee Tribe Holdings, Inc.",
     "first_seen": "2026-07-23",
     "last_seen": "2026-07-23",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Vulnerability Researcher"
+    ]
+  },
+  "ford motor company": {
+    "name": "Ford Motor Company",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
+    ]
+  },
+  "cognizant": {
+    "name": "Cognizant",
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
