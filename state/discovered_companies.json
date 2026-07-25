@@ -1054,8 +1054,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-07-23",
-    "hit_count": 259,
+    "last_seen": "2026-07-25",
+    "hit_count": 260,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2993,6 +2993,15 @@
     "hit_count": 3,
     "sample_titles": [
       "AI Governance Security Engineer"
+    ]
+  },
+  "motion recruitment partners, llc": {
+    "name": "Motion Recruitment Partners, LLC",
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer - Plano, TX"
     ]
   }
 }
