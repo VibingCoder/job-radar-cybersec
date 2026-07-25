@@ -20,10 +20,11 @@
   "pnc financial services group": {
     "name": "PNC Financial Services Group",
     "first_seen": "2026-04-23",
-    "last_seen": "2026-04-23",
-    "hit_count": 1,
+    "last_seen": "2026-07-25",
+    "hit_count": 2,
     "sample_titles": [
-      "Security Analyst - Pen Tester / Tuesday - Saturday shift"
+      "Security Analyst - Pen Tester / Tuesday - Saturday shift",
+      "Security Engineer - Cryptographic Engineer for Post Quantum Cryptography"
     ]
   },
   "gunnison consulting group": {
@@ -1189,11 +1190,12 @@
   "motion recruitment": {
     "name": "Motion Recruitment",
     "first_seen": "2026-05-22",
-    "last_seen": "2026-07-16",
-    "hit_count": 15,
+    "last_seen": "2026-07-25",
+    "hit_count": 16,
     "sample_titles": [
       "Network Security Engineer / Hybrid / Dallas / Phoenix",
-      "Offensive Cybersecurity Engineer / AI / Startup"
+      "Offensive Cybersecurity Engineer / AI / Startup",
+      "Application Security Engineer - Plano, TX"
     ]
   },
   "ibm": {
@@ -2999,7 +3001,7 @@
     "name": "Motion Recruitment Partners, LLC",
     "first_seen": "2026-07-24",
     "last_seen": "2026-07-24",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Application Security Engineer - Plano, TX"
     ]
