@@ -2985,5 +2985,14 @@
     "sample_titles": [
       "Application Security Engineer"
     ]
+  },
+  "zoom": {
+    "name": "Zoom",
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "hit_count": 3,
+    "sample_titles": [
+      "AI Governance Security Engineer"
+    ]
   }
 }
