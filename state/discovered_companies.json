@@ -297,8 +297,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-07-24",
-    "hit_count": 91,
+    "last_seen": "2026-07-25",
+    "hit_count": 92,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2999,9 +2999,27 @@
     "name": "Motion Recruitment Partners, LLC",
     "first_seen": "2026-07-24",
     "last_seen": "2026-07-24",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer - Plano, TX"
+    ]
+  },
+  "metrostar": {
+    "name": "MetroStar",
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer II (6708)"
+    ]
+  },
+  "hillspire": {
+    "name": "Hillspire",
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "hit_count": 1,
+    "sample_titles": [
+      "Endpoint Security Engineer"
     ]
   }
 }
