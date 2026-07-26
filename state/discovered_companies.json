@@ -1191,7 +1191,7 @@
     "name": "Motion Recruitment",
     "first_seen": "2026-05-22",
     "last_seen": "2026-07-25",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Network Security Engineer / Hybrid / Dallas / Phoenix",
       "Offensive Cybersecurity Engineer / AI / Startup",
@@ -1791,7 +1791,7 @@
     "name": "Kelly Services",
     "first_seen": "2026-06-11",
     "last_seen": "2026-07-25",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Offensive Cybersecurity Engineer / Relocation offered to Washington DC",
       "Offensive Cybersecurity Engineer / AI / Startup",
@@ -3023,6 +3023,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Endpoint Security Engineer"
+    ]
+  },
+  "northwood space": {
+    "name": "Northwood Space",
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "hit_count": 1,
+    "sample_titles": [
+      "Identity & Endpoint Security Engineer"
     ]
   }
 }
