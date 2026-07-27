@@ -3033,5 +3033,14 @@
     "sample_titles": [
       "Identity & Endpoint Security Engineer"
     ]
+  },
+  "litellm": {
+    "name": "LiteLLM",
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
   }
 }
