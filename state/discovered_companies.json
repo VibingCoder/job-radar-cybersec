@@ -2743,12 +2743,13 @@
   "technipros, llc": {
     "name": "TechniPros, LLC",
     "first_seen": "2026-07-17",
-    "last_seen": "2026-07-22",
-    "hit_count": 11,
+    "last_seen": "2026-07-27",
+    "hit_count": 12,
     "sample_titles": [
       "Cybersecurity Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
       "Cyber Security Engineer-Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
-      "Cyber Security Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX."
+      "Cyber Security Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
+      "Cybersecurity Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX"
     ]
   },
   "source infotech": {
@@ -3038,7 +3039,7 @@
     "name": "LiteLLM",
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -3059,6 +3060,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Product Security Engineer"
+    ]
+  },
+  "kforce technology staffing": {
+    "name": "Kforce Technology Staffing",
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "hit_count": 1,
+    "sample_titles": [
+      "Unix Security Engineer"
     ]
   }
 }
