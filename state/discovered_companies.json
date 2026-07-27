@@ -3038,7 +3038,7 @@
     "name": "LiteLLM",
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -3047,9 +3047,18 @@
     "name": "Legora",
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Corporate Security Engineer"
+    ]
+  },
+  "hologic": {
+    "name": "Hologic",
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer"
     ]
   }
 }
