@@ -2793,7 +2793,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-27",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -2849,8 +2849,8 @@
   "david joseph & company": {
     "name": "David Joseph & Company",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-07-21",
-    "hit_count": 15,
+    "last_seen": "2026-07-28",
+    "hit_count": 16,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
@@ -2967,7 +2967,7 @@
     "name": "Lumbee Tribe Holdings, Inc.",
     "first_seen": "2026-07-23",
     "last_seen": "2026-07-23",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
@@ -3039,7 +3039,7 @@
     "name": "LiteLLM",
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -3075,7 +3075,7 @@
     "name": "SNI Technology",
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
