@@ -1056,8 +1056,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-07-25",
-    "hit_count": 260,
+    "last_seen": "2026-07-28",
+    "hit_count": 261,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2798,7 +2798,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-27",
-    "hit_count": 43,
+    "hit_count": 44,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -3044,7 +3044,7 @@
     "name": "LiteLLM",
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -3080,7 +3080,7 @@
     "name": "SNI Technology",
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer"
     ]
