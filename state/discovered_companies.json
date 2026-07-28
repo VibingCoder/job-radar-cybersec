@@ -2793,7 +2793,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-27",
-    "hit_count": 40,
+    "hit_count": 41,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -2850,7 +2850,7 @@
     "name": "David Joseph & Company",
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-28",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
@@ -2967,7 +2967,7 @@
     "name": "Lumbee Tribe Holdings, Inc.",
     "first_seen": "2026-07-23",
     "last_seen": "2026-07-23",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
@@ -3039,7 +3039,7 @@
     "name": "LiteLLM",
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -3075,9 +3075,18 @@
     "name": "SNI Technology",
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "guidepoint security": {
+    "name": "GuidePoint Security",
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer (Denver, CO) - Heartland (Remote)"
     ]
   }
 }
