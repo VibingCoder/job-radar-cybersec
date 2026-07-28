@@ -349,11 +349,12 @@
   "teksystems": {
     "name": "TEKsystems",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-06-24",
-    "hit_count": 8,
+    "last_seen": "2026-07-28",
+    "hit_count": 9,
     "sample_titles": [
       "Security Engineer",
-      "Security Analyst/Engineer"
+      "Security Analyst/Engineer",
+      "Network Security Engineer"
     ]
   },
   "first american payments systems": {
@@ -1717,10 +1718,11 @@
   "apex systems": {
     "name": "Apex Systems",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "hit_count": 1,
+    "last_seen": "2026-07-28",
+    "hit_count": 2,
     "sample_titles": [
-      "Windows Security Engineer"
+      "Windows Security Engineer",
+      "Technical Security Consultant"
     ]
   },
   "promise": {
@@ -2354,10 +2356,11 @@
   "teksystems c/o allegis group": {
     "name": "TEKsystems c/o Allegis Group",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
-    "hit_count": 1,
+    "last_seen": "2026-07-28",
+    "hit_count": 2,
     "sample_titles": [
-      "Cloud Security Engineer"
+      "Cloud Security Engineer",
+      "Network Security Engineer"
     ]
   },
   "acuity": {
@@ -2634,11 +2637,13 @@
   "check point software technologies": {
     "name": "Check Point Software Technologies",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "hit_count": 3,
+    "last_seen": "2026-07-28",
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer",
-      "Security Engineer, Channel Sales"
+      "Security Engineer, Channel Sales",
+      "Security Engineer (New England)",
+      "Security Engineer (New York)"
     ]
   },
   "syncreon consulting": {
@@ -2793,7 +2798,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-27",
-    "hit_count": 41,
+    "hit_count": 42,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -2850,7 +2855,7 @@
     "name": "David Joseph & Company",
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-28",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
@@ -2967,7 +2972,7 @@
     "name": "Lumbee Tribe Holdings, Inc.",
     "first_seen": "2026-07-23",
     "last_seen": "2026-07-23",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
@@ -3039,7 +3044,7 @@
     "name": "LiteLLM",
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -3075,7 +3080,7 @@
     "name": "SNI Technology",
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Security Engineer"
     ]
