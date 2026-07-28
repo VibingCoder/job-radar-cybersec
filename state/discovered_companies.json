@@ -2798,7 +2798,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-07-27",
-    "hit_count": 42,
+    "hit_count": 43,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -3044,7 +3044,7 @@
     "name": "LiteLLM",
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -3080,7 +3080,7 @@
     "name": "SNI Technology",
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -3092,6 +3092,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer (Denver, CO) - Heartland (Remote)"
+    ]
+  },
+  "karbon": {
+    "name": "Karbon",
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-07-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "AppSec Engineer"
     ]
   }
 }
