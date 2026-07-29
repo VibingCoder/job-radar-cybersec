@@ -1136,7 +1136,7 @@
     "name": "Regions Bank",
     "first_seen": "2026-05-20",
     "last_seen": "2026-07-28",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Cyber Security Engineer",
       "Application Security Engineer"
@@ -3102,6 +3102,24 @@
     "hit_count": 1,
     "sample_titles": [
       "AppSec Engineer"
+    ]
+  },
+  "swanktek inc": {
+    "name": "Swanktek Inc",
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-29",
+    "hit_count": 2,
+    "sample_titles": [
+      "Oracle Cloud Infrastructure (OCI) Security Engineer"
+    ]
+  },
+  "bright sol": {
+    "name": "Bright Sol",
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security engineer"
     ]
   }
 }
