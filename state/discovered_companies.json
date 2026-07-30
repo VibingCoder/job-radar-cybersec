@@ -1056,8 +1056,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-07-28",
-    "hit_count": 264,
+    "last_seen": "2026-07-30",
+    "hit_count": 265,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1286,10 +1286,11 @@
   "cisco": {
     "name": "Cisco",
     "first_seen": "2026-05-27",
-    "last_seen": "2026-05-27",
-    "hit_count": 10,
+    "last_seen": "2026-07-30",
+    "hit_count": 11,
     "sample_titles": [
-      "AI Security Engineer"
+      "AI Security Engineer",
+      "Security Engineer II (Full Time) - United States STO/Cloud Security Engineering ETR"
     ]
   },
   "voyager technologies": {
