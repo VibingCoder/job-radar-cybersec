@@ -1057,7 +1057,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-30",
-    "hit_count": 269,
+    "hit_count": 270,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -3166,6 +3166,24 @@
     "hit_count": 2,
     "sample_titles": [
       "Oracle Cloud Infrastructure (OCI) Security Engineer- Only W2"
+    ]
+  },
+  "johns manville": {
+    "name": "Johns Manville",
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer II"
+    ]
+  },
+  "enersys delaware inc.": {
+    "name": "EnerSys Delaware Inc.",
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer (REMOTE)"
     ]
   }
 }
