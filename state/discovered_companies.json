@@ -1057,7 +1057,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-07-30",
-    "hit_count": 274,
+    "hit_count": 275,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -3184,6 +3184,15 @@
     "hit_count": 4,
     "sample_titles": [
       "Application Security Engineer (REMOTE)"
+    ]
+  },
+  "decision six inc.": {
+    "name": "Decision Six Inc.",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-07-31",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
     ]
   }
 }
