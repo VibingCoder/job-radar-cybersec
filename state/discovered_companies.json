@@ -1191,12 +1191,13 @@
   "motion recruitment": {
     "name": "Motion Recruitment",
     "first_seen": "2026-05-22",
-    "last_seen": "2026-07-25",
-    "hit_count": 27,
+    "last_seen": "2026-08-01",
+    "hit_count": 28,
     "sample_titles": [
       "Network Security Engineer / Hybrid / Dallas / Phoenix",
       "Offensive Cybersecurity Engineer / AI / Startup",
-      "Application Security Engineer - Plano, TX"
+      "Application Security Engineer - Plano, TX",
+      "Network Security Engineer"
     ]
   },
   "ibm": {
@@ -1852,7 +1853,7 @@
     "name": "Spry Methods",
     "first_seen": "2026-06-15",
     "last_seen": "2026-07-31",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
@@ -2638,13 +2639,14 @@
   "check point software technologies": {
     "name": "Check Point Software Technologies",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-28",
-    "hit_count": 5,
+    "last_seen": "2026-08-01",
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, Channel Sales",
       "Security Engineer (New England)",
-      "Security Engineer (New York)"
+      "Security Engineer (New York)",
+      "Security Engineer, SLED"
     ]
   },
   "syncreon consulting": {
@@ -3201,7 +3203,7 @@
     "name": "Armada",
     "first_seen": "2026-07-31",
     "last_seen": "2026-07-31",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
     ]
