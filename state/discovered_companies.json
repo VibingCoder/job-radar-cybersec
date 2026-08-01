@@ -526,7 +526,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-07-31",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -1852,7 +1852,7 @@
     "name": "Spry Methods",
     "first_seen": "2026-06-15",
     "last_seen": "2026-07-31",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
@@ -3195,6 +3195,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cyber Security Engineer"
+    ]
+  },
+  "armada": {
+    "name": "Armada",
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-07-31",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
