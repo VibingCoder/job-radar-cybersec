@@ -1711,7 +1711,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-08-02",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor",
@@ -3231,7 +3231,7 @@
     "name": "AWS Security",
     "first_seen": "2026-08-02",
     "last_seen": "2026-08-02",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "AI Security Engineer, AWS Security, AWS Security - AISec"
     ]
