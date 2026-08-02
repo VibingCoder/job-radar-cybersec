@@ -1710,11 +1710,12 @@
   "deep seas": {
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-06-09",
-    "hit_count": 25,
+    "last_seen": "2026-08-02",
+    "hit_count": 26,
     "sample_titles": [
       "Offensive Security Specialist",
-      "Offensive Security Supervisor"
+      "Offensive Security Supervisor",
+      "Penetration Tester"
     ]
   },
   "apex systems": {
@@ -2800,8 +2801,8 @@
   "delta defense": {
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-27",
-    "hit_count": 46,
+    "last_seen": "2026-08-02",
+    "hit_count": 47,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -3215,6 +3216,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Information System Security Engineer"
+    ]
+  },
+  "amazon security": {
+    "name": "Amazon Security",
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, AmSec"
+    ]
+  },
+  "aws security": {
+    "name": "AWS Security",
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "AI Security Engineer, AWS Security, AWS Security - AISec"
     ]
   }
 }
