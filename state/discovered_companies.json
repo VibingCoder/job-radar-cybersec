@@ -1711,7 +1711,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-08-02",
-    "hit_count": 40,
+    "hit_count": 41,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor",
@@ -2802,7 +2802,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-08-02",
-    "hit_count": 57,
+    "hit_count": 58,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -3243,6 +3243,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Junior Cybersecurity Engineer"
+    ]
+  },
+  "booz, allen & hamilton, inc.": {
+    "name": "BOOZ, ALLEN & HAMILTON, INC.",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Systems Security Engineer"
+    ]
+  },
+  "astound": {
+    "name": "Astound",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
     ]
   }
 }
