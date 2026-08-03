@@ -1711,7 +1711,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-08-02",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor",
@@ -1844,8 +1844,8 @@
   "zachary piper solutions, llc": {
     "name": "Zachary Piper Solutions, LLC",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-07-20",
-    "hit_count": 3,
+    "last_seen": "2026-08-03",
+    "hit_count": 4,
     "sample_titles": [
       "Network Security Engineer with Security Clearance"
     ]
@@ -2802,7 +2802,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-08-02",
-    "hit_count": 56,
+    "hit_count": 57,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -3234,6 +3234,15 @@
     "hit_count": 14,
     "sample_titles": [
       "AI Security Engineer, AWS Security, AWS Security - AISec"
+    ]
+  },
+  "cai": {
+    "name": "CAI",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Junior Cybersecurity Engineer"
     ]
   }
 }
