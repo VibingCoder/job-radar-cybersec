@@ -1711,7 +1711,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-08-02",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor",
@@ -2802,7 +2802,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-08-02",
-    "hit_count": 50,
+    "hit_count": 51,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -3231,7 +3231,7 @@
     "name": "AWS Security",
     "first_seen": "2026-08-02",
     "last_seen": "2026-08-02",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "AI Security Engineer, AWS Security, AWS Security - AISec"
     ]
