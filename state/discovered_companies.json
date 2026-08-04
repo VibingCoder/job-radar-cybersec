@@ -1711,7 +1711,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-08-02",
-    "hit_count": 42,
+    "hit_count": 43,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor",
@@ -2802,7 +2802,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-08-02",
-    "hit_count": 59,
+    "hit_count": 60,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -3261,6 +3261,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cyber Security Engineer"
+    ]
+  },
+  "akaasa technologies": {
+    "name": "Akaasa Technologies",
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer 1"
     ]
   }
 }
