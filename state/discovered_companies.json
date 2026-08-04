@@ -1711,7 +1711,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-08-02",
-    "hit_count": 47,
+    "hit_count": 48,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor",
@@ -2802,7 +2802,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-08-02",
-    "hit_count": 64,
+    "hit_count": 65,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -3267,7 +3267,7 @@
     "name": "Akaasa Technologies",
     "first_seen": "2026-08-03",
     "last_seen": "2026-08-03",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer 1"
     ]
@@ -3285,9 +3285,10 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 2,
+    "hit_count": 4,
     "sample_titles": [
-      "AI-Focused Red Team Operator"
+      "AI-Focused Red Team Operator",
+      "AI-Focused Red Team Operator with Security Clearance"
     ]
   }
 }
