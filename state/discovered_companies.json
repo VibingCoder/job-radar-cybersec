@@ -593,7 +593,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-08-04",
-    "hit_count": 95,
+    "hit_count": 96,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1711,7 +1711,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-08-02",
-    "hit_count": 52,
+    "hit_count": 53,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor",
@@ -3285,7 +3285,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
@@ -3307,6 +3307,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Analyst"
+    ]
+  },
+  "qualcomm": {
+    "name": "Qualcomm",
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer - AI Software Development"
     ]
   }
 }
