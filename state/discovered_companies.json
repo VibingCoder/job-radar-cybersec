@@ -593,7 +593,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-08-04",
-    "hit_count": 94,
+    "hit_count": 95,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1711,7 +1711,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-08-02",
-    "hit_count": 51,
+    "hit_count": 52,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor",
@@ -3285,10 +3285,28 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
+    ]
+  },
+  "winncompanies": {
+    "name": "WinnCompanies",
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer (Boston HQ)"
+    ]
+  },
+  "center for health information and analysis": {
+    "name": "Center For Health Information And Analysis",
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Analyst"
     ]
   }
 }
