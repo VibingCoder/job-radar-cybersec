@@ -593,7 +593,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-08-04",
-    "hit_count": 97,
+    "hit_count": 98,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1711,7 +1711,7 @@
     "name": "Deep Seas",
     "first_seen": "2026-06-09",
     "last_seen": "2026-08-02",
-    "hit_count": 54,
+    "hit_count": 55,
     "sample_titles": [
       "Offensive Security Specialist",
       "Offensive Security Supervisor",
@@ -2486,8 +2486,8 @@
   "agileengine": {
     "name": "AgileEngine",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-06",
-    "hit_count": 19,
+    "last_seen": "2026-08-05",
+    "hit_count": 21,
     "sample_titles": [
       "AppSec Engineer ID71671"
     ]
@@ -2752,13 +2752,14 @@
   "technipros, llc": {
     "name": "TechniPros, LLC",
     "first_seen": "2026-07-17",
-    "last_seen": "2026-07-27",
-    "hit_count": 13,
+    "last_seen": "2026-08-05",
+    "hit_count": 15,
     "sample_titles": [
       "Cybersecurity Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
       "Cyber Security Engineer-Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
       "Cyber Security Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
-      "Cybersecurity Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX"
+      "Cybersecurity Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX",
+      "Cyber Security Engineer - Phoenix, AZ, St. Louis, MO, Nashville, TN, Kansas City, KS, Denver, CO."
     ]
   },
   "source infotech": {
@@ -3285,7 +3286,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
@@ -3313,7 +3314,7 @@
     "name": "Qualcomm",
     "first_seen": "2026-08-05",
     "last_seen": "2026-08-05",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Product Security Engineer - AI Software Development"
     ]
