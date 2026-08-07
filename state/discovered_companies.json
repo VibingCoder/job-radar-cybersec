@@ -2986,7 +2986,7 @@
     "name": "Ford Motor Company",
     "first_seen": "2026-07-23",
     "last_seen": "2026-08-06",
-    "hit_count": 11,
+    "hit_count": 14,
     "sample_titles": [
       "Cyber Security Engineer",
       "Embedded Cybersecurity Engineer"
@@ -3287,7 +3287,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
@@ -3333,7 +3333,7 @@
     "name": "Rividium, Inc",
     "first_seen": "2026-08-06",
     "last_seen": "2026-08-06",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Web Developer Security Engineer with Security Clearance"
     ]
@@ -3345,6 +3345,15 @@
     "hit_count": 1,
     "sample_titles": [
       "IT Security Engineer II"
+    ]
+  },
+  "saronic technologies": {
+    "name": "Saronic Technologies",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Application Security"
     ]
   }
 }
