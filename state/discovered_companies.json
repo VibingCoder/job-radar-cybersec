@@ -2985,10 +2985,11 @@
   "ford motor company": {
     "name": "Ford Motor Company",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "hit_count": 1,
+    "last_seen": "2026-08-06",
+    "hit_count": 6,
     "sample_titles": [
-      "Cyber Security Engineer"
+      "Cyber Security Engineer",
+      "Embedded Cybersecurity Engineer"
     ]
   },
   "cognizant": {
@@ -3286,7 +3287,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 23,
+    "hit_count": 24,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
@@ -3326,6 +3327,15 @@
     "hit_count": 3,
     "sample_titles": [
       "Transmit Security Engineer"
+    ]
+  },
+  "rividium, inc": {
+    "name": "Rividium, Inc",
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Web Developer Security Engineer with Security Clearance"
     ]
   }
 }
