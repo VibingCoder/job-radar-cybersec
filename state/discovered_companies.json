@@ -642,7 +642,7 @@
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
     "last_seen": "2026-08-07",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Platform Security Engineer"
     ]
@@ -1088,7 +1088,7 @@
     "name": "Southern Company",
     "first_seen": "2026-05-19",
     "last_seen": "2026-08-08",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Offensive Security Analyst",
       "Adversary Threat Hunter"
@@ -2014,7 +2014,7 @@
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
     "last_seen": "2026-08-08",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
       "Security Engineer \u2013 Identity Governance & Administration (IGA)",
@@ -3291,7 +3291,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 41,
+    "hit_count": 42,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
@@ -3382,7 +3382,7 @@
     "name": "Applied Intuition",
     "first_seen": "2026-08-07",
     "last_seen": "2026-08-08",
-    "hit_count": 9,
+    "hit_count": 11,
     "sample_titles": [
       "Enterprise Security Engineer",
       "Product Security Engineer",
@@ -3402,7 +3402,7 @@
     "name": "Rividium",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
@@ -3411,7 +3411,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
