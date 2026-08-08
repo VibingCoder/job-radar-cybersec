@@ -298,8 +298,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-08-07",
-    "hit_count": 93,
+    "last_seen": "2026-08-08",
+    "hit_count": 94,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -642,7 +642,7 @@
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
     "last_seen": "2026-08-07",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Platform Security Engineer"
     ]
@@ -1088,7 +1088,7 @@
     "name": "Southern Company",
     "first_seen": "2026-05-19",
     "last_seen": "2026-08-07",
-    "hit_count": 10,
+    "hit_count": 12,
     "sample_titles": [
       "Offensive Security Analyst",
       "Adversary Threat Hunter"
@@ -1883,7 +1883,7 @@
     "name": "Truist",
     "first_seen": "2026-06-16",
     "last_seen": "2026-08-07",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
@@ -3290,7 +3290,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 38,
+    "hit_count": 39,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
@@ -3381,7 +3381,7 @@
     "name": "Applied Intuition",
     "first_seen": "2026-08-07",
     "last_seen": "2026-08-08",
-    "hit_count": 3,
+    "hit_count": 5,
     "sample_titles": [
       "Enterprise Security Engineer",
       "Product Security Engineer",
@@ -3401,9 +3401,18 @@
     "name": "Rividium",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Web Developer Security Engineer"
+    ]
+  },
+  "cylake": {
+    "name": "Cylake",
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Researcher (Detection Systems)"
     ]
   }
 }
