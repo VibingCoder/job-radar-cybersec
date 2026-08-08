@@ -642,7 +642,7 @@
     "name": "Applied Compute",
     "first_seen": "2026-05-06",
     "last_seen": "2026-08-07",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Platform Security Engineer"
     ]
@@ -1088,7 +1088,7 @@
     "name": "Southern Company",
     "first_seen": "2026-05-19",
     "last_seen": "2026-08-07",
-    "hit_count": 12,
+    "hit_count": 14,
     "sample_titles": [
       "Offensive Security Analyst",
       "Adversary Threat Hunter"
@@ -1883,7 +1883,7 @@
     "name": "Truist",
     "first_seen": "2026-06-16",
     "last_seen": "2026-08-07",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
@@ -2013,11 +2013,12 @@
   "truist bank": {
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-06-26",
-    "hit_count": 12,
+    "last_seen": "2026-08-08",
+    "hit_count": 13,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
-      "Security Engineer \u2013 Identity Governance & Administration (IGA)"
+      "Security Engineer \u2013 Identity Governance & Administration (IGA)",
+      "Associate Application Security Engineer - Bug Bounty & Vulnerability Management"
     ]
   },
   "xai": {
@@ -3290,7 +3291,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
@@ -3381,7 +3382,7 @@
     "name": "Applied Intuition",
     "first_seen": "2026-08-07",
     "last_seen": "2026-08-08",
-    "hit_count": 5,
+    "hit_count": 7,
     "sample_titles": [
       "Enterprise Security Engineer",
       "Product Security Engineer",
@@ -3401,7 +3402,7 @@
     "name": "Rividium",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
@@ -3410,7 +3411,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
