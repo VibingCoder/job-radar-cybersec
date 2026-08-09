@@ -1584,7 +1584,7 @@
     "name": "Whoop",
     "first_seen": "2026-06-05",
     "last_seen": "2026-08-09",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Security Analyst",
       "Security Engineer, IAM"
@@ -2100,7 +2100,7 @@
     "name": "Opendoor",
     "first_seen": "2026-06-23",
     "last_seen": "2026-08-09",
-    "hit_count": 24,
+    "hit_count": 26,
     "sample_titles": [
       "Application Security Engineer",
       "Infrastructure Security Engineer",
@@ -2647,7 +2647,7 @@
     "name": "Check Point Software Technologies",
     "first_seen": "2026-07-12",
     "last_seen": "2026-08-09",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, Channel Sales",
@@ -3293,7 +3293,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 56,
+    "hit_count": 57,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
@@ -3413,7 +3413,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
