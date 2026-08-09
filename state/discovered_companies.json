@@ -2014,7 +2014,7 @@
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
     "last_seen": "2026-08-08",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
       "Security Engineer \u2013 Identity Governance & Administration (IGA)",
@@ -2647,7 +2647,7 @@
     "name": "Check Point Software Technologies",
     "first_seen": "2026-07-12",
     "last_seen": "2026-08-09",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, Channel Sales",
@@ -3293,7 +3293,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 49,
+    "hit_count": 50,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
@@ -3413,7 +3413,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
