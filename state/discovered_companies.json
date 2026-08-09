@@ -1088,7 +1088,7 @@
     "name": "Southern Company",
     "first_seen": "2026-05-19",
     "last_seen": "2026-08-08",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Offensive Security Analyst",
       "Adversary Threat Hunter"
@@ -2014,7 +2014,7 @@
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
     "last_seen": "2026-08-08",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
       "Security Engineer \u2013 Identity Governance & Administration (IGA)",
@@ -2099,10 +2099,11 @@
   "opendoor": {
     "name": "Opendoor",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "hit_count": 10,
+    "last_seen": "2026-08-08",
+    "hit_count": 11,
     "sample_titles": [
-      "Application Security Engineer"
+      "Application Security Engineer",
+      "Infrastructure Security Engineer"
     ]
   },
   "minimed": {
@@ -2645,7 +2646,7 @@
     "name": "Check Point Software Technologies",
     "first_seen": "2026-07-12",
     "last_seen": "2026-08-08",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, Channel Sales",
@@ -3291,7 +3292,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
-    "hit_count": 46,
+    "hit_count": 47,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance"
@@ -3382,7 +3383,7 @@
     "name": "Applied Intuition",
     "first_seen": "2026-08-07",
     "last_seen": "2026-08-08",
-    "hit_count": 19,
+    "hit_count": 21,
     "sample_titles": [
       "Enterprise Security Engineer",
       "Product Security Engineer",
@@ -3402,7 +3403,7 @@
     "name": "Rividium",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Web Developer Security Engineer"
     ]
@@ -3411,9 +3412,18 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
+    ]
+  },
+  "hark": {
+    "name": "Hark",
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
