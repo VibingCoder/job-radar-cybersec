@@ -2100,7 +2100,7 @@
     "name": "Opendoor",
     "first_seen": "2026-06-23",
     "last_seen": "2026-08-09",
-    "hit_count": 32,
+    "hit_count": 34,
     "sample_titles": [
       "Application Security Engineer",
       "Infrastructure Security Engineer",
@@ -3413,7 +3413,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
