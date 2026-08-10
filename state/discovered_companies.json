@@ -2100,7 +2100,7 @@
     "name": "Opendoor",
     "first_seen": "2026-06-23",
     "last_seen": "2026-08-09",
-    "hit_count": 38,
+    "hit_count": 40,
     "sample_titles": [
       "Application Security Engineer",
       "Infrastructure Security Engineer",
@@ -3413,7 +3413,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
@@ -3434,6 +3434,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Cloud Security Engineer - Azure Defender/Prisma Cloud/Cortex Cloud"
+    ]
+  },
+  "neros technologies": {
+    "name": "Neros Technologies",
+    "first_seen": "2026-08-10",
+    "last_seen": "2026-08-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
+    ]
+  },
+  "arizona staffing": {
+    "name": "Arizona Staffing",
+    "first_seen": "2026-08-10",
+    "last_seen": "2026-08-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Network Security Engineer"
     ]
   }
 }
