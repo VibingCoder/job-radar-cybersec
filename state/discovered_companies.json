@@ -1136,8 +1136,8 @@
   "regions bank": {
     "name": "Regions Bank",
     "first_seen": "2026-05-20",
-    "last_seen": "2026-08-07",
-    "hit_count": 34,
+    "last_seen": "2026-08-10",
+    "hit_count": 35,
     "sample_titles": [
       "Cyber Security Engineer",
       "Application Security Engineer",
@@ -2100,7 +2100,7 @@
     "name": "Opendoor",
     "first_seen": "2026-06-23",
     "last_seen": "2026-08-09",
-    "hit_count": 44,
+    "hit_count": 46,
     "sample_titles": [
       "Application Security Engineer",
       "Infrastructure Security Engineer",
@@ -3413,7 +3413,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
