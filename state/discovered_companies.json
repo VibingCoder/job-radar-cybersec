@@ -1137,7 +1137,7 @@
     "name": "Regions Bank",
     "first_seen": "2026-05-20",
     "last_seen": "2026-08-10",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Cyber Security Engineer",
       "Application Security Engineer",
@@ -2102,7 +2102,7 @@
     "name": "Opendoor",
     "first_seen": "2026-06-23",
     "last_seen": "2026-08-09",
-    "hit_count": 54,
+    "hit_count": 56,
     "sample_titles": [
       "Application Security Engineer",
       "Infrastructure Security Engineer",
@@ -2532,7 +2532,7 @@
     "name": "DMS Vision Inc",
     "first_seen": "2026-07-07",
     "last_seen": "2026-08-10",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Application Security Engineer (Hybrid) :: Houston, TX (Local Only)",
       "Application Security Engineer"
@@ -3416,7 +3416,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
