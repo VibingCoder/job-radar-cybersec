@@ -2103,7 +2103,7 @@
     "name": "Opendoor",
     "first_seen": "2026-06-23",
     "last_seen": "2026-08-09",
-    "hit_count": 66,
+    "hit_count": 68,
     "sample_titles": [
       "Application Security Engineer",
       "Infrastructure Security Engineer",
@@ -2533,7 +2533,7 @@
     "name": "DMS Vision Inc",
     "first_seen": "2026-07-07",
     "last_seen": "2026-08-10",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Application Security Engineer (Hybrid) :: Houston, TX (Local Only)",
       "Application Security Engineer"
@@ -3417,7 +3417,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
