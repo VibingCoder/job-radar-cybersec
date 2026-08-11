@@ -1137,7 +1137,7 @@
     "name": "Regions Bank",
     "first_seen": "2026-05-20",
     "last_seen": "2026-08-10",
-    "hit_count": 38,
+    "hit_count": 39,
     "sample_titles": [
       "Cyber Security Engineer",
       "Application Security Engineer",
@@ -1394,7 +1394,7 @@
     "name": "One Step Secure IT",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-10",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer Level II",
       "Security Engineer II"
@@ -2102,7 +2102,7 @@
     "name": "Opendoor",
     "first_seen": "2026-06-23",
     "last_seen": "2026-08-09",
-    "hit_count": 52,
+    "hit_count": 54,
     "sample_titles": [
       "Application Security Engineer",
       "Infrastructure Security Engineer",
@@ -2531,10 +2531,11 @@
   "dms vision inc": {
     "name": "DMS Vision Inc",
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
-    "hit_count": 8,
+    "last_seen": "2026-08-10",
+    "hit_count": 9,
     "sample_titles": [
-      "Application Security Engineer (Hybrid) :: Houston, TX (Local Only)"
+      "Application Security Engineer (Hybrid) :: Houston, TX (Local Only)",
+      "Application Security Engineer"
     ]
   },
   "netspi llc": {
@@ -3415,7 +3416,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 32,
+    "hit_count": 33,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
@@ -3454,6 +3455,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Network Security Engineer"
+    ]
+  },
+  "cargill": {
+    "name": "Cargill",
+    "first_seen": "2026-08-10",
+    "last_seen": "2026-08-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Network Security Engineer - SASE"
     ]
   }
 }
