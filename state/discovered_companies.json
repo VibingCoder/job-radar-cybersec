@@ -1137,7 +1137,7 @@
     "name": "Regions Bank",
     "first_seen": "2026-05-20",
     "last_seen": "2026-08-10",
-    "hit_count": 41,
+    "hit_count": 42,
     "sample_titles": [
       "Cyber Security Engineer",
       "Application Security Engineer",
@@ -1214,12 +1214,13 @@
   "mercor": {
     "name": "Mercor",
     "first_seen": "2026-05-23",
-    "last_seen": "2026-06-26",
-    "hit_count": 20,
+    "last_seen": "2026-08-11",
+    "hit_count": 21,
     "sample_titles": [
       "Cyber Security Engineer",
       "Penetration Tester",
-      "Security Engineer, Application Security"
+      "Security Engineer, Application Security",
+      "LLM Red Team Specialist - AI"
     ]
   },
   "impinj": {
@@ -1923,7 +1924,7 @@
     "name": "BC Forward",
     "first_seen": "2026-06-17",
     "last_seen": "2026-08-11",
-    "hit_count": 70,
+    "hit_count": 71,
     "sample_titles": [
       "Application Security Engineer / Security Tester",
       "Cyber Security Engineer"
@@ -2102,7 +2103,7 @@
     "name": "Opendoor",
     "first_seen": "2026-06-23",
     "last_seen": "2026-08-09",
-    "hit_count": 58,
+    "hit_count": 60,
     "sample_titles": [
       "Application Security Engineer",
       "Infrastructure Security Engineer",
@@ -2532,7 +2533,7 @@
     "name": "DMS Vision Inc",
     "first_seen": "2026-07-07",
     "last_seen": "2026-08-10",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Application Security Engineer (Hybrid) :: Houston, TX (Local Only)",
       "Application Security Engineer"
@@ -3416,7 +3417,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
