@@ -1596,7 +1596,7 @@
     "name": "Trellix",
     "first_seen": "2026-06-05",
     "last_seen": "2026-08-11",
-    "hit_count": 61,
+    "hit_count": 67,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android",
@@ -3418,7 +3418,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 45,
+    "hit_count": 46,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
@@ -3484,6 +3484,33 @@
     "hit_count": 1,
     "sample_titles": [
       "Cloud Security Engineer \u2013 OCI"
+    ]
+  },
+  "thales": {
+    "name": "Thales",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer"
+    ]
+  },
+  "autodesk": {
+    "name": "Autodesk",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, FedRamp/GovCloud"
+    ]
+  },
+  "glint tech solutions llc": {
+    "name": "Glint Tech Solutions LLC",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "Mainframe Security Engineer"
     ]
   }
 }
