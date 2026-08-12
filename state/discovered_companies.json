@@ -1595,12 +1595,13 @@
   "trellix": {
     "name": "Trellix",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-07-14",
-    "hit_count": 37,
+    "last_seen": "2026-08-11",
+    "hit_count": 43,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android",
-      "Reverse Engineer - Android"
+      "Reverse Engineer - Android",
+      "Reverse Engineer (Android)"
     ]
   },
   "overland ai": {
@@ -3417,7 +3418,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 41,
+    "hit_count": 42,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
