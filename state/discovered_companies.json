@@ -2897,10 +2897,11 @@
   "phoenix cyber": {
     "name": "Phoenix Cyber",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-07-21",
-    "hit_count": 1,
+    "last_seen": "2026-08-13",
+    "hit_count": 2,
     "sample_titles": [
-      "Cybersecurity Engineer (SOAR) [JOB ID 20260709]"
+      "Cybersecurity Engineer (SOAR) [JOB ID 20260709]",
+      "Cybersecurity Engineer (SOAR) [JOB ID 20260804]"
     ]
   },
   "jms technical solutions": {
@@ -3418,7 +3419,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 57,
+    "hit_count": 58,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
@@ -3535,7 +3536,7 @@
     "name": "Apple, Inc.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-12",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "AI Security Engineer - Red Team"
     ]
@@ -3544,7 +3545,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
