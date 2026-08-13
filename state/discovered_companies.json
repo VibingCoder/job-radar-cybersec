@@ -751,8 +751,8 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-07-23",
-    "hit_count": 25,
+    "last_seen": "2026-08-12",
+    "hit_count": 26,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -3418,7 +3418,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 51,
+    "hit_count": 52,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
@@ -3520,6 +3520,15 @@
     "hit_count": 1,
     "sample_titles": [
       "IT Security Analyst Boston, MA - MA - Massachusetts"
+    ]
+  },
+  "moderna": {
+    "name": "Moderna",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "API Security Engineer"
     ]
   }
 }
