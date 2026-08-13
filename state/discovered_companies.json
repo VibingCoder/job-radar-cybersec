@@ -3418,7 +3418,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 52,
+    "hit_count": 53,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
@@ -3535,7 +3535,7 @@
     "name": "Apple, Inc.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-12",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "AI Security Engineer - Red Team"
     ]
