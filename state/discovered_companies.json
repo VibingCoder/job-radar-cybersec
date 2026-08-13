@@ -3418,7 +3418,7 @@
     "name": "Cylake",
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
-    "hit_count": 56,
+    "hit_count": 57,
     "sample_titles": [
       "Security Researcher (Detection Systems)"
     ]
@@ -3535,9 +3535,18 @@
     "name": "Apple, Inc.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-12",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "AI Security Engineer - Red Team"
+    ]
+  },
+  "northrop grumman": {
+    "name": "Northrop Grumman",
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Penetration Tester with Security Clearance"
     ]
   }
 }
