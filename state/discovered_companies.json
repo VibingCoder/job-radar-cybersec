@@ -1877,7 +1877,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-08-13",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI"
@@ -2815,7 +2815,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-08-13",
-    "hit_count": 72,
+    "hit_count": 73,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -3546,9 +3546,18 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
+    ]
+  },
+  "dobbs defense solutions, llc": {
+    "name": "Dobbs Defense Solutions, LLC",
+    "first_seen": "2026-08-14",
+    "last_seen": "2026-08-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Systems Security Engineer"
     ]
   }
 }
