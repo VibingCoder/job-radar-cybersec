@@ -3538,7 +3538,7 @@
     "name": "Apple, Inc.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-14",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "AI Security Engineer - Red Team"
     ]
@@ -3547,7 +3547,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3577,6 +3577,15 @@
     "hit_count": 2,
     "sample_titles": [
       "Instrumentation & Controls Cyber Security Engineer 1 - Nuclear (Summer 2027)"
+    ]
+  },
+  "deloitte": {
+    "name": "Deloitte",
+    "first_seen": "2026-08-14",
+    "last_seen": "2026-08-14",
+    "hit_count": 2,
+    "sample_titles": [
+      "Cyber Oracle Identity Analyst / Security Engineer I"
     ]
   }
 }
