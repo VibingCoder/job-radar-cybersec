@@ -3538,7 +3538,7 @@
     "name": "Apple, Inc.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-14",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "AI Security Engineer - Red Team"
     ]
@@ -3547,7 +3547,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3592,7 +3592,7 @@
     "name": "Teradata",
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-14",
-    "hit_count": 4,
+    "hit_count": 9,
     "sample_titles": [
       "Application Security Engineer"
     ]
