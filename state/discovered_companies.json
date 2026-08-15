@@ -2031,7 +2031,7 @@
     "name": "xAI",
     "first_seen": "2026-06-22",
     "last_seen": "2026-08-15",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Security Engineer - Azure Government",
       "Application Security Engineer",
@@ -3539,7 +3539,7 @@
     "name": "Apple, Inc.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-14",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "AI Security Engineer - Red Team"
     ]
@@ -3548,7 +3548,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3593,7 +3593,7 @@
     "name": "Teradata",
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-14",
-    "hit_count": 28,
+    "hit_count": 31,
     "sample_titles": [
       "Application Security Engineer"
     ]
