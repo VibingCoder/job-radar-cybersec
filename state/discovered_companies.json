@@ -2031,7 +2031,7 @@
     "name": "xAI",
     "first_seen": "2026-06-22",
     "last_seen": "2026-08-15",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Security Engineer - Azure Government",
       "Application Security Engineer",
@@ -3539,7 +3539,7 @@
     "name": "Apple, Inc.",
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-14",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "AI Security Engineer - Red Team"
     ]
@@ -3548,7 +3548,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 23,
+    "hit_count": 24,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3593,7 +3593,7 @@
     "name": "Teradata",
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-15",
-    "hit_count": 35,
+    "hit_count": 37,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -3605,6 +3605,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer II, Detection and Response"
+    ]
+  },
+  "maxisiq": {
+    "name": "MAXISIQ",
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Junior Security Engineer - San Antonio, TX"
     ]
   }
 }
