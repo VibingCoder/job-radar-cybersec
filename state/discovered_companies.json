@@ -2031,7 +2031,7 @@
     "name": "xAI",
     "first_seen": "2026-06-22",
     "last_seen": "2026-08-15",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security Engineer - Azure Government",
       "Application Security Engineer",
@@ -3548,7 +3548,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3614,6 +3614,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Junior Security Engineer - San Antonio, TX"
+    ]
+  },
+  "veeam software corporation": {
+    "name": "Veeam Software Corporation",
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product & Application Security Engineer"
     ]
   }
 }
