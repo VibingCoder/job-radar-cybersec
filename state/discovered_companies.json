@@ -605,8 +605,8 @@
   "heartflow": {
     "name": "Heartflow",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-07-16",
-    "hit_count": 14,
+    "last_seen": "2026-08-16",
+    "hit_count": 15,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -2713,7 +2713,7 @@
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
     "last_seen": "2026-08-15",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst"
     ]
@@ -3548,7 +3548,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3656,7 +3656,7 @@
     "name": "BrainCo",
     "first_seen": "2026-08-16",
     "last_seen": "2026-08-16",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "AI Application Security Engineer"
     ]
