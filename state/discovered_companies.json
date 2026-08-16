@@ -606,7 +606,7 @@
     "name": "Heartflow",
     "first_seen": "2026-05-05",
     "last_seen": "2026-08-16",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -3548,7 +3548,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 32,
+    "hit_count": 33,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3656,9 +3656,18 @@
     "name": "BrainCo",
     "first_seen": "2026-08-16",
     "last_seen": "2026-08-16",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "AI Application Security Engineer"
+    ]
+  },
+  "abbvie": {
+    "name": "AbbVie",
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "Agentic AI Security Engineer"
     ]
   }
 }
