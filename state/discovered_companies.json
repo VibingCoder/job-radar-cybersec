@@ -2200,8 +2200,8 @@
   "kimley-horn": {
     "name": "Kimley-Horn",
     "first_seen": "2026-06-25",
-    "last_seen": "2026-06-25",
-    "hit_count": 1,
+    "last_seen": "2026-08-15",
+    "hit_count": 2,
     "sample_titles": [
       "Cybersecurity Engineer"
     ]
@@ -3548,7 +3548,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3620,7 +3620,7 @@
     "name": "Veeam Software Corporation",
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-15",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Product & Application Security Engineer"
     ]
