@@ -2712,8 +2712,8 @@
   "gulf coast automation group": {
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
-    "last_seen": "2026-08-14",
-    "hit_count": 13,
+    "last_seen": "2026-08-15",
+    "hit_count": 14,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst"
     ]
@@ -3548,7 +3548,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3623,6 +3623,24 @@
     "hit_count": 2,
     "sample_titles": [
       "Product & Application Security Engineer"
+    ]
+  },
+  "rennerbrown staffing": {
+    "name": "RennerBrown Staffing",
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer - Vulnerability Management"
+    ]
+  },
+  "venus aerospace": {
+    "name": "Venus Aerospace",
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information System Security Engineer"
     ]
   }
 }
