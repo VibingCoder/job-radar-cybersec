@@ -2713,7 +2713,7 @@
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
     "last_seen": "2026-08-15",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst"
     ]
@@ -3548,7 +3548,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3641,6 +3641,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Information System Security Engineer"
+    ]
+  },
+  "envisioneering, inc": {
+    "name": "Envisioneering, Inc",
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information System Security Engineer (ISSE)"
+    ]
+  },
+  "brainco": {
+    "name": "BrainCo",
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "AI Application Security Engineer"
     ]
   }
 }
