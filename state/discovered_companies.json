@@ -1205,10 +1205,11 @@
   "ibm": {
     "name": "IBM",
     "first_seen": "2026-05-22",
-    "last_seen": "2026-05-22",
-    "hit_count": 24,
+    "last_seen": "2026-08-16",
+    "hit_count": 26,
     "sample_titles": [
-      "XFR Red Team Operator"
+      "XFR Red Team Operator",
+      "Associate Security Consultant 2027"
     ]
   },
   "mercor": {
@@ -1595,8 +1596,8 @@
   "trellix": {
     "name": "Trellix",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-08-12",
-    "hit_count": 72,
+    "last_seen": "2026-08-16",
+    "hit_count": 76,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android",
@@ -3548,7 +3549,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 37,
+    "hit_count": 38,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
