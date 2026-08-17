@@ -1596,8 +1596,8 @@
   "trellix": {
     "name": "Trellix",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-08-16",
-    "hit_count": 81,
+    "last_seen": "2026-08-17",
+    "hit_count": 82,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android",
@@ -3549,7 +3549,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
