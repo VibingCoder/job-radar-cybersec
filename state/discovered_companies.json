@@ -1597,7 +1597,7 @@
     "name": "Trellix",
     "first_seen": "2026-06-05",
     "last_seen": "2026-08-16",
-    "hit_count": 106,
+    "hit_count": 112,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android",
@@ -3549,7 +3549,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 44,
+    "hit_count": 45,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
@@ -3669,6 +3669,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Agentic AI Security Engineer"
+    ]
+  },
+  "mettel": {
+    "name": "MetTel",
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer"
     ]
   }
 }
