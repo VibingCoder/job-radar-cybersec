@@ -2013,7 +2013,7 @@
     "name": "JLL",
     "first_seen": "2026-06-21",
     "last_seen": "2026-08-18",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Information Security Engineer, Network Security Engineering"
     ]
@@ -2384,8 +2384,8 @@
   "acuity": {
     "name": "Acuity",
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
-    "hit_count": 1,
+    "last_seen": "2026-08-18",
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -2656,8 +2656,8 @@
   "check point software technologies": {
     "name": "Check Point Software Technologies",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-08-09",
-    "hit_count": 24,
+    "last_seen": "2026-08-18",
+    "hit_count": 25,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, Channel Sales",
@@ -3706,6 +3706,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "opto-knowledge systems inc": {
+    "name": "Opto-Knowledge Systems Inc",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer"
     ]
   }
 }
