@@ -298,8 +298,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-08-08",
-    "hit_count": 94,
+    "last_seen": "2026-08-18",
+    "hit_count": 95,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -592,8 +592,8 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-08-07",
-    "hit_count": 106,
+    "last_seen": "2026-08-18",
+    "hit_count": 107,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2012,8 +2012,8 @@
   "jll": {
     "name": "JLL",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-06-21",
-    "hit_count": 13,
+    "last_seen": "2026-08-18",
+    "hit_count": 14,
     "sample_titles": [
       "Information Security Engineer, Network Security Engineering"
     ]
@@ -2647,8 +2647,8 @@
   "modernatx": {
     "name": "ModernaTX",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-12",
-    "hit_count": 12,
+    "last_seen": "2026-08-18",
+    "hit_count": 13,
     "sample_titles": [
       "API Security Engineer"
     ]
@@ -3685,7 +3685,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Incident Response Engineer"
     ]
@@ -3697,6 +3697,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Founding Application Security Engineer"
+    ]
+  },
+  "hypernative": {
+    "name": "Hypernative",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
