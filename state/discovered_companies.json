@@ -1452,7 +1452,7 @@
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-18",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Penetration Tester",
       "Offensive Security Control Assessor Security Control Assessor Representative"
@@ -1560,10 +1560,11 @@
   "omnissa": {
     "name": "Omnissa",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-06-05",
-    "hit_count": 1,
+    "last_seen": "2026-08-18",
+    "hit_count": 2,
     "sample_titles": [
-      "Cloud Security Engineer"
+      "Cloud Security Engineer",
+      "Application Security Engineer"
     ]
   },
   "gainwell technologies llc": {
@@ -3715,6 +3716,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Product Security Engineer"
+    ]
+  },
+  "palantir technologies": {
+    "name": "Palantir Technologies",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Offensive Security Engineer"
     ]
   }
 }
