@@ -1451,10 +1451,11 @@
   "dark wolf solutions": {
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-05-30",
-    "hit_count": 23,
+    "last_seen": "2026-08-18",
+    "hit_count": 24,
     "sample_titles": [
-      "Penetration Tester"
+      "Penetration Tester",
+      "Offensive Security Control Assessor Security Control Assessor Representative"
     ]
   },
   "mit": {
@@ -3549,7 +3550,7 @@
     "name": "Northrop Grumman",
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
-    "hit_count": 51,
+    "hit_count": 52,
     "sample_titles": [
       "Penetration Tester with Security Clearance"
     ]
