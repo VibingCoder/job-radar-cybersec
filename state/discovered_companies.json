@@ -298,8 +298,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-08-18",
-    "hit_count": 95,
+    "last_seen": "2026-08-19",
+    "hit_count": 96,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1452,7 +1452,7 @@
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-18",
-    "hit_count": 32,
+    "hit_count": 33,
     "sample_titles": [
       "Penetration Tester",
       "Offensive Security Control Assessor Security Control Assessor Representative"
@@ -3731,7 +3731,7 @@
     "name": "Brown Brothers Harriman & Co",
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cyber Red Team Operator"
     ]
