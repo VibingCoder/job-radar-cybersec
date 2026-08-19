@@ -299,7 +299,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-08-19",
-    "hit_count": 101,
+    "hit_count": 102,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -3731,7 +3731,7 @@
     "name": "Brown Brothers Harriman & Co",
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Cyber Red Team Operator"
     ]
@@ -3740,7 +3740,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
