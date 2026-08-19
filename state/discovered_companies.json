@@ -751,8 +751,8 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-08-12",
-    "hit_count": 26,
+    "last_seen": "2026-08-19",
+    "hit_count": 27,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -1452,7 +1452,7 @@
     "name": "Dark Wolf Solutions",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-18",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Penetration Tester",
       "Offensive Security Control Assessor Security Control Assessor Representative"
@@ -3722,9 +3722,18 @@
     "name": "Palantir Technologies",
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Offensive Security Engineer"
+    ]
+  },
+  "brown brothers harriman & co": {
+    "name": "Brown Brothers Harriman & Co",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Red Team Operator"
     ]
   }
 }
