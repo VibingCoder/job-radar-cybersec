@@ -299,7 +299,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-08-19",
-    "hit_count": 98,
+    "hit_count": 99,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2769,8 +2769,8 @@
   "technipros, llc": {
     "name": "TechniPros, LLC",
     "first_seen": "2026-07-17",
-    "last_seen": "2026-08-05",
-    "hit_count": 18,
+    "last_seen": "2026-08-19",
+    "hit_count": 19,
     "sample_titles": [
       "Cybersecurity Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
       "Cyber Security Engineer-Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
@@ -3731,7 +3731,7 @@
     "name": "Brown Brothers Harriman & Co",
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Cyber Red Team Operator"
     ]
@@ -3740,7 +3740,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
