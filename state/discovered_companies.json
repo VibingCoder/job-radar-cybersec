@@ -299,7 +299,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-08-19",
-    "hit_count": 96,
+    "hit_count": 97,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2657,8 +2657,8 @@
   "check point software technologies": {
     "name": "Check Point Software Technologies",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-08-18",
-    "hit_count": 25,
+    "last_seen": "2026-08-19",
+    "hit_count": 26,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, Channel Sales",
@@ -3731,9 +3731,18 @@
     "name": "Brown Brothers Harriman & Co",
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Cyber Red Team Operator"
+    ]
+  },
+  "inabia software & consulting": {
+    "name": "Inabia Software & Consulting",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Penetration Tester / Red Team Consultant"
     ]
   }
 }
