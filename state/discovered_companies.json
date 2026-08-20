@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 254,
+    "hit_count": 256,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1205,8 +1205,8 @@
   "ibm": {
     "name": "IBM",
     "first_seen": "2026-05-22",
-    "last_seen": "2026-08-16",
-    "hit_count": 26,
+    "last_seen": "2026-08-19",
+    "hit_count": 27,
     "sample_titles": [
       "XFR Red Team Operator",
       "Associate Security Consultant 2027"
@@ -1384,12 +1384,14 @@
   "carnegie mellon university": {
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-07-09",
-    "hit_count": 3,
+    "last_seen": "2026-08-19",
+    "hit_count": 6,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
-      "Network Security Researcher"
+      "Network Security Researcher",
+      "Associate AI Red Team Engineer",
+      "AI Red Team Engineer"
     ]
   },
   "one step secure it": {
@@ -3740,9 +3742,27 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
+    ]
+  },
+  "northern base": {
+    "name": "Northern Base",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Threat Hunting Consultant"
+    ]
+  },
+  "9to9 software solutions llc": {
+    "name": "9to9 Software Solutions LLC",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer(Cybersecurity)"
     ]
   }
 }
