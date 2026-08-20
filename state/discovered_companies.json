@@ -285,8 +285,8 @@
   "bank of america": {
     "name": "Bank of America",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-07-16",
-    "hit_count": 253,
+    "last_seen": "2026-08-19",
+    "hit_count": 254,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -3740,7 +3740,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
