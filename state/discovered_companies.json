@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 271,
+    "hit_count": 274,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1206,7 +1206,7 @@
     "name": "IBM",
     "first_seen": "2026-05-22",
     "last_seen": "2026-08-19",
-    "hit_count": 47,
+    "hit_count": 51,
     "sample_titles": [
       "XFR Red Team Operator",
       "Associate Security Consultant 2027"
@@ -1236,8 +1236,8 @@
   "k2 group, inc.": {
     "name": "K2 Group, Inc.",
     "first_seen": "2026-05-25",
-    "last_seen": "2026-06-30",
-    "hit_count": 2,
+    "last_seen": "2026-08-20",
+    "hit_count": 3,
     "sample_titles": [
       "Acquisition Security Analyst (ASA) II"
     ]
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 26,
+    "hit_count": 30,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3742,7 +3742,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3751,7 +3751,7 @@
     "name": "Northern Base",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Threat Hunting Consultant"
     ]
@@ -3759,8 +3759,8 @@
   "9to9 software solutions llc": {
     "name": "9to9 Software Solutions LLC",
     "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "hit_count": 4,
+    "last_seen": "2026-08-20",
+    "hit_count": 5,
     "sample_titles": [
       "Application Security Engineer(Cybersecurity)"
     ]
@@ -3769,7 +3769,7 @@
     "name": "Success Matcher Recruitment",
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Founding Security Engineer"
     ]
