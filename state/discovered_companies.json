@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 295,
+    "hit_count": 298,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -298,8 +298,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-08-19",
-    "hit_count": 102,
+    "last_seen": "2026-08-21",
+    "hit_count": 103,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -592,8 +592,8 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-08-19",
-    "hit_count": 114,
+    "last_seen": "2026-08-20",
+    "hit_count": 117,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 58,
+    "hit_count": 63,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2359,8 +2359,8 @@
   "inquisit": {
     "name": "InquisIT",
     "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
-    "hit_count": 8,
+    "last_seen": "2026-08-21",
+    "hit_count": 9,
     "sample_titles": [
       "Threat Detection and Vulnerability Managment Cybersecurity Engineer"
     ]
@@ -3444,10 +3444,11 @@
   "pnc bank": {
     "name": "PNC Bank",
     "first_seen": "2026-08-09",
-    "last_seen": "2026-08-09",
-    "hit_count": 1,
+    "last_seen": "2026-08-21",
+    "hit_count": 2,
     "sample_titles": [
-      "Cloud Security Engineer - Azure Defender/Prisma Cloud/Cortex Cloud"
+      "Cloud Security Engineer - Azure Defender/Prisma Cloud/Cortex Cloud",
+      "Security Engineer - Cryptographic Engineer for Post Quantum Cryptography"
     ]
   },
   "neros technologies": {
@@ -3742,7 +3743,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3751,7 +3752,7 @@
     "name": "Northern Base",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Threat Hunting Consultant"
     ]
@@ -3781,6 +3782,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "gamechanger": {
+    "name": "GameChanger",
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Application Security"
     ]
   }
 }
