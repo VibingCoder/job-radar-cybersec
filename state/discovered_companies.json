@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 302,
+    "hit_count": 306,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -299,7 +299,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-08-21",
-    "hit_count": 104,
+    "hit_count": 106,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -593,7 +593,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-08-20",
-    "hit_count": 120,
+    "hit_count": 123,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 69,
+    "hit_count": 76,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2361,7 +2361,7 @@
     "name": "InquisIT",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-21",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Threat Detection and Vulnerability Managment Cybersecurity Engineer"
     ]
@@ -3744,7 +3744,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 23,
+    "hit_count": 24,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3753,7 +3753,7 @@
     "name": "Northern Base",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Threat Hunting Consultant"
     ]
@@ -3789,7 +3789,7 @@
     "name": "GameChanger",
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer, Application Security"
     ]
