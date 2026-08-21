@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 298,
+    "hit_count": 302,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -299,7 +299,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-08-21",
-    "hit_count": 103,
+    "hit_count": 104,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -593,7 +593,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-08-20",
-    "hit_count": 117,
+    "hit_count": 120,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 63,
+    "hit_count": 69,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -1490,10 +1490,11 @@
   "ebay": {
     "name": "eBay",
     "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "hit_count": 5,
+    "last_seen": "2026-08-21",
+    "hit_count": 6,
     "sample_titles": [
-      "AI Offensive Security Engineer"
+      "AI Offensive Security Engineer",
+      "Network Security Automation Engineer"
     ]
   },
   "smartrent": {
@@ -2360,7 +2361,7 @@
     "name": "InquisIT",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-21",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Threat Detection and Vulnerability Managment Cybersecurity Engineer"
     ]
@@ -3743,7 +3744,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3752,7 +3753,7 @@
     "name": "Northern Base",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Threat Hunting Consultant"
     ]
@@ -3788,9 +3789,18 @@
     "name": "GameChanger",
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer, Application Security"
+    ]
+  },
+  "wake county government": {
+    "name": "Wake County Government",
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "IT Security Engineer - Hybrid - 90% Remote"
     ]
   }
 }
