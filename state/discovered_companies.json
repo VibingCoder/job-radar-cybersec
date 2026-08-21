@@ -99,8 +99,8 @@
   "little caesars": {
     "name": "Little Caesars",
     "first_seen": "2026-04-25",
-    "last_seen": "2026-04-25",
-    "hit_count": 1,
+    "last_seen": "2026-08-21",
+    "hit_count": 2,
     "sample_titles": [
       "Identity Security Engineer"
     ]
@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 306,
+    "hit_count": 310,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -299,7 +299,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-08-21",
-    "hit_count": 106,
+    "hit_count": 108,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -593,7 +593,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-08-20",
-    "hit_count": 123,
+    "hit_count": 127,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 76,
+    "hit_count": 84,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2361,7 +2361,7 @@
     "name": "InquisIT",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-21",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Threat Detection and Vulnerability Managment Cybersecurity Engineer"
     ]
@@ -2754,10 +2754,11 @@
   "f5 networks": {
     "name": "F5 Networks",
     "first_seen": "2026-07-17",
-    "last_seen": "2026-07-17",
-    "hit_count": 1,
+    "last_seen": "2026-08-21",
+    "hit_count": 2,
     "sample_titles": [
-      "Security Engineer"
+      "Security Engineer",
+      "Security Engineer - Incident response"
     ]
   },
   "honeywell aerospace": {
@@ -3744,7 +3745,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
