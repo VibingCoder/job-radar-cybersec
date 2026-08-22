@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 330,
+    "hit_count": 334,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -593,7 +593,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-08-20",
-    "hit_count": 147,
+    "hit_count": 150,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 124,
+    "hit_count": 132,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2361,7 +2361,7 @@
     "name": "InquisIT",
     "first_seen": "2026-06-30",
     "last_seen": "2026-08-21",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Threat Detection and Vulnerability Managment Cybersecurity Engineer"
     ]
@@ -2755,7 +2755,7 @@
     "name": "F5 Networks",
     "first_seen": "2026-07-17",
     "last_seen": "2026-08-21",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer - Incident response"
@@ -3745,7 +3745,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3802,6 +3802,15 @@
     "hit_count": 1,
     "sample_titles": [
       "IT Security Engineer - Hybrid - 90% Remote"
+    ]
+  },
+  "siri infosolutions inc": {
+    "name": "Siri InfoSolutions Inc",
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "hit_count": 2,
+    "sample_titles": [
+      "Threat Hunting Consultant"
     ]
   }
 }
