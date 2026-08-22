@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 350,
+    "hit_count": 354,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 164,
+    "hit_count": 172,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3091,8 +3091,8 @@
   "hologic": {
     "name": "Hologic",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-08-21",
-    "hit_count": 2,
+    "last_seen": "2026-08-22",
+    "hit_count": 3,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -3746,7 +3746,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3827,7 +3827,7 @@
     "name": "Fortreum",
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Cleared Penetration Tester - Seattle"
     ]
@@ -3845,7 +3845,7 @@
     "name": "SG2 Recruiting",
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Cyber Vulnerability Researcher"
     ]
