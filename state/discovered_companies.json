@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 342,
+    "hit_count": 346,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 148,
+    "hit_count": 156,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3745,7 +3745,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3808,7 +3808,7 @@
     "name": "Siri InfoSolutions Inc",
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "hit_count": 6,
+    "hit_count": 8,
     "sample_titles": [
       "Threat Hunting Consultant"
     ]
@@ -3826,9 +3826,18 @@
     "name": "Fortreum",
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Cleared Penetration Tester - Seattle"
+    ]
+  },
+  "lyntris": {
+    "name": "Lyntris",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer II"
     ]
   }
 }
