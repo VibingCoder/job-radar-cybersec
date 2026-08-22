@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 338,
+    "hit_count": 342,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -593,7 +593,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-08-21",
-    "hit_count": 151,
+    "hit_count": 152,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 140,
+    "hit_count": 148,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2755,7 +2755,7 @@
     "name": "F5 Networks",
     "first_seen": "2026-07-17",
     "last_seen": "2026-08-21",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer - Incident response"
@@ -3745,7 +3745,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 32,
+    "hit_count": 33,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3808,9 +3808,27 @@
     "name": "Siri InfoSolutions Inc",
     "first_seen": "2026-08-21",
     "last_seen": "2026-08-21",
-    "hit_count": 4,
+    "hit_count": 6,
     "sample_titles": [
       "Threat Hunting Consultant"
+    ]
+  },
+  "metecs": {
+    "name": "Metecs",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "IT Security Engineer"
+    ]
+  },
+  "fortreum": {
+    "name": "Fortreum",
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cleared Penetration Tester - Seattle"
     ]
   }
 }
