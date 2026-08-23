@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 386,
+    "hit_count": 391,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -743,7 +743,7 @@
     "name": "Robert Half",
     "first_seen": "2026-05-09",
     "last_seen": "2026-08-22",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Cyber Security Engineer"
     ]
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 236,
+    "hit_count": 244,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2999,10 +2999,11 @@
   "lumbee tribe holdings, inc.": {
     "name": "Lumbee Tribe Holdings, Inc.",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-07-23",
-    "hit_count": 8,
+    "last_seen": "2026-08-22",
+    "hit_count": 9,
     "sample_titles": [
-      "Vulnerability Researcher"
+      "Vulnerability Researcher",
+      "Cybersecurity Engineer"
     ]
   },
   "ford motor company": {
@@ -3746,7 +3747,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 44,
+    "hit_count": 45,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3827,7 +3828,7 @@
     "name": "Fortreum",
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Cleared Penetration Tester - Seattle"
     ]
@@ -3845,7 +3846,7 @@
     "name": "SG2 Recruiting",
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Cyber Vulnerability Researcher"
     ]
