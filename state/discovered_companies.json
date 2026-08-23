@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 406,
+    "hit_count": 411,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -743,7 +743,7 @@
     "name": "Robert Half",
     "first_seen": "2026-05-09",
     "last_seen": "2026-08-22",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Cyber Security Engineer"
     ]
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 268,
+    "hit_count": 276,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3000,7 +3000,7 @@
     "name": "Lumbee Tribe Holdings, Inc.",
     "first_seen": "2026-07-23",
     "last_seen": "2026-08-22",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cybersecurity Engineer"
@@ -3747,7 +3747,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 48,
+    "hit_count": 49,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3828,7 +3828,7 @@
     "name": "Fortreum",
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Cleared Penetration Tester - Seattle"
     ]
@@ -3846,7 +3846,7 @@
     "name": "SG2 Recruiting",
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Cyber Vulnerability Researcher"
     ]
@@ -3855,7 +3855,7 @@
     "name": "MSG Entertainment Holdings",
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Infrastructure Security Engineer"
     ]
@@ -3867,6 +3867,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Software Cybersecurity Engineer"
+    ]
+  },
+  "wise": {
+    "name": "Wise",
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
