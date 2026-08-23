@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 396,
+    "hit_count": 401,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -743,7 +743,7 @@
     "name": "Robert Half",
     "first_seen": "2026-05-09",
     "last_seen": "2026-08-22",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Cyber Security Engineer"
     ]
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 252,
+    "hit_count": 260,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3000,7 +3000,7 @@
     "name": "Lumbee Tribe Holdings, Inc.",
     "first_seen": "2026-07-23",
     "last_seen": "2026-08-22",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cybersecurity Engineer"
@@ -3747,7 +3747,7 @@
     "name": "Inabia Software & Consulting",
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
-    "hit_count": 46,
+    "hit_count": 47,
     "sample_titles": [
       "Penetration Tester / Red Team Consultant"
     ]
@@ -3828,7 +3828,7 @@
     "name": "Fortreum",
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Cleared Penetration Tester - Seattle"
     ]
@@ -3846,9 +3846,18 @@
     "name": "SG2 Recruiting",
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Cyber Vulnerability Researcher"
+    ]
+  },
+  "msg entertainment holdings": {
+    "name": "MSG Entertainment Holdings",
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Infrastructure Security Engineer"
     ]
   }
 }
