@@ -274,8 +274,8 @@
   "asm research, an accenture federal services company": {
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-06-03",
-    "hit_count": 128,
+    "last_seen": "2026-08-23",
+    "hit_count": 132,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 441,
+    "hit_count": 446,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1385,7 +1385,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 324,
+    "hit_count": 332,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3000,7 +3000,7 @@
     "name": "Lumbee Tribe Holdings, Inc.",
     "first_seen": "2026-07-23",
     "last_seen": "2026-08-22",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cybersecurity Engineer"
@@ -3855,7 +3855,7 @@
     "name": "MSG Entertainment Holdings",
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Infrastructure Security Engineer"
     ]
@@ -3873,7 +3873,7 @@
     "name": "Wise",
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Application Security Engineer"
     ]
