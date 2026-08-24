@@ -275,7 +275,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-23",
-    "hit_count": 177,
+    "hit_count": 182,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -286,7 +286,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-19",
-    "hit_count": 485,
+    "hit_count": 489,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1386,7 +1386,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-19",
-    "hit_count": 387,
+    "hit_count": 392,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -1529,10 +1529,11 @@
   "applied research associates, inc": {
     "name": "Applied Research Associates, Inc",
     "first_seen": "2026-06-03",
-    "last_seen": "2026-06-03",
-    "hit_count": 2,
+    "last_seen": "2026-08-24",
+    "hit_count": 3,
     "sample_titles": [
-      "Security Engineer-Cloud Platforms"
+      "Security Engineer-Cloud Platforms",
+      "Information System Security Engineer (ISSE) \u2013 Risk Management Framework (RMF), AWS, ACAS, Splunk"
     ]
   },
   "hirekeyz inc": {
@@ -3002,7 +3003,7 @@
     "name": "Lumbee Tribe Holdings, Inc.",
     "first_seen": "2026-07-23",
     "last_seen": "2026-08-22",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cybersecurity Engineer"
@@ -3857,7 +3858,7 @@
     "name": "MSG Entertainment Holdings",
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Infrastructure Security Engineer"
     ]
@@ -3875,7 +3876,7 @@
     "name": "Wise",
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Application Security Engineer"
     ]
