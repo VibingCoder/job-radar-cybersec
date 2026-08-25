@@ -275,7 +275,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-23",
-    "hit_count": 182,
+    "hit_count": 187,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -285,8 +285,8 @@
   "bank of america": {
     "name": "Bank of America",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-08-19",
-    "hit_count": 489,
+    "last_seen": "2026-08-21",
+    "hit_count": 491,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1385,8 +1385,8 @@
   "carnegie mellon university": {
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-08-19",
-    "hit_count": 392,
+    "last_seen": "2026-08-21",
+    "hit_count": 395,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3003,7 +3003,7 @@
     "name": "Lumbee Tribe Holdings, Inc.",
     "first_seen": "2026-07-23",
     "last_seen": "2026-08-22",
-    "hit_count": 36,
+    "hit_count": 37,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cybersecurity Engineer"
@@ -3758,10 +3758,11 @@
   "northern base": {
     "name": "Northern Base",
     "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "hit_count": 17,
+    "last_seen": "2026-08-24",
+    "hit_count": 18,
     "sample_titles": [
-      "Threat Hunting Consultant"
+      "Threat Hunting Consultant",
+      "Python Full Stack Security Engineer"
     ]
   },
   "9to9 software solutions llc": {
@@ -3858,7 +3859,7 @@
     "name": "MSG Entertainment Holdings",
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Infrastructure Security Engineer"
     ]
@@ -3897,6 +3898,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Wireless Security Engineer - Open Rank (Entry to Junior)-CIPHER"
+    ]
+  },
+  "riva scientific llc": {
+    "name": "Riva Scientific LLC",
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer II"
     ]
   }
 }
