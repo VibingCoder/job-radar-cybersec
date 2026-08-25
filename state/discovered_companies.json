@@ -20,11 +20,12 @@
   "pnc financial services group": {
     "name": "PNC Financial Services Group",
     "first_seen": "2026-04-23",
-    "last_seen": "2026-07-25",
-    "hit_count": 2,
+    "last_seen": "2026-08-25",
+    "hit_count": 3,
     "sample_titles": [
       "Security Analyst - Pen Tester / Tuesday - Saturday shift",
-      "Security Engineer - Cryptographic Engineer for Post Quantum Cryptography"
+      "Security Engineer - Cryptographic Engineer for Post Quantum Cryptography",
+      "Cloud Security Engineer - Azure Defender/Prisma Cloud/Cortex Cloud"
     ]
   },
   "gunnison consulting group": {
@@ -275,7 +276,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-23",
-    "hit_count": 216,
+    "hit_count": 222,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -286,7 +287,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-21",
-    "hit_count": 497,
+    "hit_count": 498,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1386,7 +1387,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-21",
-    "hit_count": 410,
+    "hit_count": 413,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3859,7 +3860,7 @@
     "name": "MSG Entertainment Holdings",
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Infrastructure Security Engineer"
     ]
@@ -3904,7 +3905,7 @@
     "name": "Riva Scientific LLC",
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Application Security Engineer II"
     ]
