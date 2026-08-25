@@ -276,7 +276,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-23",
-    "hit_count": 228,
+    "hit_count": 234,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -287,7 +287,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-21",
-    "hit_count": 499,
+    "hit_count": 500,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -735,7 +735,7 @@
     "name": "NYU",
     "first_seen": "2026-05-08",
     "last_seen": "2026-08-25",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Information Security Analyst Tier 1"
     ]
@@ -1387,7 +1387,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-21",
-    "hit_count": 416,
+    "hit_count": 419,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3860,7 +3860,7 @@
     "name": "MSG Entertainment Holdings",
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Infrastructure Security Engineer"
     ]
@@ -3905,9 +3905,18 @@
     "name": "Riva Scientific LLC",
     "first_seen": "2026-08-24",
     "last_seen": "2026-08-24",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Application Security Engineer II"
+    ]
+  },
+  "city national bank of florida": {
+    "name": "City National Bank of Florida",
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-08-25",
+    "hit_count": 1,
+    "sample_titles": [
+      "Identity & Access Management Security Engineer"
     ]
   }
 }
