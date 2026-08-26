@@ -276,7 +276,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-23",
-    "hit_count": 258,
+    "hit_count": 264,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -287,7 +287,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-21",
-    "hit_count": 504,
+    "hit_count": 505,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1058,7 +1058,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-08-25",
-    "hit_count": 284,
+    "hit_count": 285,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1387,7 +1387,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-08-21",
-    "hit_count": 431,
+    "hit_count": 434,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3396,8 +3396,8 @@
   "system one": {
     "name": "System One",
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-24",
-    "hit_count": 4,
+    "last_seen": "2026-08-25",
+    "hit_count": 5,
     "sample_titles": [
       "Cybersecurity Engineer ( W2 direct hire, no C2C )"
     ]
@@ -3860,7 +3860,7 @@
     "name": "MSG Entertainment Holdings",
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-23",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Infrastructure Security Engineer"
     ]
