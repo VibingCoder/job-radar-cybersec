@@ -276,7 +276,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-23",
-    "hit_count": 320,
+    "hit_count": 322,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -287,7 +287,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-08-22",
-    "hit_count": 515,
+    "hit_count": 516,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1058,7 +1058,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-08-27",
-    "hit_count": 293,
+    "hit_count": 294,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2778,8 +2778,8 @@
   "technipros, llc": {
     "name": "TechniPros, LLC",
     "first_seen": "2026-07-17",
-    "last_seen": "2026-08-19",
-    "hit_count": 19,
+    "last_seen": "2026-08-27",
+    "hit_count": 20,
     "sample_titles": [
       "Cybersecurity Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
       "Cyber Security Engineer-Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
@@ -3959,7 +3959,7 @@
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -3968,7 +3968,7 @@
     "name": "Solace",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Associate Security Engineer (College Grad 2027)"
     ]
