@@ -3959,7 +3959,7 @@
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -3971,6 +3971,33 @@
     "hit_count": 2,
     "sample_titles": [
       "Associate Security Engineer (College Grad 2027)"
+    ]
+  },
+  "intelligent waves": {
+    "name": "Intelligent Waves",
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "hit_count": 1,
+    "sample_titles": [
+      "Red Team Operator SME & Infrastructure Engineer"
+    ]
+  },
+  "aston carter": {
+    "name": "Aston Carter",
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-08-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Consultant"
+    ]
+  },
+  "sentry": {
+    "name": "Sentry",
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-08-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Application Security"
     ]
   }
 }
