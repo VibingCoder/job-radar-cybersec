@@ -1887,7 +1887,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-08-29",
-    "hit_count": 25,
+    "hit_count": 31,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI"
@@ -3960,7 +3960,7 @@
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -3978,7 +3978,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer"
     ]
@@ -4008,6 +4008,24 @@
     "hit_count": 5,
     "sample_titles": [
       "Offensive Security Agent Engineer"
+    ]
+  },
+  "a-staffing, inc.": {
+    "name": "A-STAFFING, INC.",
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer -Japanese Bilingual"
+    ]
+  },
+  "sps commerce": {
+    "name": "SPS Commerce",
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Associate Security Engineer"
     ]
   }
 }
