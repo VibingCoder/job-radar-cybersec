@@ -286,8 +286,8 @@
   "bank of america": {
     "name": "Bank of America",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-08-22",
-    "hit_count": 516,
+    "last_seen": "2026-08-30",
+    "hit_count": 517,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1887,7 +1887,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-08-29",
-    "hit_count": 31,
+    "hit_count": 37,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI"
@@ -3960,7 +3960,7 @@
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -3978,7 +3978,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer"
     ]
@@ -4023,7 +4023,7 @@
     "name": "SPS Commerce",
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Associate Security Engineer"
     ]
