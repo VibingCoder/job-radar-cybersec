@@ -1886,8 +1886,8 @@
   "meta": {
     "name": "Meta",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-13",
-    "hit_count": 20,
+    "last_seen": "2026-08-29",
+    "hit_count": 25,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI"
@@ -3960,7 +3960,7 @@
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -3978,7 +3978,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer"
     ]
