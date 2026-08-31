@@ -3978,7 +3978,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer"
     ]
@@ -4026,6 +4026,16 @@
     "hit_count": 5,
     "sample_titles": [
       "Associate Security Engineer"
+    ]
+  },
+  "cobalt": {
+    "name": "Cobalt",
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-08-31",
+    "hit_count": 2,
+    "sample_titles": [
+      "Offensive Security Contributor: AI Red Teaming and Penetration Testing",
+      "Penetration Tester, Frontier AI Evaluation"
     ]
   }
 }
