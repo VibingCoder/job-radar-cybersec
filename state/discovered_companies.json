@@ -1887,7 +1887,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-08-31",
-    "hit_count": 53,
+    "hit_count": 54,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI"
@@ -3960,7 +3960,7 @@
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -3978,7 +3978,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer"
     ]
@@ -4042,7 +4042,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance"
     ]
@@ -4050,8 +4050,8 @@
   "koniag government services": {
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-08-31",
-    "hit_count": 2,
+    "last_seen": "2026-09-01",
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
     ]
