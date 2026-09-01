@@ -1886,8 +1886,8 @@
   "meta": {
     "name": "Meta",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-29",
-    "hit_count": 51,
+    "last_seen": "2026-08-30",
+    "hit_count": 52,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI"
@@ -3397,8 +3397,8 @@
   "system one": {
     "name": "System One",
     "first_seen": "2026-08-07",
-    "last_seen": "2026-08-25",
-    "hit_count": 5,
+    "last_seen": "2026-08-31",
+    "hit_count": 6,
     "sample_titles": [
       "Cybersecurity Engineer ( W2 direct hire, no C2C )"
     ]
@@ -3960,7 +3960,7 @@
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -3978,7 +3978,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer"
     ]
@@ -4023,7 +4023,7 @@
     "name": "SPS Commerce",
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Associate Security Engineer"
     ]
