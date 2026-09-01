@@ -861,7 +861,7 @@
     "company": "Crowdstrike",
     "title": "Security Researcher - Spanish (Remote)",
     "location": "USA - Remote",
-    "posted_at": "2026-09-01",
+    "posted_at": null,
     "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Remote/Security-Researcher--Remote-_R29689",
     "provider": "workday"
   },
@@ -958,8 +958,17 @@
     "company": "Crowdstrike",
     "title": "Red Team Services Consultant (Remote)",
     "location": "USA - Remote",
-    "posted_at": "2026-09-01",
+    "posted_at": null,
     "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Remote/Red-Team-Services-Consultant--Remote-_R29997",
+    "provider": "workday"
+  },
+  "workday-crowdstrike-Endpoint-Threat-Hunting-Consultant--Remote-_R30011": {
+    "job_id": "workday-crowdstrike-Endpoint-Threat-Hunting-Consultant--Remote-_R30011",
+    "company": "Crowdstrike",
+    "title": "Endpoint Threat Hunting Consultant (Remote)",
+    "location": "USA - Remote",
+    "posted_at": "2026-09-01",
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Remote/Endpoint-Threat-Hunting-Consultant--Remote-_R30011",
     "provider": "workday"
   }
 }
