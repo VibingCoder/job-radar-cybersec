@@ -2831,7 +2831,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-02",
-    "hit_count": 77,
+    "hit_count": 78,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -4071,7 +4071,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
