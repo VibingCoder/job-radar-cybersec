@@ -2830,8 +2830,8 @@
   "delta defense": {
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-08-13",
-    "hit_count": 76,
+    "last_seen": "2026-09-02",
+    "hit_count": 77,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)"
@@ -3681,7 +3681,7 @@
     "name": "AbbVie",
     "first_seen": "2026-08-16",
     "last_seen": "2026-09-02",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Agentic AI Security Engineer",
       "Application Security Engineer"
@@ -4044,7 +4044,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance"
     ]
@@ -4071,7 +4071,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
