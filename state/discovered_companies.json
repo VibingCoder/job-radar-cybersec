@@ -1059,7 +1059,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-09-01",
-    "hit_count": 297,
+    "hit_count": 298,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -3681,7 +3681,7 @@
     "name": "AbbVie",
     "first_seen": "2026-08-16",
     "last_seen": "2026-09-02",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Agentic AI Security Engineer",
       "Application Security Engineer"
@@ -4044,7 +4044,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance"
     ]
@@ -4065,6 +4065,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Information Security Engineer II"
+    ]
+  },
+  "anduril": {
+    "name": "Anduril",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Red Team Engineer, Discovery"
     ]
   }
 }
