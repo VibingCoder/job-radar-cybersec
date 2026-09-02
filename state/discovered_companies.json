@@ -743,10 +743,11 @@
   "robert half": {
     "name": "Robert Half",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-08-22",
-    "hit_count": 17,
+    "last_seen": "2026-09-01",
+    "hit_count": 18,
     "sample_titles": [
-      "Cyber Security Engineer"
+      "Cyber Security Engineer",
+      "IAM/Security Engineer"
     ]
   },
   "booz allen hamilton": {
@@ -1058,7 +1059,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-09-01",
-    "hit_count": 295,
+    "hit_count": 296,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -4042,7 +4043,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance"
     ]
