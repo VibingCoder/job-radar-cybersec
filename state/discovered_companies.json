@@ -4045,7 +4045,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 11,
+    "hit_count": 13,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery"
@@ -4073,7 +4073,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
@@ -4094,6 +4094,15 @@
     "hit_count": 3,
     "sample_titles": [
       "Security Engineer \u2014 Application Security & Identity"
+    ]
+  },
+  "sonar": {
+    "name": "Sonar",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
