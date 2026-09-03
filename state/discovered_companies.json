@@ -1138,12 +1138,13 @@
   "regions bank": {
     "name": "Regions Bank",
     "first_seen": "2026-05-20",
-    "last_seen": "2026-08-10",
-    "hit_count": 42,
+    "last_seen": "2026-09-03",
+    "hit_count": 43,
     "sample_titles": [
       "Cyber Security Engineer",
       "Application Security Engineer",
-      "Threat Detection Engineer"
+      "Threat Detection Engineer",
+      "Network Security Engineer"
     ]
   },
   "jpmorganchase": {
@@ -1898,13 +1899,14 @@
   "truist": {
     "name": "Truist",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-14",
-    "hit_count": 16,
+    "last_seen": "2026-09-03",
+    "hit_count": 17,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
       "Associate Application Security Engineer - Bug Bounty & Vulnerability Management",
-      "Security Engineer - Cloud Security Engineer"
+      "Security Engineer - Cloud Security Engineer",
+      "Open Source Software Security Engineer - Software Supply Chain"
     ]
   },
   "technologent": {
@@ -4045,7 +4047,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 13,
+    "hit_count": 15,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery"
@@ -4073,7 +4075,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
@@ -4103,6 +4105,33 @@
     "hit_count": 1,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "trustwave": {
+    "name": "Trustwave",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "hit_count": 4,
+    "sample_titles": [
+      "Cybersecurity Engineer (Architecture, Infrastructure and Remediation)"
+    ]
+  },
+  "abnormal": {
+    "name": "Abnormal",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "hit_count": 5,
+    "sample_titles": [
+      "Application Security Engineer II"
+    ]
+  },
+  "ey": {
+    "name": "EY",
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "hit_count": 2,
+    "sample_titles": [
+      "Offensive Security Analyst"
     ]
   }
 }
