@@ -4047,7 +4047,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery"
@@ -4075,7 +4075,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
@@ -4111,7 +4111,7 @@
     "name": "Trustwave",
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
-    "hit_count": 8,
+    "hit_count": 12,
     "sample_titles": [
       "Cybersecurity Engineer (Architecture, Infrastructure and Remediation)"
     ]
@@ -4120,7 +4120,7 @@
     "name": "Abnormal",
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
-    "hit_count": 10,
+    "hit_count": 13,
     "sample_titles": [
       "Application Security Engineer II"
     ]
