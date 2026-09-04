@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -301,7 +301,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-04",
-    "hit_count": 118,
+    "hit_count": 119,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1901,7 +1901,7 @@
     "name": "Truist",
     "first_seen": "2026-06-16",
     "last_seen": "2026-09-04",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
@@ -2160,8 +2160,8 @@
   "nationwide it services": {
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-25",
-    "hit_count": 63,
+    "last_seen": "2026-09-04",
+    "hit_count": 64,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4048,7 +4048,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery"
@@ -4076,7 +4076,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
@@ -4112,7 +4112,7 @@
     "name": "Trustwave",
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
-    "hit_count": 19,
+    "hit_count": 21,
     "sample_titles": [
       "Cybersecurity Engineer (Architecture, Infrastructure and Remediation)"
     ]
@@ -4148,7 +4148,7 @@
     "name": "Maricopa County",
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Information Security Engineer"
     ]
