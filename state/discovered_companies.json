@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -301,7 +301,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-04",
-    "hit_count": 120,
+    "hit_count": 121,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2161,7 +2161,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-09-04",
-    "hit_count": 65,
+    "hit_count": 66,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4048,7 +4048,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery"
@@ -4076,7 +4076,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
@@ -4148,7 +4148,7 @@
     "name": "Maricopa County",
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Information Security Engineer"
     ]
