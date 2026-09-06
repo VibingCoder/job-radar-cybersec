@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -1296,11 +1296,12 @@
   "cisco": {
     "name": "Cisco",
     "first_seen": "2026-05-27",
-    "last_seen": "2026-07-30",
-    "hit_count": 11,
+    "last_seen": "2026-09-06",
+    "hit_count": 13,
     "sample_titles": [
       "AI Security Engineer",
-      "Security Engineer II (Full Time) - United States STO/Cloud Security Engineering ETR"
+      "Security Engineer II (Full Time) - United States STO/Cloud Security Engineering ETR",
+      "Security Engineer (Remote)"
     ]
   },
   "voyager technologies": {
@@ -4048,7 +4049,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery"
@@ -4076,7 +4077,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
