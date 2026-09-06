@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -4048,7 +4048,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
-    "hit_count": 29,
+    "hit_count": 30,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery"
@@ -4076,7 +4076,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
@@ -4166,7 +4166,7 @@
     "name": "PSI Services",
     "first_seen": "2026-09-05",
     "last_seen": "2026-09-05",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Federal Vulnerability Mgmt & App Security Engineer (US Citizen)"
     ]
