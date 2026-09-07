@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -2463,10 +2463,11 @@
   "accenture federal services": {
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-04",
-    "hit_count": 43,
+    "last_seen": "2026-09-07",
+    "hit_count": 44,
     "sample_titles": [
-      "Penetration Tester"
+      "Penetration Tester",
+      "Application Security Engineer"
     ]
   },
   "east west bank": {
@@ -3196,8 +3197,8 @@
   "careers at kkr": {
     "name": "Careers at KKR",
     "first_seen": "2026-07-30",
-    "last_seen": "2026-07-30",
-    "hit_count": 4,
+    "last_seen": "2026-09-07",
+    "hit_count": 5,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -4078,7 +4079,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 29,
+    "hit_count": 30,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
