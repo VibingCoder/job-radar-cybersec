@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -527,8 +527,8 @@
   "insight global": {
     "name": "Insight Global",
     "first_seen": "2026-05-03",
-    "last_seen": "2026-08-25",
-    "hit_count": 33,
+    "last_seen": "2026-09-07",
+    "hit_count": 34,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -1297,7 +1297,7 @@
     "name": "Cisco",
     "first_seen": "2026-05-27",
     "last_seen": "2026-09-06",
-    "hit_count": 23,
+    "hit_count": 25,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer II (Full Time) - United States STO/Cloud Security Engineering ETR",
@@ -2444,10 +2444,11 @@
   "accenture": {
     "name": "Accenture",
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
-    "hit_count": 39,
+    "last_seen": "2026-09-07",
+    "hit_count": 40,
     "sample_titles": [
-      "Penetration Tester"
+      "Penetration Tester",
+      "Application Security Engineer"
     ]
   },
   "zscaler": {
@@ -4077,7 +4078,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 27,
+    "hit_count": 28,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
