@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 27,
+    "hit_count": 28,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -1297,7 +1297,7 @@
     "name": "Cisco",
     "first_seen": "2026-05-27",
     "last_seen": "2026-09-06",
-    "hit_count": 21,
+    "hit_count": 23,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer II (Full Time) - United States STO/Cloud Security Engineering ETR",
@@ -4077,7 +4077,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Red Team Engineer, Discovery"
     ]
