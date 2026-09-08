@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -1508,7 +1508,7 @@
     "name": "SmartRent",
     "first_seen": "2026-06-03",
     "last_seen": "2026-09-08",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -2464,7 +2464,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-09-07",
-    "hit_count": 48,
+    "hit_count": 49,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer"
