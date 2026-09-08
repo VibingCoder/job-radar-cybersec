@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -1508,7 +1508,7 @@
     "name": "SmartRent",
     "first_seen": "2026-06-03",
     "last_seen": "2026-09-08",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -2464,7 +2464,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-09-07",
-    "hit_count": 46,
+    "hit_count": 47,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer"
@@ -4190,6 +4190,15 @@
     "hit_count": 1,
     "sample_titles": [
       "HSM Security Engineer"
+    ]
+  },
+  "renesas electronics": {
+    "name": "Renesas Electronics",
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud DevOps and AI Security Engineer"
     ]
   }
 }
