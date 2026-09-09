@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 40,
+    "hit_count": 41,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -1508,7 +1508,7 @@
     "name": "SmartRent",
     "first_seen": "2026-06-03",
     "last_seen": "2026-09-08",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -4206,9 +4206,18 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-08",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track"
+    ]
+  },
+  "mantech": {
+    "name": "MANTECH",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber System Security Engineer"
     ]
   }
 }
