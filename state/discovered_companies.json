@@ -70,7 +70,7 @@
     "name": "ManpowerGroup",
     "first_seen": "2026-04-22",
     "last_seen": "2026-09-04",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Application Security Engineer",
       "Oracle Cloud Security Analyst",
@@ -1508,7 +1508,7 @@
     "name": "SmartRent",
     "first_seen": "2026-06-03",
     "last_seen": "2026-09-08",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -3287,10 +3287,11 @@
   "booz, allen & hamilton, inc.": {
     "name": "BOOZ, ALLEN & HAMILTON, INC.",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-08-03",
-    "hit_count": 1,
+    "last_seen": "2026-09-09",
+    "hit_count": 2,
     "sample_titles": [
-      "Information Systems Security Engineer"
+      "Information Systems Security Engineer",
+      "Undersea Systems Security Engineer"
     ]
   },
   "astound": {
@@ -4205,7 +4206,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-08",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track"
     ]
