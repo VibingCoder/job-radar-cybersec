@@ -2837,11 +2837,12 @@
   "delta defense": {
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-09-03",
-    "hit_count": 79,
+    "last_seen": "2026-09-09",
+    "hit_count": 80,
     "sample_titles": [
       "Cybersecurity Engineer",
-      "Cybersecurity Engineer (Application Security focus)"
+      "Cybersecurity Engineer (Application Security focus)",
+      "Cybersecurity Engineer (Application Security focus) (West Bend)"
     ]
   },
   "clearfocus technologies": {
@@ -4206,7 +4207,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-08",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track"
     ]
