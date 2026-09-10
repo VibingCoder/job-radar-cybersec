@@ -192,8 +192,8 @@
   "vast.ai": {
     "name": "Vast.ai",
     "first_seen": "2026-04-27",
-    "last_seen": "2026-05-25",
-    "hit_count": 9,
+    "last_seen": "2026-09-10",
+    "hit_count": 10,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -301,7 +301,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-10",
-    "hit_count": 124,
+    "hit_count": 127,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2838,7 +2838,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-09",
-    "hit_count": 81,
+    "hit_count": 82,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)",
@@ -3270,8 +3270,8 @@
   "aws security": {
     "name": "AWS Security",
     "first_seen": "2026-08-02",
-    "last_seen": "2026-08-02",
-    "hit_count": 14,
+    "last_seen": "2026-09-10",
+    "hit_count": 15,
     "sample_titles": [
       "AI Security Engineer, AWS Security, AWS Security - AISec"
     ]
@@ -3988,10 +3988,11 @@
   "intelligent waves": {
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-08-27",
-    "hit_count": 19,
+    "last_seen": "2026-09-10",
+    "hit_count": 20,
     "sample_titles": [
-      "Red Team Operator SME & Infrastructure Engineer"
+      "Red Team Operator SME & Infrastructure Engineer",
+      "Red Team Infrastructure - SME"
     ]
   },
   "aston carter": {
@@ -4207,7 +4208,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-08",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track"
     ]
@@ -4225,13 +4226,31 @@
     "name": "SailPoint",
     "first_seen": "2026-09-10",
     "last_seen": "2026-09-10",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Product Security Engineer"
     ]
   },
   "air apps": {
     "name": "Air Apps",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "hit_count": 2,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "volta": {
+    "name": "Volta",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Compliance Focus"
+    ]
+  },
+  "people culture talent": {
+    "name": "People Culture Talent",
     "first_seen": "2026-09-10",
     "last_seen": "2026-09-10",
     "hit_count": 1,
