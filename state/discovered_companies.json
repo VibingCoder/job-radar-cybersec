@@ -300,8 +300,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-09-04",
-    "hit_count": 121,
+    "last_seen": "2026-09-10",
+    "hit_count": 124,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2838,7 +2838,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-09",
-    "hit_count": 80,
+    "hit_count": 81,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)",
@@ -4207,7 +4207,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-08",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track"
     ]
@@ -4219,6 +4219,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Cyber System Security Engineer"
+    ]
+  },
+  "sailpoint": {
+    "name": "SailPoint",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer"
+    ]
+  },
+  "air apps": {
+    "name": "Air Apps",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
