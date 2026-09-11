@@ -193,7 +193,7 @@
     "name": "Vast.ai",
     "first_seen": "2026-04-27",
     "last_seen": "2026-09-10",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -301,7 +301,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-10",
-    "hit_count": 130,
+    "hit_count": 131,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2838,7 +2838,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-09",
-    "hit_count": 84,
+    "hit_count": 85,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)",
@@ -3271,7 +3271,7 @@
     "name": "AWS Security",
     "first_seen": "2026-08-02",
     "last_seen": "2026-09-10",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "AI Security Engineer, AWS Security, AWS Security - AISec"
     ]
@@ -3989,7 +3989,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-10",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4208,7 +4208,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-08",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track"
     ]
@@ -4253,9 +4253,18 @@
     "name": "People Culture Talent",
     "first_seen": "2026-09-10",
     "last_seen": "2026-09-10",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "sagarsoft": {
+    "name": "Sagarsoft",
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer AWS / DevSecOps"
     ]
   }
 }
