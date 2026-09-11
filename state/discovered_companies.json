@@ -1903,7 +1903,7 @@
     "name": "Truist",
     "first_seen": "2026-06-16",
     "last_seen": "2026-09-11",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
@@ -2068,10 +2068,11 @@
   "siritech solutions corp": {
     "name": "Siritech Solutions Corp",
     "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "hit_count": 1,
+    "last_seen": "2026-09-11",
+    "hit_count": 2,
     "sample_titles": [
-      "CIS Baseline & Server Image Security Engineer"
+      "CIS Baseline & Server Image Security Engineer",
+      "Network Security Analyst"
     ]
   },
   "next gen it inc": {
@@ -3993,7 +3994,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-10",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4275,7 +4276,7 @@
     "name": "MissionSquare Retirement",
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Application & AI Security Engineer"
     ]
