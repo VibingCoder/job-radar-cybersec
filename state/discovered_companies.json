@@ -193,7 +193,7 @@
     "name": "Vast.ai",
     "first_seen": "2026-04-27",
     "last_seen": "2026-09-10",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -1902,8 +1902,8 @@
   "truist": {
     "name": "Truist",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-04",
-    "hit_count": 19,
+    "last_seen": "2026-09-11",
+    "hit_count": 20,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
@@ -2868,12 +2868,13 @@
   "fluidstack": {
     "name": "Fluidstack",
     "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "hit_count": 3,
+    "last_seen": "2026-09-11",
+    "hit_count": 4,
     "sample_titles": [
       "Network Security Engineer",
       "Security Engineer, Cloud",
-      "Physical Security Engineer, R&D"
+      "Physical Security Engineer, R&D",
+      "Security Engineer, Threat Intelligence"
     ]
   },
   "honeywell - aerospace": {
@@ -3991,7 +3992,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-10",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4273,7 +4274,7 @@
     "name": "MissionSquare Retirement",
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application & AI Security Engineer"
     ]
