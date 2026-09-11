@@ -1903,7 +1903,7 @@
     "name": "Truist",
     "first_seen": "2026-06-16",
     "last_seen": "2026-09-11",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
@@ -3118,10 +3118,11 @@
   "kforce technology staffing": {
     "name": "Kforce Technology Staffing",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-07-27",
-    "hit_count": 2,
+    "last_seen": "2026-09-11",
+    "hit_count": 3,
     "sample_titles": [
-      "Unix Security Engineer"
+      "Unix Security Engineer",
+      "Product Security Engineer"
     ]
   },
   "sni technology": {
@@ -3992,7 +3993,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-10",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4274,7 +4275,7 @@
     "name": "MissionSquare Retirement",
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application & AI Security Engineer"
     ]
