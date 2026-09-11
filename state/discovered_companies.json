@@ -193,7 +193,7 @@
     "name": "Vast.ai",
     "first_seen": "2026-04-27",
     "last_seen": "2026-09-10",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -904,11 +904,12 @@
   "recruiting from scratch": {
     "name": "Recruiting From Scratch",
     "first_seen": "2026-05-13",
-    "last_seen": "2026-06-20",
-    "hit_count": 2,
+    "last_seen": "2026-09-11",
+    "hit_count": 3,
     "sample_titles": [
       "Systems Security Engineer",
-      "Security Engineer"
+      "Security Engineer",
+      "Infrastructure & Security Engineer"
     ]
   },
   "navitaspartners": {
@@ -2035,12 +2036,13 @@
   "truist bank": {
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-08-08",
-    "hit_count": 24,
+    "last_seen": "2026-09-11",
+    "hit_count": 25,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
       "Security Engineer \u2013 Identity Governance & Administration (IGA)",
-      "Associate Application Security Engineer - Bug Bounty & Vulnerability Management"
+      "Associate Application Security Engineer - Bug Bounty & Vulnerability Management",
+      "Security Engineer (Application Security Testing)"
     ]
   },
   "xai": {
@@ -3989,7 +3991,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-10",
-    "hit_count": 23,
+    "hit_count": 24,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4262,9 +4264,18 @@
     "name": "Sagarsoft",
     "first_seen": "2026-09-10",
     "last_seen": "2026-09-10",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer AWS / DevSecOps"
+    ]
+  },
+  "missionsquare retirement": {
+    "name": "MissionSquare Retirement",
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application & AI Security Engineer"
     ]
   }
 }
