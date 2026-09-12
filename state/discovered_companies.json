@@ -300,8 +300,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-09-10",
-    "hit_count": 131,
+    "last_seen": "2026-09-12",
+    "hit_count": 132,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -527,8 +527,8 @@
   "insight global": {
     "name": "Insight Global",
     "first_seen": "2026-05-03",
-    "last_seen": "2026-09-07",
-    "hit_count": 35,
+    "last_seen": "2026-09-12",
+    "hit_count": 36,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -595,7 +595,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-09-12",
-    "hit_count": 153,
+    "hit_count": 156,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2384,10 +2384,11 @@
   "netspi": {
     "name": "NetSPI",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-01",
-    "hit_count": 45,
+    "last_seen": "2026-09-12",
+    "hit_count": 46,
     "sample_titles": [
-      "Security Consultant II (Web Application Penetration Tester)"
+      "Security Consultant II (Web Application Penetration Tester)",
+      "Security Consultant II (Mobile Application Penetration Tester)"
     ]
   },
   "teksystems c/o allegis group": {
@@ -3979,7 +3980,7 @@
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-12",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance",
       "Red Team Infrastructure - SME with Security Clearance"
@@ -3998,7 +3999,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-10",
-    "hit_count": 29,
+    "hit_count": 30,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4217,7 +4218,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-12",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)"
@@ -4281,9 +4282,18 @@
     "name": "MissionSquare Retirement",
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Application & AI Security Engineer"
+    ]
+  },
+  "oceaneering": {
+    "name": "Oceaneering",
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "Network Security Engineer"
     ]
   }
 }
