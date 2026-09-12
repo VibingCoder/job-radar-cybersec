@@ -594,8 +594,8 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-08-21",
-    "hit_count": 152,
+    "last_seen": "2026-09-12",
+    "hit_count": 153,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2037,13 +2037,14 @@
   "truist bank": {
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-09-11",
-    "hit_count": 25,
+    "last_seen": "2026-09-12",
+    "hit_count": 26,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
       "Security Engineer \u2013 Identity Governance & Administration (IGA)",
       "Associate Application Security Engineer - Bug Bounty & Vulnerability Management",
-      "Security Engineer (Application Security Testing)"
+      "Security Engineer (Application Security Testing)",
+      "Associate Security Engineer"
     ]
   },
   "xai": {
@@ -2754,8 +2755,8 @@
   "all native group": {
     "name": "All Native Group",
     "first_seen": "2026-07-15",
-    "last_seen": "2026-07-15",
-    "hit_count": 4,
+    "last_seen": "2026-09-12",
+    "hit_count": 5,
     "sample_titles": [
       "Cybersecurity Engineer with Security Clearance"
     ]
@@ -3977,10 +3978,11 @@
   "intelligent waves llc": {
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-08-27",
-    "hit_count": 17,
+    "last_seen": "2026-09-12",
+    "hit_count": 18,
     "sample_titles": [
-      "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
+      "Red Team Operator SME & Infrastructure Engineer with Security Clearance",
+      "Red Team Infrastructure - SME with Security Clearance"
     ]
   },
   "solace": {
@@ -3996,7 +3998,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-10",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4214,10 +4216,11 @@
   "flywire": {
     "name": "Flywire",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-08",
-    "hit_count": 11,
+    "last_seen": "2026-09-12",
+    "hit_count": 12,
     "sample_titles": [
-      "Security Engineer II \u2013 Offensive Track"
+      "Security Engineer II \u2013 Offensive Track",
+      "Security Engineer II (Offensive Operations)"
     ]
   },
   "mantech": {
@@ -4278,7 +4281,7 @@
     "name": "MissionSquare Retirement",
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Application & AI Security Engineer"
     ]
