@@ -301,7 +301,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-12",
-    "hit_count": 132,
+    "hit_count": 133,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -528,7 +528,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-09-12",
-    "hit_count": 36,
+    "hit_count": 37,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -595,7 +595,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-09-12",
-    "hit_count": 156,
+    "hit_count": 159,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2385,7 +2385,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-09-12",
-    "hit_count": 46,
+    "hit_count": 47,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)",
       "Security Consultant II (Mobile Application Penetration Tester)"
@@ -3980,7 +3980,7 @@
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-12",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance",
       "Red Team Infrastructure - SME with Security Clearance"
@@ -3999,7 +3999,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-09-10",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4218,7 +4218,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-12",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)"
