@@ -301,7 +301,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-13",
-    "hit_count": 138,
+    "hit_count": 139,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2470,7 +2470,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-09-13",
-    "hit_count": 52,
+    "hit_count": 53,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -4301,7 +4301,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-09-13",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4310,7 +4310,7 @@
     "name": "NXP Semiconductors",
     "first_seen": "2026-09-13",
     "last_seen": "2026-09-13",
-    "hit_count": 6,
+    "hit_count": 9,
     "sample_titles": [
       "Agentic Security Engineer",
       "AI Application Security Engineer",
