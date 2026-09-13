@@ -300,8 +300,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-09-12",
-    "hit_count": 136,
+    "last_seen": "2026-09-13",
+    "hit_count": 137,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2469,11 +2469,12 @@
   "accenture federal services": {
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-07",
-    "hit_count": 50,
+    "last_seen": "2026-09-13",
+    "hit_count": 51,
     "sample_titles": [
       "Penetration Tester",
-      "Application Security Engineer"
+      "Application Security Engineer",
+      "Security Engineer - Vulnerability Management"
     ]
   },
   "east west bank": {
@@ -4294,6 +4295,26 @@
     "hit_count": 1,
     "sample_titles": [
       "Network Security Engineer"
+    ]
+  },
+  "amazon guardduty": {
+    "name": "Amazon GuardDuty",
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer II, Amazon GuardDuty"
+    ]
+  },
+  "nxp semiconductors": {
+    "name": "NXP Semiconductors",
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "hit_count": 3,
+    "sample_titles": [
+      "Agentic Security Engineer",
+      "AI Application Security Engineer",
+      "AI Security Engineer"
     ]
   }
 }
