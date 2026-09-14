@@ -301,7 +301,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-13",
-    "hit_count": 140,
+    "hit_count": 141,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1298,8 +1298,8 @@
   "cisco": {
     "name": "Cisco",
     "first_seen": "2026-05-27",
-    "last_seen": "2026-09-06",
-    "hit_count": 27,
+    "last_seen": "2026-09-14",
+    "hit_count": 29,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer II (Full Time) - United States STO/Cloud Security Engineering ETR",
@@ -2450,11 +2450,12 @@
   "accenture": {
     "name": "Accenture",
     "first_seen": "2026-07-03",
-    "last_seen": "2026-09-07",
-    "hit_count": 41,
+    "last_seen": "2026-09-14",
+    "hit_count": 42,
     "sample_titles": [
       "Penetration Tester",
-      "Application Security Engineer"
+      "Application Security Engineer",
+      "Security Engineer - Vulnerability Management"
     ]
   },
   "zscaler": {
@@ -2470,7 +2471,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-09-13",
-    "hit_count": 55,
+    "hit_count": 56,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -4301,7 +4302,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-09-13",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4310,7 +4311,7 @@
     "name": "NXP Semiconductors",
     "first_seen": "2026-09-13",
     "last_seen": "2026-09-13",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Agentic Security Engineer",
       "AI Application Security Engineer",
