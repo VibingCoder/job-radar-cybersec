@@ -301,7 +301,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-13",
-    "hit_count": 141,
+    "hit_count": 142,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1299,7 +1299,7 @@
     "name": "Cisco",
     "first_seen": "2026-05-27",
     "last_seen": "2026-09-14",
-    "hit_count": 29,
+    "hit_count": 31,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer II (Full Time) - United States STO/Cloud Security Engineering ETR",
@@ -2451,7 +2451,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-09-14",
-    "hit_count": 42,
+    "hit_count": 43,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2471,7 +2471,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-09-13",
-    "hit_count": 56,
+    "hit_count": 57,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2845,8 +2845,8 @@
   "delta defense": {
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-09-09",
-    "hit_count": 85,
+    "last_seen": "2026-09-14",
+    "hit_count": 86,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)",
@@ -4302,7 +4302,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-09-13",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4311,11 +4311,29 @@
     "name": "NXP Semiconductors",
     "first_seen": "2026-09-13",
     "last_seen": "2026-09-13",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Agentic Security Engineer",
       "AI Application Security Engineer",
       "AI Security Engineer"
+    ]
+  },
+  "infopeople corp": {
+    "name": "InfoPeople Corp",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Certified Security Engineer with Entra ID"
+    ]
+  },
+  "cyberpoint international, llc": {
+    "name": "CyberPoint International, LLC",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "CNO Reverse Engineer Level 2 with Security Clearance"
     ]
   }
 }
