@@ -1299,7 +1299,7 @@
     "name": "Cisco",
     "first_seen": "2026-05-27",
     "last_seen": "2026-09-14",
-    "hit_count": 33,
+    "hit_count": 35,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer II (Full Time) - United States STO/Cloud Security Engineering ETR",
@@ -2451,7 +2451,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-09-14",
-    "hit_count": 44,
+    "hit_count": 45,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2846,7 +2846,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-14",
-    "hit_count": 87,
+    "hit_count": 88,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)",
@@ -3700,11 +3700,12 @@
   "abbvie": {
     "name": "AbbVie",
     "first_seen": "2026-08-16",
-    "last_seen": "2026-09-03",
-    "hit_count": 5,
+    "last_seen": "2026-09-15",
+    "hit_count": 6,
     "sample_titles": [
       "Agentic AI Security Engineer",
-      "Application Security Engineer"
+      "Application Security Engineer",
+      "Security Engineer \u2013 Cybersecurity Posture, Hygiene & AI"
     ]
   },
   "mettel": {
@@ -4302,7 +4303,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-09-13",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
