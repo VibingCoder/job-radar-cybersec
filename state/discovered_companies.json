@@ -3901,10 +3901,11 @@
   "wise": {
     "name": "Wise",
     "first_seen": "2026-08-23",
-    "last_seen": "2026-08-23",
-    "hit_count": 18,
+    "last_seen": "2026-09-16",
+    "hit_count": 19,
     "sample_titles": [
-      "Application Security Engineer"
+      "Application Security Engineer",
+      "Security Engineer IC3"
     ]
   },
   "saalex": {
@@ -4335,6 +4336,15 @@
     "hit_count": 2,
     "sample_titles": [
       "CNO Reverse Engineer Level 2 with Security Clearance"
+    ]
+  },
+  "invictus direct": {
+    "name": "Invictus Direct",
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
