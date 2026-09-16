@@ -4221,7 +4221,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-15",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)"
@@ -4303,7 +4303,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-09-13",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
