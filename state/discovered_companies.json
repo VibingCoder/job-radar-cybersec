@@ -288,7 +288,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-16",
-    "hit_count": 521,
+    "hit_count": 522,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -594,8 +594,8 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-09-12",
-    "hit_count": 168,
+    "last_seen": "2026-09-17",
+    "hit_count": 169,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2828,7 +2828,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-17",
-    "hit_count": 72,
+    "hit_count": 73,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -4392,6 +4392,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cloud Security Consultant \u2013 Oracle OCI"
+    ]
+  },
+  "dragonfli group": {
+    "name": "Dragonfli Group",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "hit_count": 1,
+    "sample_titles": [
+      "Mid-Level Penetration Tester"
     ]
   }
 }
