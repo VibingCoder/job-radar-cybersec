@@ -288,7 +288,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-16",
-    "hit_count": 519,
+    "hit_count": 520,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -2721,10 +2721,11 @@
   "stellent it llc": {
     "name": "Stellent IT LLC",
     "first_seen": "2026-07-14",
-    "last_seen": "2026-07-14",
-    "hit_count": 1,
+    "last_seen": "2026-09-16",
+    "hit_count": 2,
     "sample_titles": [
-      "Information Cyber Security Engineer(OpenNMS) - San Antonio, TX (100% Onsite) - Active Secret"
+      "Information Cyber Security Engineer(OpenNMS) - San Antonio, TX (100% Onsite) - Active Secret",
+      "Cloud Vulnerability Management Engineer"
     ]
   },
   "cook & boardman group": {
@@ -3757,7 +3758,7 @@
     "name": "Palantir Technologies",
     "first_seen": "2026-08-18",
     "last_seen": "2026-09-16",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
@@ -4372,6 +4373,24 @@
     "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "bright mind solutions llc": {
+    "name": "Bright Mind Solutions LLC",
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer"
+    ]
+  },
+  "acs consultancy services": {
+    "name": "ACS Consultancy Services",
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Consultant \u2013 Oracle OCI"
     ]
   }
 }
