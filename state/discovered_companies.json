@@ -288,7 +288,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-16",
-    "hit_count": 520,
+    "hit_count": 521,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -2827,11 +2827,12 @@
   "asrc federal": {
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-19",
-    "hit_count": 71,
+    "last_seen": "2026-09-17",
+    "hit_count": 72,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
-      "Cyber Penetration Tester"
+      "Cyber Penetration Tester",
+      "Penetration Tester"
     ]
   },
   "envision technology solutions": {
