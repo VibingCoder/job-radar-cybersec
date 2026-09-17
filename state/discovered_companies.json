@@ -288,7 +288,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-16",
-    "hit_count": 522,
+    "hit_count": 523,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -595,7 +595,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-09-17",
-    "hit_count": 169,
+    "hit_count": 170,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1061,8 +1061,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-09-01",
-    "hit_count": 298,
+    "last_seen": "2026-09-17",
+    "hit_count": 299,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2828,7 +2828,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-17",
-    "hit_count": 73,
+    "hit_count": 74,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -4398,9 +4398,18 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Mid-Level Penetration Tester"
+    ]
+  },
+  "projas technologies, llc": {
+    "name": "Projas Technologies, LLC",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer Offensive Security | Bug Bounty | Penetration Testing | AI Security"
     ]
   }
 }
