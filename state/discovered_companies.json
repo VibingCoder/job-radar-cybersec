@@ -289,7 +289,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-16",
-    "hit_count": 528,
+    "hit_count": 529,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -302,7 +302,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-18",
-    "hit_count": 145,
+    "hit_count": 146,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2829,7 +2829,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-17",
-    "hit_count": 80,
+    "hit_count": 82,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2870,7 +2870,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-18",
-    "hit_count": 36,
+    "hit_count": 37,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester"
@@ -4401,7 +4401,7 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 11,
+    "hit_count": 13,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -4412,7 +4412,7 @@
     "name": "Projas Technologies, LLC",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Security Engineer Offensive Security | Bug Bounty | Penetration Testing | AI Security"
     ]
@@ -4421,7 +4421,7 @@
     "name": "Clera",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4457,9 +4457,18 @@
     "name": "MatX",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "prism, inc.": {
+    "name": "Prism, Inc.",
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
   }
 }
