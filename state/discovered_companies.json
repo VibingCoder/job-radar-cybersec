@@ -289,7 +289,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-16",
-    "hit_count": 526,
+    "hit_count": 527,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -301,8 +301,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-09-16",
-    "hit_count": 143,
+    "last_seen": "2026-09-18",
+    "hit_count": 144,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -595,8 +595,8 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-09-17",
-    "hit_count": 171,
+    "last_seen": "2026-09-18",
+    "hit_count": 172,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1063,7 +1063,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-09-18",
-    "hit_count": 300,
+    "hit_count": 301,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2829,7 +2829,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-17",
-    "hit_count": 77,
+    "hit_count": 78,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2868,10 +2868,11 @@
   "asrc federal holding company": {
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "hit_count": 34,
+    "last_seen": "2026-09-18",
+    "hit_count": 35,
     "sample_titles": [
-      "Cyber Penetration Tester"
+      "Cyber Penetration Tester",
+      "Penetration Tester"
     ]
   },
   "fluidstack": {
@@ -4399,7 +4400,7 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 7,
+    "hit_count": 9,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -4410,7 +4411,7 @@
     "name": "Projas Technologies, LLC",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer Offensive Security | Bug Bounty | Penetration Testing | AI Security"
     ]
@@ -4419,7 +4420,7 @@
     "name": "Clera",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4440,6 +4441,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Product Security Engineer"
+    ]
+  },
+  "usaa": {
+    "name": "USAA",
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "R0119880 Cloud Info Security Analyst \u2013 Intermediate Level"
+    ]
+  },
+  "matx": {
+    "name": "MatX",
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-18",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
