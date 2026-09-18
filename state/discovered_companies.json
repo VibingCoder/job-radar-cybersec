@@ -289,7 +289,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-16",
-    "hit_count": 527,
+    "hit_count": 528,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -302,7 +302,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-18",
-    "hit_count": 144,
+    "hit_count": 145,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -596,7 +596,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-09-18",
-    "hit_count": 172,
+    "hit_count": 173,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2829,11 +2829,12 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-17",
-    "hit_count": 78,
+    "hit_count": 80,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
-      "Penetration Tester"
+      "Penetration Tester",
+      "Penetration Tester with Security Clearance"
     ]
   },
   "envision technology solutions": {
@@ -2869,7 +2870,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-18",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester"
@@ -4400,7 +4401,7 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 9,
+    "hit_count": 11,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -4411,7 +4412,7 @@
     "name": "Projas Technologies, LLC",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer Offensive Security | Bug Bounty | Penetration Testing | AI Security"
     ]
@@ -4420,7 +4421,7 @@
     "name": "Clera",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4456,7 +4457,7 @@
     "name": "MatX",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
