@@ -288,7 +288,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-16",
-    "hit_count": 524,
+    "hit_count": 525,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -2828,7 +2828,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-17",
-    "hit_count": 75,
+    "hit_count": 76,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -4398,16 +4398,17 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 3,
+    "hit_count": 5,
     "sample_titles": [
-      "Mid-Level Penetration Tester"
+      "Mid-Level Penetration Tester",
+      "Junior Security Engineer"
     ]
   },
   "projas technologies, llc": {
     "name": "Projas Technologies, LLC",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer Offensive Security | Bug Bounty | Penetration Testing | AI Security"
     ]
