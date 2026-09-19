@@ -289,7 +289,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-16",
-    "hit_count": 530,
+    "hit_count": 531,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -2829,7 +2829,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-17",
-    "hit_count": 84,
+    "hit_count": 86,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2870,7 +2870,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-18",
-    "hit_count": 38,
+    "hit_count": 39,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester"
@@ -4073,7 +4073,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-18",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery"
@@ -4401,7 +4401,7 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 15,
+    "hit_count": 17,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -4412,7 +4412,7 @@
     "name": "Projas Technologies, LLC",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 9,
+    "hit_count": 11,
     "sample_titles": [
       "Security Engineer Offensive Security | Bug Bounty | Penetration Testing | AI Security"
     ]
@@ -4457,7 +4457,7 @@
     "name": "MatX",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4466,7 +4466,7 @@
     "name": "Prism, Inc.",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -4475,7 +4475,7 @@
     "name": "vTech Solution",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -4493,9 +4493,27 @@
     "name": "Barclays",
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Red Team Operator - AVP"
+    ]
+  },
+  "banco de credito e inversiones": {
+    "name": "Banco de Credito e Inversiones",
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
+    ]
+  },
+  "k2 space": {
+    "name": "K2 Space",
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Identity and Access Management (IAM)"
     ]
   }
 }
