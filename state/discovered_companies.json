@@ -289,7 +289,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-16",
-    "hit_count": 531,
+    "hit_count": 532,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -2119,10 +2119,11 @@
   "figure": {
     "name": "Figure",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
-    "hit_count": 4,
+    "last_seen": "2026-09-19",
+    "hit_count": 5,
     "sample_titles": [
-      "Security Engineer, Application Security"
+      "Security Engineer, Application Security",
+      "Security Engineer, Enterprise Security"
     ]
   },
   "opendoor": {
@@ -2829,7 +2830,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-17",
-    "hit_count": 86,
+    "hit_count": 88,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2870,7 +2871,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-18",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester"
@@ -4073,7 +4074,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-18",
-    "hit_count": 36,
+    "hit_count": 37,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery"
@@ -4401,7 +4402,7 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 17,
+    "hit_count": 19,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -4412,7 +4413,7 @@
     "name": "Projas Technologies, LLC",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 11,
+    "hit_count": 13,
     "sample_titles": [
       "Security Engineer Offensive Security | Bug Bounty | Penetration Testing | AI Security"
     ]
@@ -4466,7 +4467,7 @@
     "name": "Prism, Inc.",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -4475,7 +4476,7 @@
     "name": "vTech Solution",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -4493,7 +4494,7 @@
     "name": "Barclays",
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Red Team Operator - AVP"
     ]
@@ -4502,7 +4503,7 @@
     "name": "Banco de Credito e Inversiones",
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Cyber Security Engineer"
     ]
@@ -4514,6 +4515,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer, Identity and Access Management (IAM)"
+    ]
+  },
+  "capgemini": {
+    "name": "Capgemini",
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Consultant - Penetration Testing & DevSecOps"
+    ]
+  },
+  "amazon leo": {
+    "name": "Amazon LEO",
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Leo Security"
     ]
   }
 }
