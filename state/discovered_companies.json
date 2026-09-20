@@ -257,7 +257,7 @@
     "name": "Eliassen Group",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-20",
-    "hit_count": 9,
+    "hit_count": 13,
     "sample_titles": [
       "Operational Technology Security Engineer",
       "Information Security Engineer (DevOps/Containerization Focus)",
@@ -303,7 +303,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-09-20",
-    "hit_count": 148,
+    "hit_count": 149,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -4075,7 +4075,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-18",
-    "hit_count": 41,
+    "hit_count": 42,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery"
@@ -4414,7 +4414,7 @@
     "name": "Projas Technologies, LLC",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
-    "hit_count": 21,
+    "hit_count": 23,
     "sample_titles": [
       "Security Engineer Offensive Security | Bug Bounty | Penetration Testing | AI Security"
     ]
@@ -4468,7 +4468,7 @@
     "name": "Prism, Inc.",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -4549,7 +4549,7 @@
     "name": "Assembled",
     "first_seen": "2026-09-20",
     "last_seen": "2026-09-20",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
