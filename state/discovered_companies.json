@@ -257,7 +257,7 @@
     "name": "Eliassen Group",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-20",
-    "hit_count": 58,
+    "hit_count": 59,
     "sample_titles": [
       "Operational Technology Security Engineer",
       "Information Security Engineer (DevOps/Containerization Focus)",
@@ -529,13 +529,14 @@
   "insight global": {
     "name": "Insight Global",
     "first_seen": "2026-05-03",
-    "last_seen": "2026-09-12",
-    "hit_count": 40,
+    "last_seen": "2026-09-23",
+    "hit_count": 41,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
       "INTL India - Remote Detection Engineer",
-      "Application Security Engineer"
+      "Application Security Engineer",
+      "Pen Tester"
     ]
   },
   "holistic partners, inc": {
@@ -1065,7 +1066,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-09-22",
-    "hit_count": 305,
+    "hit_count": 306,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2389,7 +2390,7 @@
     "name": "NetSPI",
     "first_seen": "2026-07-01",
     "last_seen": "2026-09-23",
-    "hit_count": 51,
+    "hit_count": 53,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)",
       "Security Consultant II (Mobile Application Penetration Tester)",
@@ -2687,7 +2688,7 @@
     "name": "Check Point Software Technologies",
     "first_seen": "2026-07-12",
     "last_seen": "2026-09-23",
-    "hit_count": 27,
+    "hit_count": 28,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, Channel Sales",
@@ -2854,7 +2855,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-22",
-    "hit_count": 92,
+    "hit_count": 93,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)",
@@ -3722,7 +3723,7 @@
     "name": "MetTel",
     "first_seen": "2026-08-17",
     "last_seen": "2026-09-23",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Cybersecurity Engineer"
     ]
@@ -3730,10 +3731,11 @@
   "acrisure": {
     "name": "Acrisure",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "hit_count": 2,
+    "last_seen": "2026-09-23",
+    "hit_count": 3,
     "sample_titles": [
-      "Security Incident Response Engineer"
+      "Security Incident Response Engineer",
+      "Red Team Engineer"
     ]
   },
   "odyssey": {
@@ -4078,7 +4080,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-18",
-    "hit_count": 55,
+    "hit_count": 56,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery",
@@ -4233,7 +4235,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-23",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4419,7 +4421,7 @@
     "name": "Projas Technologies, LLC",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-18",
-    "hit_count": 45,
+    "hit_count": 46,
     "sample_titles": [
       "Security Engineer Offensive Security | Bug Bounty | Penetration Testing | AI Security"
     ]
@@ -4473,7 +4475,7 @@
     "name": "Prism, Inc.",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -4554,7 +4556,7 @@
     "name": "Assembled",
     "first_seen": "2026-09-20",
     "last_seen": "2026-09-20",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4584,6 +4586,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Software Dev Engineer II, AWS Security Incident Response"
+    ]
+  },
+  "apex technology": {
+    "name": "Apex Technology",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
+    ]
+  },
+  "remotejobsone": {
+    "name": "RemoteJobsOne",
+    "first_seen": "2026-09-23",
+    "last_seen": "2026-09-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
