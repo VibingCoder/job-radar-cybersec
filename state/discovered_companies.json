@@ -257,7 +257,7 @@
     "name": "Eliassen Group",
     "first_seen": "2026-04-28",
     "last_seen": "2026-09-20",
-    "hit_count": 55,
+    "hit_count": 58,
     "sample_titles": [
       "Operational Technology Security Engineer",
       "Information Security Engineer (DevOps/Containerization Focus)",
@@ -1065,7 +1065,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-09-22",
-    "hit_count": 304,
+    "hit_count": 305,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2388,11 +2388,12 @@
   "netspi": {
     "name": "NetSPI",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-09-12",
-    "hit_count": 50,
+    "last_seen": "2026-09-23",
+    "hit_count": 51,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)",
-      "Security Consultant II (Mobile Application Penetration Tester)"
+      "Security Consultant II (Mobile Application Penetration Tester)",
+      "Associate Security Consultant (NetSPI University)"
     ]
   },
   "teksystems c/o allegis group": {
@@ -2685,8 +2686,8 @@
   "check point software technologies": {
     "name": "Check Point Software Technologies",
     "first_seen": "2026-07-12",
-    "last_seen": "2026-08-19",
-    "hit_count": 26,
+    "last_seen": "2026-09-23",
+    "hit_count": 27,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, Channel Sales",
@@ -2853,7 +2854,7 @@
     "name": "Delta Defense",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-22",
-    "hit_count": 91,
+    "hit_count": 92,
     "sample_titles": [
       "Cybersecurity Engineer",
       "Cybersecurity Engineer (Application Security focus)",
@@ -3720,8 +3721,8 @@
   "mettel": {
     "name": "MetTel",
     "first_seen": "2026-08-17",
-    "last_seen": "2026-08-17",
-    "hit_count": 6,
+    "last_seen": "2026-09-23",
+    "hit_count": 7,
     "sample_titles": [
       "Cybersecurity Engineer"
     ]
@@ -4077,7 +4078,7 @@
     "name": "Anduril Industries",
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-18",
-    "hit_count": 54,
+    "hit_count": 55,
     "sample_titles": [
       "Red Team Engineer, Discovery with Security Clearance",
       "Red Team Engineer, Discovery",
@@ -4231,11 +4232,12 @@
   "flywire": {
     "name": "Flywire",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-15",
-    "hit_count": 20,
+    "last_seen": "2026-09-23",
+    "hit_count": 21,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
-      "Security Engineer II (Offensive Operations)"
+      "Security Engineer II (Offensive Operations)",
+      "Security Engineer II (Defensive Operations)"
     ]
   },
   "mantech": {
@@ -4417,7 +4419,7 @@
     "name": "Projas Technologies, LLC",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-18",
-    "hit_count": 44,
+    "hit_count": 45,
     "sample_titles": [
       "Security Engineer Offensive Security | Bug Bounty | Penetration Testing | AI Security"
     ]
@@ -4471,7 +4473,7 @@
     "name": "Prism, Inc.",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance"
     ]
@@ -4552,7 +4554,7 @@
     "name": "Assembled",
     "first_seen": "2026-09-20",
     "last_seen": "2026-09-20",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security Engineer"
     ]
