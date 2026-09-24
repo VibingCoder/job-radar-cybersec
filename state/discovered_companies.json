@@ -373,8 +373,8 @@
   "jobot": {
     "name": "Jobot",
     "first_seen": "2026-04-30",
-    "last_seen": "2026-07-18",
-    "hit_count": 29,
+    "last_seen": "2026-09-24",
+    "hit_count": 30,
     "sample_titles": [
       "Application Security Engineer",
       "IT Security Engineer (Law Firm)",
@@ -530,7 +530,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-09-23",
-    "hit_count": 45,
+    "hit_count": 46,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -1066,7 +1066,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-09-24",
-    "hit_count": 308,
+    "hit_count": 309,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1897,11 +1897,12 @@
   "meta": {
     "name": "Meta",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-08-31",
-    "hit_count": 56,
+    "last_seen": "2026-09-24",
+    "hit_count": 58,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
-      "Security Engineer, Applied AI"
+      "Security Engineer, Applied AI",
+      "Product Security Engineer"
     ]
   },
   "truist": {
@@ -3732,7 +3733,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-09-23",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4234,8 +4235,8 @@
   "flywire": {
     "name": "Flywire",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-24",
-    "hit_count": 27,
+    "last_seen": "2026-09-23",
+    "hit_count": 28,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4430,8 +4431,8 @@
   "clera": {
     "name": "Clera",
     "first_seen": "2026-09-18",
-    "last_seen": "2026-09-18",
-    "hit_count": 5,
+    "last_seen": "2026-09-24",
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4629,9 +4630,45 @@
     "name": "MissionSquare",
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Application & AI Security Engineer"
+    ]
+  },
+  "pwc": {
+    "name": "PwC",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "hit_count": 1,
+    "sample_titles": [
+      "AWS Security Engineer - Experience Associate"
+    ]
+  },
+  "lumbee holdings": {
+    "name": "Lumbee Holdings",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "hit_count": 1,
+    "sample_titles": [
+      "Vulnerability Researcher"
+    ]
+  },
+  "swingtech": {
+    "name": "Swingtech",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "hit_count": 1,
+    "sample_titles": [
+      "AI Security Engineer- Hybrid (US Citizens/ Green Cards- Local to with Security Clearance"
+    ]
+  },
+  "strive health": {
+    "name": "Strive Health",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
