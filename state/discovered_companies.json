@@ -302,8 +302,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-09-20",
-    "hit_count": 153,
+    "last_seen": "2026-09-24",
+    "hit_count": 154,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -530,7 +530,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-09-23",
-    "hit_count": 44,
+    "hit_count": 45,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -1065,8 +1065,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-09-22",
-    "hit_count": 307,
+    "last_seen": "2026-09-24",
+    "hit_count": 308,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -3732,7 +3732,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-09-23",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4234,8 +4234,8 @@
   "flywire": {
     "name": "Flywire",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-23",
-    "hit_count": 25,
+    "last_seen": "2026-09-24",
+    "hit_count": 27,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4410,7 +4410,7 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-23",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -4629,7 +4629,7 @@
     "name": "MissionSquare",
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application & AI Security Engineer"
     ]
