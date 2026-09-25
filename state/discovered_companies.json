@@ -655,8 +655,8 @@
   "workos": {
     "name": "WorkOS",
     "first_seen": "2026-05-07",
-    "last_seen": "2026-05-07",
-    "hit_count": 10,
+    "last_seen": "2026-09-25",
+    "hit_count": 11,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -1785,7 +1785,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-09-24",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer"
@@ -1899,7 +1899,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-09-24",
-    "hit_count": 62,
+    "hit_count": 63,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2836,7 +2836,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-24",
-    "hit_count": 95,
+    "hit_count": 96,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -3735,7 +3735,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-09-23",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4238,7 +4238,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-23",
-    "hit_count": 33,
+    "hit_count": 35,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4434,7 +4434,7 @@
     "name": "Clera",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-25",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4640,8 +4640,8 @@
   "pwc": {
     "name": "PwC",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
-    "hit_count": 1,
+    "last_seen": "2026-09-25",
+    "hit_count": 2,
     "sample_titles": [
       "AWS Security Engineer - Experience Associate"
     ]
@@ -4650,16 +4650,17 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
-      "Vulnerability Researcher"
+      "Vulnerability Researcher",
+      "Cyber Vulnerability Researcher"
     ]
   },
   "swingtech": {
     "name": "Swingtech",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-25",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "AI Security Engineer- Hybrid (US Citizens/ Green Cards- Local to with Security Clearance",
       "AI Security Engineer- Hybrid (US Citizens/ Green Cards- Local to DMV only)"
@@ -4681,6 +4682,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "janus henderson investors": {
+    "name": "Janus Henderson Investors",
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "hit_count": 1,
+    "sample_titles": [
+      "AI Security Engineer"
     ]
   }
 }
