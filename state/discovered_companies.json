@@ -530,7 +530,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-09-23",
-    "hit_count": 48,
+    "hit_count": 49,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -656,7 +656,7 @@
     "name": "WorkOS",
     "first_seen": "2026-05-07",
     "last_seen": "2026-09-25",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Product Security Engineer"
     ]
@@ -1786,7 +1786,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-09-24",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer"
@@ -1900,7 +1900,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-09-24",
-    "hit_count": 64,
+    "hit_count": 65,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2837,7 +2837,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-24",
-    "hit_count": 97,
+    "hit_count": 98,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -3736,7 +3736,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-09-23",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4239,7 +4239,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-23",
-    "hit_count": 36,
+    "hit_count": 37,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4414,7 +4414,7 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-23",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -4435,7 +4435,7 @@
     "name": "Clera",
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-25",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4651,7 +4651,7 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cyber Vulnerability Researcher"
@@ -4689,7 +4689,7 @@
     "name": "Janus Henderson Investors",
     "first_seen": "2026-09-25",
     "last_seen": "2026-09-25",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "AI Security Engineer"
     ]
