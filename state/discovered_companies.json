@@ -1786,7 +1786,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-09-24",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer"
@@ -1900,8 +1900,8 @@
   "meta": {
     "name": "Meta",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-26",
-    "hit_count": 72,
+    "last_seen": "2026-09-24",
+    "hit_count": 73,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2839,8 +2839,8 @@
   "asrc federal": {
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-09-24",
-    "hit_count": 108,
+    "last_seen": "2026-09-25",
+    "hit_count": 109,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2881,11 +2881,12 @@
   "asrc federal holding company": {
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-09-18",
-    "hit_count": 43,
+    "last_seen": "2026-09-26",
+    "hit_count": 44,
     "sample_titles": [
       "Cyber Penetration Tester",
-      "Penetration Tester"
+      "Penetration Tester",
+      "Expert Penetration Tester"
     ]
   },
   "fluidstack": {
@@ -3739,7 +3740,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-09-23",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4654,7 +4655,7 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cyber Vulnerability Researcher"
