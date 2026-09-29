@@ -759,8 +759,8 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-09-25",
-    "hit_count": 28,
+    "last_seen": "2026-09-28",
+    "hit_count": 29,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -1786,7 +1786,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-09-24",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer"
@@ -1901,7 +1901,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-09-24",
-    "hit_count": 79,
+    "hit_count": 80,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2840,7 +2840,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-25",
-    "hit_count": 115,
+    "hit_count": 116,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2882,7 +2882,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-26",
-    "hit_count": 50,
+    "hit_count": 51,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester",
