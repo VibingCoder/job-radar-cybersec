@@ -1786,7 +1786,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-09-24",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer"
@@ -2808,8 +2808,8 @@
   "technipros, llc": {
     "name": "TechniPros, LLC",
     "first_seen": "2026-07-17",
-    "last_seen": "2026-08-27",
-    "hit_count": 20,
+    "last_seen": "2026-09-29",
+    "hit_count": 21,
     "sample_titles": [
       "Cybersecurity Engineer - Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
       "Cyber Security Engineer-Denver, CO, Phoenix, AZ, Nashville, TN, Dallas, TX, Austin, TX.",
@@ -2840,7 +2840,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-25",
-    "hit_count": 116,
+    "hit_count": 117,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2882,7 +2882,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-26",
-    "hit_count": 51,
+    "hit_count": 52,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester",
@@ -4655,7 +4655,7 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cyber Vulnerability Researcher"
@@ -4705,6 +4705,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer \u2013 Microsoft Security"
+    ]
+  },
+  "yo ai labs": {
+    "name": "YO AI Labs",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer - Remote"
     ]
   }
 }
