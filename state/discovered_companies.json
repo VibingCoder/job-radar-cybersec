@@ -1786,7 +1786,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-09-24",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer"
@@ -2840,7 +2840,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-25",
-    "hit_count": 117,
+    "hit_count": 118,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2882,7 +2882,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-26",
-    "hit_count": 52,
+    "hit_count": 53,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester",
@@ -4655,7 +4655,7 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cyber Vulnerability Researcher"
@@ -4711,7 +4711,7 @@
     "name": "YO AI Labs",
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer - Remote"
     ]
