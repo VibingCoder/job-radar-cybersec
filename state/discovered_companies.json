@@ -597,8 +597,8 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-09-18",
-    "hit_count": 173,
+    "last_seen": "2026-09-30",
+    "hit_count": 174,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2840,7 +2840,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-25",
-    "hit_count": 119,
+    "hit_count": 120,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2882,7 +2882,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-26",
-    "hit_count": 54,
+    "hit_count": 55,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester",
@@ -4714,6 +4714,24 @@
     "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer - Remote"
+    ]
+  },
+  "savvy wealth": {
+    "name": "Savvy Wealth",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "First Dedicated Security Engineer"
+    ]
+  },
+  "softpathtechnologies": {
+    "name": "SoftPathTechnologies",
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
