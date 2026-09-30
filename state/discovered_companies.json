@@ -2462,12 +2462,13 @@
   "accenture": {
     "name": "Accenture",
     "first_seen": "2026-07-03",
-    "last_seen": "2026-09-14",
-    "hit_count": 46,
+    "last_seen": "2026-09-30",
+    "hit_count": 47,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
-      "Security Engineer - Vulnerability Management"
+      "Security Engineer - Vulnerability Management",
+      "Cyber Security Analyst (m/w/d)"
     ]
   },
   "zscaler": {
@@ -2840,7 +2841,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-25",
-    "hit_count": 121,
+    "hit_count": 122,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2882,7 +2883,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-26",
-    "hit_count": 56,
+    "hit_count": 57,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester",
@@ -4739,7 +4740,7 @@
     "name": "Amatriot Group",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Expert Penetration Tester"
     ]
