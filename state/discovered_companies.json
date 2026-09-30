@@ -2840,7 +2840,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-25",
-    "hit_count": 118,
+    "hit_count": 119,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2882,7 +2882,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-26",
-    "hit_count": 53,
+    "hit_count": 54,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester",
@@ -4711,7 +4711,7 @@
     "name": "YO AI Labs",
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer - Remote"
     ]
