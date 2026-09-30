@@ -2840,7 +2840,7 @@
     "name": "ASRC Federal",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-25",
-    "hit_count": 120,
+    "hit_count": 121,
     "sample_titles": [
       "Cyber Penetration Tester with Security Clearance",
       "Cyber Penetration Tester",
@@ -2882,7 +2882,7 @@
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
     "last_seen": "2026-09-26",
-    "hit_count": 55,
+    "hit_count": 56,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester",
@@ -3638,10 +3638,11 @@
   "deloitte": {
     "name": "Deloitte",
     "first_seen": "2026-08-14",
-    "last_seen": "2026-08-14",
-    "hit_count": 2,
+    "last_seen": "2026-09-30",
+    "hit_count": 3,
     "sample_titles": [
-      "Cyber Oracle Identity Analyst / Security Engineer I"
+      "Cyber Oracle Identity Analyst / Security Engineer I",
+      "Cyber Identity - CIAM Security Engineer/Consultant"
     ]
   },
   "teradata": {
@@ -4720,7 +4721,7 @@
     "name": "Savvy Wealth",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "First Dedicated Security Engineer"
     ]
@@ -4732,6 +4733,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "amatriot group": {
+    "name": "Amatriot Group",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Expert Penetration Tester"
+    ]
+  },
+  "the one 23 group": {
+    "name": "The One 23 Group",
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-09-30",
+    "hit_count": 1,
+    "sample_titles": [
+      "Monitoring and Incident Response Specialist"
     ]
   }
 }
