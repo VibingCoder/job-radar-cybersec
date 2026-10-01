@@ -4245,7 +4245,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-30",
-    "hit_count": 43,
+    "hit_count": 44,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4740,7 +4740,7 @@
     "name": "Amatriot Group",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Expert Penetration Tester"
     ]
@@ -4758,7 +4758,7 @@
     "name": "JPMorgan Chase",
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-01",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "X-Day Offensive Research (XOR) Vulnerability Researcher"
     ]
