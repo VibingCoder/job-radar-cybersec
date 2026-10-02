@@ -3217,12 +3217,13 @@
   "spacexai": {
     "name": "SpaceXAI",
     "first_seen": "2026-07-30",
-    "last_seen": "2026-08-20",
-    "hit_count": 7,
+    "last_seen": "2026-10-01",
+    "hit_count": 9,
     "sample_titles": [
       "Infrastructure Security Engineer",
       "Network Security Engineer",
-      "Application Security Engineer"
+      "Application Security Engineer",
+      "Application Security Engineer (X Money)"
     ]
   },
   "careers at kkr": {
@@ -4245,7 +4246,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-30",
-    "hit_count": 44,
+    "hit_count": 45,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4740,7 +4741,7 @@
     "name": "Amatriot Group",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Expert Penetration Tester"
     ]
