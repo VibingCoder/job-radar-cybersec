@@ -1901,7 +1901,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-02",
-    "hit_count": 82,
+    "hit_count": 83,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -4444,7 +4444,7 @@
     "name": "Clera",
     "first_seen": "2026-09-18",
     "last_seen": "2026-10-02",
-    "hit_count": 14,
+    "hit_count": 16,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4761,7 +4761,7 @@
     "name": "JPMorgan Chase",
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-02",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "X-Day Offensive Research (XOR) Vulnerability Researcher"
     ]
@@ -4770,7 +4770,7 @@
     "name": "LPL Financial",
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-02",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "AVP, Penetration Tester (LLM)"
     ]
@@ -4779,7 +4779,7 @@
     "name": "StratEdge It consulting INC",
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-02",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application security Engineer"
     ]
