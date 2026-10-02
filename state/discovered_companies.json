@@ -1900,13 +1900,14 @@
   "meta": {
     "name": "Meta",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-24",
-    "hit_count": 80,
+    "last_seen": "2026-10-02",
+    "hit_count": 81,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
       "Product Security Engineer",
-      "Application Security Engineer, Privacy"
+      "Application Security Engineer, Privacy",
+      "Privacy Engineer, Red Team"
     ]
   },
   "truist": {
@@ -2882,12 +2883,13 @@
   "asrc federal holding company": {
     "name": "ASRC Federal Holding Company",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-09-26",
-    "hit_count": 58,
+    "last_seen": "2026-10-02",
+    "hit_count": 59,
     "sample_titles": [
       "Cyber Penetration Tester",
       "Penetration Tester",
-      "Expert Penetration Tester"
+      "Expert Penetration Tester",
+      "Security Engineer"
     ]
   },
   "fluidstack": {
@@ -4246,7 +4248,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-30",
-    "hit_count": 45,
+    "hit_count": 46,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4758,10 +4760,19 @@
   "jpmorgan chase": {
     "name": "JPMorgan Chase",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-01",
-    "hit_count": 2,
+    "last_seen": "2026-10-02",
+    "hit_count": 4,
     "sample_titles": [
       "X-Day Offensive Research (XOR) Vulnerability Researcher"
+    ]
+  },
+  "lpl financial": {
+    "name": "LPL Financial",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "AVP, Penetration Tester (LLM)"
     ]
   }
 }
