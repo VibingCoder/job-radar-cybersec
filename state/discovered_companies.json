@@ -402,11 +402,12 @@
   "kbr": {
     "name": "KBR",
     "first_seen": "2026-04-30",
-    "last_seen": "2026-06-07",
-    "hit_count": 2,
+    "last_seen": "2026-10-03",
+    "hit_count": 3,
     "sample_titles": [
       "Strategic Crypto Security Engineer SME",
-      "Cyber Security Engineer"
+      "Cyber Security Engineer",
+      "Cyber System Security Engineer (CSSE)"
     ]
   },
   "safelease": {
@@ -1901,7 +1902,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-02",
-    "hit_count": 84,
+    "hit_count": 85,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2009,12 +2010,13 @@
   "leidos": {
     "name": "Leidos",
     "first_seen": "2026-06-20",
-    "last_seen": "2026-09-09",
-    "hit_count": 8,
+    "last_seen": "2026-10-03",
+    "hit_count": 9,
     "sample_titles": [
       "Information Systems Security Engineer",
       "IT Security Engineer",
-      "Cybersecurity Engineer"
+      "Cybersecurity Engineer",
+      "Information Systems Security Engineer (ISSE)"
     ]
   },
   "staffright associates, llc": {
@@ -4248,7 +4250,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-30",
-    "hit_count": 48,
+    "hit_count": 49,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4743,7 +4745,7 @@
     "name": "Amatriot Group",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Expert Penetration Tester"
     ]
@@ -4788,9 +4790,18 @@
     "name": "Goldenpick Technologies",
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-02",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer (Threat Modeling)"
+    ]
+  },
+  "ninjaone": {
+    "name": "NinjaOne",
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "hit_count": 1,
+    "sample_titles": [
+      "Penetration Tester"
     ]
   }
 }
