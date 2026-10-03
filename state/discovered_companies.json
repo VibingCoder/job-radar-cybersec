@@ -1901,7 +1901,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-02",
-    "hit_count": 83,
+    "hit_count": 84,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -4248,7 +4248,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-30",
-    "hit_count": 47,
+    "hit_count": 48,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4743,7 +4743,7 @@
     "name": "Amatriot Group",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Expert Penetration Tester"
     ]
@@ -4770,7 +4770,7 @@
     "name": "LPL Financial",
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-02",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "AVP, Penetration Tester (LLM)"
     ]
@@ -4779,9 +4779,18 @@
     "name": "StratEdge It consulting INC",
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-02",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application security Engineer"
+    ]
+  },
+  "goldenpick technologies": {
+    "name": "Goldenpick Technologies",
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer (Threat Modeling)"
     ]
   }
 }
