@@ -302,8 +302,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-09-26",
-    "hit_count": 156,
+    "last_seen": "2026-10-04",
+    "hit_count": 157,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -531,7 +531,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-10-03",
-    "hit_count": 59,
+    "hit_count": 60,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -4424,13 +4424,14 @@
   "dragonfli group": {
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-09-23",
-    "hit_count": 33,
+    "last_seen": "2026-10-04",
+    "hit_count": 34,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
       "Penetration Tester Analyst",
-      "Penetration Tester"
+      "Penetration Tester",
+      "CrowdStrike Falcon Security Engineer"
     ]
   },
   "projas technologies, llc": {
@@ -4745,7 +4746,7 @@
     "name": "Amatriot Group",
     "first_seen": "2026-09-30",
     "last_seen": "2026-09-30",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Expert Penetration Tester"
     ]
@@ -4799,7 +4800,7 @@
     "name": "NinjaOne",
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Penetration Tester"
     ]
