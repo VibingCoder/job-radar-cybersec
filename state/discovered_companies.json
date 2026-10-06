@@ -531,7 +531,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-10-03",
-    "hit_count": 67,
+    "hit_count": 68,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -4250,7 +4250,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-10-05",
-    "hit_count": 53,
+    "hit_count": 55,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4370,8 +4370,8 @@
   "invictus direct": {
     "name": "Invictus Direct",
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-16",
-    "hit_count": 1,
+    "last_seen": "2026-10-06",
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4800,7 +4800,7 @@
     "name": "NinjaOne",
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -4819,7 +4819,7 @@
     "name": "OneZero Solutions, LLC",
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-05",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cyber Security Engineer \u2013 Penetration Tester (Journeyman) with Security Clearance"
     ]
@@ -4840,6 +4840,61 @@
     "hit_count": 1,
     "sample_titles": [
       "Application Security Engineer - Remote"
+    ]
+  },
+  "steeltoad": {
+    "name": "SteelToad",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Vulnerability Assessment Analyst and Penetration Tester"
+    ]
+  },
+  "harrington starr": {
+    "name": "Harrington Starr",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Penetration Tester"
+    ]
+  },
+  "bylabs": {
+    "name": "ByLabs",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "hit_count": 2,
+    "sample_titles": [
+      "AI Red Team Engineer",
+      "AI Blockchain Security Engineer"
+    ]
+  },
+  "indium": {
+    "name": "Indium",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer"
+    ]
+  },
+  "nexify infosystems": {
+    "name": "Nexify Infosystems",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer with AI | Only Locals"
+    ]
+  },
+  "tbg | the bachrach group": {
+    "name": "TBG | The Bachrach Group",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "AI Security Engineer"
     ]
   }
 }
