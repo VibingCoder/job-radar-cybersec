@@ -531,7 +531,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-10-03",
-    "hit_count": 64,
+    "hit_count": 65,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -1902,7 +1902,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-05",
-    "hit_count": 86,
+    "hit_count": 87,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -4800,7 +4800,7 @@
     "name": "NinjaOne",
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -4809,7 +4809,7 @@
     "name": "the role and team",
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-05",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer II - Design Review / Threat Modelling"
     ]
