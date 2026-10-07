@@ -2487,8 +2487,8 @@
   "accenture federal services": {
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-13",
-    "hit_count": 58,
+    "last_seen": "2026-10-07",
+    "hit_count": 59,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2878,10 +2878,11 @@
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
     "last_seen": "2026-10-07",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Firewall Cybersecurity Engineer",
-      "Security Engineer DC"
+      "Security Engineer DC",
+      "Pen Tester"
     ]
   },
   "asrc federal holding company": {
@@ -3748,8 +3749,8 @@
   "acrisure": {
     "name": "Acrisure",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-10-03",
-    "hit_count": 29,
+    "last_seen": "2026-10-07",
+    "hit_count": 30,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4251,8 +4252,8 @@
   "flywire": {
     "name": "Flywire",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-10-06",
-    "hit_count": 61,
+    "last_seen": "2026-10-05",
+    "hit_count": 64,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4335,7 +4336,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-07",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4866,7 +4867,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
@@ -4930,7 +4931,7 @@
     "name": "Entellux",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
