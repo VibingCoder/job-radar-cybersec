@@ -1864,11 +1864,12 @@
   "onezero solutions": {
     "name": "OneZero Solutions",
     "first_seen": "2026-06-14",
-    "last_seen": "2026-09-26",
-    "hit_count": 2,
+    "last_seen": "2026-10-06",
+    "hit_count": 3,
     "sample_titles": [
       "DHS Information Systems Security Engineer",
-      "Cyber Security Engineer (Vulnerability Management & DevSecOps) DoS CSS"
+      "Cyber Security Engineer (Vulnerability Management & DevSecOps) DoS CSS",
+      "Cyber Security Engineer \u2013 Penetration Tester (Journeyman)"
     ]
   },
   "zachary piper solutions, llc": {
@@ -2180,8 +2181,8 @@
   "nationwide it services": {
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-09-04",
-    "hit_count": 66,
+    "last_seen": "2026-10-06",
+    "hit_count": 67,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4250,7 +4251,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-10-05",
-    "hit_count": 55,
+    "hit_count": 58,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4370,8 +4371,8 @@
   "invictus direct": {
     "name": "Invictus Direct",
     "first_seen": "2026-09-16",
-    "last_seen": "2026-10-06",
-    "hit_count": 2,
+    "last_seen": "2026-10-07",
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4864,7 +4865,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
@@ -4895,6 +4896,33 @@
     "hit_count": 1,
     "sample_titles": [
       "AI Security Engineer"
+    ]
+  },
+  "elite technical": {
+    "name": "Elite Technical",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Vulnerability Assessment Analyst and Penetration Tester (CA)"
+    ]
+  },
+  "visa": {
+    "name": "VISA",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer - Product Development"
+    ]
+  },
+  "direct counsel": {
+    "name": "Direct Counsel",
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity & Incident Response Managing Associate Attorney"
     ]
   }
 }
