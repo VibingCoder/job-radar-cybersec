@@ -1915,8 +1915,8 @@
   "truist": {
     "name": "Truist",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-09-11",
-    "hit_count": 22,
+    "last_seen": "2026-10-07",
+    "hit_count": 23,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
@@ -2182,7 +2182,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-06",
-    "hit_count": 67,
+    "hit_count": 68,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -2877,10 +2877,11 @@
   "clearfocus technologies": {
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "hit_count": 1,
+    "last_seen": "2026-10-07",
+    "hit_count": 2,
     "sample_titles": [
-      "Firewall Cybersecurity Engineer"
+      "Firewall Cybersecurity Engineer",
+      "Security Engineer DC"
     ]
   },
   "asrc federal holding company": {
@@ -4250,8 +4251,8 @@
   "flywire": {
     "name": "Flywire",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-10-05",
-    "hit_count": 58,
+    "last_seen": "2026-10-06",
+    "hit_count": 61,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4333,8 +4334,8 @@
   "amazon guardduty": {
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-13",
-    "hit_count": 12,
+    "last_seen": "2026-10-07",
+    "hit_count": 13,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4865,7 +4866,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
@@ -4923,6 +4924,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cybersecurity & Incident Response Managing Associate Attorney"
+    ]
+  },
+  "entellux": {
+    "name": "Entellux",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
