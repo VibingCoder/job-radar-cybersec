@@ -302,8 +302,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-10-04",
-    "hit_count": 159,
+    "last_seen": "2026-10-08",
+    "hit_count": 160,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1097,11 +1097,12 @@
   "southern company": {
     "name": "Southern Company",
     "first_seen": "2026-05-19",
-    "last_seen": "2026-08-08",
-    "hit_count": 23,
+    "last_seen": "2026-10-08",
+    "hit_count": 25,
     "sample_titles": [
       "Offensive Security Analyst",
-      "Adversary Threat Hunter"
+      "Adversary Threat Hunter",
+      "Cybersecurity Incident Response Analyst"
     ]
   },
   "intel": {
@@ -1866,7 +1867,7 @@
     "name": "OneZero Solutions",
     "first_seen": "2026-06-14",
     "last_seen": "2026-10-06",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "DHS Information Systems Security Engineer",
       "Cyber Security Engineer (Vulnerability Management & DevSecOps) DoS CSS",
@@ -1903,8 +1904,8 @@
   "meta": {
     "name": "Meta",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-05",
-    "hit_count": 88,
+    "last_seen": "2026-10-08",
+    "hit_count": 93,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2467,8 +2468,8 @@
   "accenture": {
     "name": "Accenture",
     "first_seen": "2026-07-03",
-    "last_seen": "2026-09-30",
-    "hit_count": 47,
+    "last_seen": "2026-10-08",
+    "hit_count": 48,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2489,7 +2490,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-10-07",
-    "hit_count": 61,
+    "hit_count": 62,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2879,7 +2880,7 @@
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
     "last_seen": "2026-10-07",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Firewall Cybersecurity Engineer",
       "Security Engineer DC",
@@ -4337,7 +4338,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-07",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4850,7 +4851,7 @@
     "name": "SteelToad",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Vulnerability Assessment Analyst and Penetration Tester"
     ]
@@ -4868,7 +4869,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
@@ -4886,8 +4887,8 @@
   "nexify infosystems": {
     "name": "Nexify Infosystems",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06",
-    "hit_count": 1,
+    "last_seen": "2026-10-08",
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer with AI | Only Locals"
     ]
@@ -4971,6 +4972,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer with AI Exp"
+    ]
+  },
+  "kpg99 inc": {
+    "name": "KPG99 INC",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer - Engineering Security- (USC Only) in Seattle, WA"
+    ]
+  },
+  "erpmark inc": {
+    "name": "ERPMARK INC",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
