@@ -1098,7 +1098,7 @@
     "name": "Southern Company",
     "first_seen": "2026-05-19",
     "last_seen": "2026-10-08",
-    "hit_count": 25,
+    "hit_count": 27,
     "sample_titles": [
       "Offensive Security Analyst",
       "Adversary Threat Hunter",
@@ -1867,7 +1867,7 @@
     "name": "OneZero Solutions",
     "first_seen": "2026-06-14",
     "last_seen": "2026-10-06",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "DHS Information Systems Security Engineer",
       "Cyber Security Engineer (Vulnerability Management & DevSecOps) DoS CSS",
@@ -1905,7 +1905,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-08",
-    "hit_count": 93,
+    "hit_count": 96,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2469,7 +2469,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-10-08",
-    "hit_count": 48,
+    "hit_count": 49,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2490,7 +2490,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-10-07",
-    "hit_count": 62,
+    "hit_count": 63,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2880,7 +2880,7 @@
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
     "last_seen": "2026-10-07",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Firewall Cybersecurity Engineer",
       "Security Engineer DC",
@@ -4978,7 +4978,7 @@
     "name": "KPG99 INC",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer - Engineering Security- (USC Only) in Seattle, WA"
     ]
@@ -4987,7 +4987,7 @@
     "name": "ERPMARK INC",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
