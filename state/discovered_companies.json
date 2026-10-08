@@ -1786,11 +1786,12 @@
   "openkyber": {
     "name": "Openkyber",
     "first_seen": "2026-06-10",
-    "last_seen": "2026-09-24",
-    "hit_count": 27,
+    "last_seen": "2026-10-07",
+    "hit_count": 28,
     "sample_titles": [
       "FedRAMP Security Consultant",
-      "Elastic Security Engineer"
+      "Elastic Security Engineer",
+      "Azure Security Engineer"
     ]
   },
   "techno-comp, inc.": {
@@ -2488,7 +2489,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-10-07",
-    "hit_count": 60,
+    "hit_count": 61,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2878,7 +2879,7 @@
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
     "last_seen": "2026-10-07",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Firewall Cybersecurity Engineer",
       "Security Engineer DC",
@@ -4253,7 +4254,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-10-07",
-    "hit_count": 66,
+    "hit_count": 67,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4336,7 +4337,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-07",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4867,7 +4868,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
@@ -4934,6 +4935,42 @@
     "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "artemis": {
+    "name": "Artemis",
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-08",
+    "hit_count": 1,
+    "sample_titles": [
+      "Offensive Security Engineer"
+    ]
+  },
+  "parameter ai": {
+    "name": "Parameter ai",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Offensive Security Engineer"
+    ]
+  },
+  "aumnitech llc": {
+    "name": "Aumnitech LLC",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer - Engineering Security"
+    ]
+  },
+  "vkore solutions": {
+    "name": "Vkore Solutions",
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-07",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer with AI Exp"
     ]
   }
 }
