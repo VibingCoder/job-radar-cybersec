@@ -2182,7 +2182,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-06",
-    "hit_count": 68,
+    "hit_count": 69,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -2488,7 +2488,7 @@
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
     "last_seen": "2026-10-07",
-    "hit_count": 59,
+    "hit_count": 60,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2878,7 +2878,7 @@
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
     "last_seen": "2026-10-07",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Firewall Cybersecurity Engineer",
       "Security Engineer DC",
@@ -3750,7 +3750,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-07",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4252,8 +4252,8 @@
   "flywire": {
     "name": "Flywire",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-10-05",
-    "hit_count": 64,
+    "last_seen": "2026-10-07",
+    "hit_count": 66,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4336,7 +4336,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-07",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4867,7 +4867,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
@@ -4931,7 +4931,7 @@
     "name": "Entellux",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
     ]
