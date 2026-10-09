@@ -303,7 +303,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-10-08",
-    "hit_count": 160,
+    "hit_count": 161,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1098,7 +1098,7 @@
     "name": "Southern Company",
     "first_seen": "2026-05-19",
     "last_seen": "2026-10-08",
-    "hit_count": 27,
+    "hit_count": 29,
     "sample_titles": [
       "Offensive Security Analyst",
       "Adversary Threat Hunter",
@@ -1787,12 +1787,13 @@
   "openkyber": {
     "name": "Openkyber",
     "first_seen": "2026-06-10",
-    "last_seen": "2026-10-07",
-    "hit_count": 28,
+    "last_seen": "2026-10-08",
+    "hit_count": 31,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer",
-      "Azure Security Engineer"
+      "Azure Security Engineer",
+      "Application Security Engineer"
     ]
   },
   "techno-comp, inc.": {
@@ -1905,7 +1906,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-08",
-    "hit_count": 96,
+    "hit_count": 99,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2469,7 +2470,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-10-08",
-    "hit_count": 49,
+    "hit_count": 50,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2880,7 +2881,7 @@
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
     "last_seen": "2026-10-07",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Firewall Cybersecurity Engineer",
       "Security Engineer DC",
@@ -3366,11 +3367,13 @@
   "millennium corporation": {
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-08-04",
-    "hit_count": 57,
+    "last_seen": "2026-10-08",
+    "hit_count": 59,
     "sample_titles": [
       "AI-Focused Red Team Operator",
-      "AI-Focused Red Team Operator with Security Clearance"
+      "AI-Focused Red Team Operator with Security Clearance",
+      "Red Team Security Engineer",
+      "Red Team Security Engineer with Security Clearance"
     ]
   },
   "winncompanies": {
@@ -4255,7 +4258,7 @@
     "name": "Flywire",
     "first_seen": "2026-09-08",
     "last_seen": "2026-10-07",
-    "hit_count": 67,
+    "hit_count": 69,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4338,7 +4341,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-07",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4869,7 +4872,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
@@ -4978,7 +4981,7 @@
     "name": "KPG99 INC",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer - Engineering Security- (USC Only) in Seattle, WA"
     ]
@@ -4987,7 +4990,7 @@
     "name": "ERPMARK INC",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer"
     ]
