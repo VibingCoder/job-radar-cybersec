@@ -303,7 +303,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-10-08",
-    "hit_count": 162,
+    "hit_count": 163,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2470,7 +2470,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-10-08",
-    "hit_count": 51,
+    "hit_count": 52,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2881,7 +2881,7 @@
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
     "last_seen": "2026-10-07",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Firewall Cybersecurity Engineer",
       "Security Engineer DC",
@@ -3368,7 +3368,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-10-08",
-    "hit_count": 61,
+    "hit_count": 62,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance",
@@ -3652,11 +3652,12 @@
   "deloitte": {
     "name": "Deloitte",
     "first_seen": "2026-08-14",
-    "last_seen": "2026-09-30",
-    "hit_count": 3,
+    "last_seen": "2026-10-09",
+    "hit_count": 4,
     "sample_titles": [
       "Cyber Oracle Identity Analyst / Security Engineer I",
-      "Cyber Identity - CIAM Security Engineer/Consultant"
+      "Cyber Identity - CIAM Security Engineer/Consultant",
+      "Cyber -AI Cloud Security Engineer - Consultant"
     ]
   },
   "teradata": {
@@ -4341,7 +4342,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-07",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4350,7 +4351,7 @@
     "name": "NXP Semiconductors",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-09",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Agentic Security Engineer",
       "AI Application Security Engineer",
@@ -4873,7 +4874,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
@@ -4918,8 +4919,8 @@
   "visa": {
     "name": "VISA",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06",
-    "hit_count": 1,
+    "last_seen": "2026-10-09",
+    "hit_count": 2,
     "sample_titles": [
       "Cybersecurity Engineer - Product Development"
     ]
@@ -4992,6 +4993,15 @@
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "hit_count": 3,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "guaranteed rate": {
+    "name": "Guaranteed Rate",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09",
+    "hit_count": 1,
     "sample_titles": [
       "Security Engineer"
     ]
