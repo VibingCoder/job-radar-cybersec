@@ -303,7 +303,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-10-08",
-    "hit_count": 161,
+    "hit_count": 162,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1788,7 +1788,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-10-08",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer",
@@ -2470,7 +2470,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-10-08",
-    "hit_count": 50,
+    "hit_count": 51,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2881,7 +2881,7 @@
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
     "last_seen": "2026-10-07",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Firewall Cybersecurity Engineer",
       "Security Engineer DC",
@@ -3368,7 +3368,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-10-08",
-    "hit_count": 59,
+    "hit_count": 61,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance",
@@ -4018,8 +4018,8 @@
   "intelligent waves llc": {
     "name": "Intelligent Waves LLC",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-09-12",
-    "hit_count": 23,
+    "last_seen": "2026-10-09",
+    "hit_count": 24,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer with Security Clearance",
       "Red Team Infrastructure - SME with Security Clearance"
@@ -4341,7 +4341,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-07",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4349,12 +4349,13 @@
   "nxp semiconductors": {
     "name": "NXP Semiconductors",
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-27",
-    "hit_count": 16,
+    "last_seen": "2026-10-09",
+    "hit_count": 17,
     "sample_titles": [
       "Agentic Security Engineer",
       "AI Application Security Engineer",
-      "AI Security Engineer"
+      "AI Security Engineer",
+      "RS/HS Security Engineer"
     ]
   },
   "infopeople corp": {
@@ -4872,7 +4873,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
