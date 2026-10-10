@@ -303,7 +303,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-10-08",
-    "hit_count": 165,
+    "hit_count": 166,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -598,8 +598,8 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-09-30",
-    "hit_count": 174,
+    "last_seen": "2026-10-10",
+    "hit_count": 175,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1905,8 +1905,8 @@
   "meta": {
     "name": "Meta",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-08",
-    "hit_count": 99,
+    "last_seen": "2026-10-10",
+    "hit_count": 101,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2471,7 +2471,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-10-08",
-    "hit_count": 54,
+    "hit_count": 55,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2882,7 +2882,7 @@
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
     "last_seen": "2026-10-07",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Firewall Cybersecurity Engineer",
       "Security Engineer DC",
@@ -3369,7 +3369,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-10-08",
-    "hit_count": 64,
+    "hit_count": 65,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance",
@@ -3653,8 +3653,8 @@
   "deloitte": {
     "name": "Deloitte",
     "first_seen": "2026-08-14",
-    "last_seen": "2026-10-09",
-    "hit_count": 5,
+    "last_seen": "2026-10-10",
+    "hit_count": 8,
     "sample_titles": [
       "Cyber Oracle Identity Analyst / Security Engineer I",
       "Cyber Identity - CIAM Security Engineer/Consultant",
@@ -4324,8 +4324,8 @@
   "missionsquare retirement": {
     "name": "MissionSquare Retirement",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-11",
-    "hit_count": 7,
+    "last_seen": "2026-10-10",
+    "hit_count": 8,
     "sample_titles": [
       "Application & AI Security Engineer"
     ]
@@ -4343,7 +4343,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-07",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4352,7 +4352,7 @@
     "name": "NXP Semiconductors",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-09",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Agentic Security Engineer",
       "AI Application Security Engineer",
@@ -4875,7 +4875,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
@@ -5014,6 +5014,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
+    ]
+  },
+  "protiviti": {
+    "name": "Protiviti",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Offensive Security Consultant \u2013 Red Team & Adversary Simulation"
     ]
   }
 }
