@@ -303,7 +303,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-10-10",
-    "hit_count": 168,
+    "hit_count": 170,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -599,7 +599,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-10-10",
-    "hit_count": 176,
+    "hit_count": 177,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1906,7 +1906,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-10",
-    "hit_count": 103,
+    "hit_count": 105,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2471,7 +2471,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-10-08",
-    "hit_count": 56,
+    "hit_count": 57,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -3370,7 +3370,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-10-08",
-    "hit_count": 66,
+    "hit_count": 67,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance",
@@ -4326,7 +4326,7 @@
     "name": "MissionSquare Retirement",
     "first_seen": "2026-09-11",
     "last_seen": "2026-10-10",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Application & AI Security Engineer"
     ]
@@ -4353,7 +4353,7 @@
     "name": "NXP Semiconductors",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-09",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Agentic Security Engineer",
       "AI Application Security Engineer",
