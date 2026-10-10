@@ -302,8 +302,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-10-08",
-    "hit_count": 166,
+    "last_seen": "2026-10-10",
+    "hit_count": 168,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -599,7 +599,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-10-10",
-    "hit_count": 175,
+    "hit_count": 176,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -1906,7 +1906,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-10",
-    "hit_count": 101,
+    "hit_count": 103,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2471,7 +2471,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-10-08",
-    "hit_count": 55,
+    "hit_count": 56,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -3228,13 +3228,14 @@
   "spacexai": {
     "name": "SpaceXAI",
     "first_seen": "2026-07-30",
-    "last_seen": "2026-10-01",
-    "hit_count": 9,
+    "last_seen": "2026-10-10",
+    "hit_count": 10,
     "sample_titles": [
       "Infrastructure Security Engineer",
       "Network Security Engineer",
       "Application Security Engineer",
-      "Application Security Engineer (X Money)"
+      "Application Security Engineer (X Money)",
+      "Infrastructure Security Engineer (Bare Metal & Platform)"
     ]
   },
   "careers at kkr": {
@@ -3369,7 +3370,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-10-08",
-    "hit_count": 65,
+    "hit_count": 66,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance",
@@ -4325,7 +4326,7 @@
     "name": "MissionSquare Retirement",
     "first_seen": "2026-09-11",
     "last_seen": "2026-10-10",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Application & AI Security Engineer"
     ]
@@ -4352,7 +4353,7 @@
     "name": "NXP Semiconductors",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-09",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Agentic Security Engineer",
       "AI Application Security Engineer",
@@ -5020,9 +5021,18 @@
     "name": "Protiviti",
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-10",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Offensive Security Consultant \u2013 Red Team & Adversary Simulation"
+    ]
+  },
+  "fhr": {
+    "name": "FHR",
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "M923-Security Engineer rec 13810"
     ]
   }
 }
