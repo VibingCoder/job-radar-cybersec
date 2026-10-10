@@ -303,7 +303,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-10-08",
-    "hit_count": 164,
+    "hit_count": 165,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -760,8 +760,8 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-09-28",
-    "hit_count": 29,
+    "last_seen": "2026-10-10",
+    "hit_count": 30,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -2471,7 +2471,7 @@
     "name": "Accenture",
     "first_seen": "2026-07-03",
     "last_seen": "2026-10-08",
-    "hit_count": 53,
+    "hit_count": 54,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
@@ -2882,7 +2882,7 @@
     "name": "ClearFocus Technologies",
     "first_seen": "2026-07-18",
     "last_seen": "2026-10-07",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Firewall Cybersecurity Engineer",
       "Security Engineer DC",
@@ -3369,7 +3369,7 @@
     "name": "Millennium Corporation",
     "first_seen": "2026-08-04",
     "last_seen": "2026-10-08",
-    "hit_count": 63,
+    "hit_count": 64,
     "sample_titles": [
       "AI-Focused Red Team Operator",
       "AI-Focused Red Team Operator with Security Clearance",
@@ -4343,7 +4343,7 @@
     "name": "Amazon GuardDuty",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-07",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Security Engineer II, Amazon GuardDuty"
     ]
@@ -4352,7 +4352,7 @@
     "name": "NXP Semiconductors",
     "first_seen": "2026-09-13",
     "last_seen": "2026-10-09",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Agentic Security Engineer",
       "AI Application Security Engineer",
@@ -4875,7 +4875,7 @@
     "name": "ByLabs",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "AI Red Team Engineer",
       "AI Blockchain Security Engineer"
@@ -4921,7 +4921,7 @@
     "name": "VISA",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-09",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Cybersecurity Engineer - Product Development"
     ]
@@ -5005,6 +5005,15 @@
     "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "resolution technologies": {
+    "name": "Resolution Technologies",
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer (Hybrid)"
     ]
   }
 }
