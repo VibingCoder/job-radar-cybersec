@@ -1906,7 +1906,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-10",
-    "hit_count": 106,
+    "hit_count": 111,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2980,11 +2980,14 @@
   "military spouse corporate career network": {
     "name": "Military Spouse Corporate Career Network",
     "first_seen": "2026-07-22",
-    "last_seen": "2026-09-21",
-    "hit_count": 11,
+    "last_seen": "2026-10-11",
+    "hit_count": 14,
     "sample_titles": [
       "Cybersecurity Engineer - Washington DC",
-      "Security Engineer - Washington DC"
+      "Security Engineer - Washington DC",
+      "X-Day Offensive Research (XOR) Vulnerability Researcher - Washington",
+      "X-Day Offensive Research (XOR) Vulnerability Researcher - Atlanta, GA",
+      "X-Day Offensive Research (XOR) Vulnerability Researcher - Houston, TX"
     ]
   },
   "general dynamics mission systems": {
@@ -4326,7 +4329,7 @@
     "name": "MissionSquare Retirement",
     "first_seen": "2026-09-11",
     "last_seen": "2026-10-10",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Application & AI Security Engineer"
     ]
@@ -5033,6 +5036,15 @@
     "hit_count": 1,
     "sample_titles": [
       "M923-Security Engineer rec 13810"
+    ]
+  },
+  "american express": {
+    "name": "American Express",
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "hit_count": 2,
+    "sample_titles": [
+      "Cyber Security Engineer-Application Security Tooling (SCA/SAST/ DAST/ MAST/ API Security)"
     ]
   }
 }
