@@ -302,8 +302,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-10-10",
-    "hit_count": 171,
+    "last_seen": "2026-10-11",
+    "hit_count": 173,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1905,8 +1905,8 @@
   "meta": {
     "name": "Meta",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-10",
-    "hit_count": 111,
+    "last_seen": "2026-10-11",
+    "hit_count": 115,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2981,7 +2981,7 @@
     "name": "Military Spouse Corporate Career Network",
     "first_seen": "2026-07-22",
     "last_seen": "2026-10-11",
-    "hit_count": 14,
+    "hit_count": 18,
     "sample_titles": [
       "Cybersecurity Engineer - Washington DC",
       "Security Engineer - Washington DC",
@@ -3231,8 +3231,8 @@
   "spacexai": {
     "name": "SpaceXAI",
     "first_seen": "2026-07-30",
-    "last_seen": "2026-10-10",
-    "hit_count": 10,
+    "last_seen": "2026-10-11",
+    "hit_count": 11,
     "sample_titles": [
       "Infrastructure Security Engineer",
       "Network Security Engineer",
@@ -3740,12 +3740,13 @@
   "abbvie": {
     "name": "AbbVie",
     "first_seen": "2026-08-16",
-    "last_seen": "2026-09-15",
-    "hit_count": 6,
+    "last_seen": "2026-10-11",
+    "hit_count": 7,
     "sample_titles": [
       "Agentic AI Security Engineer",
       "Application Security Engineer",
-      "Security Engineer \u2013 Cybersecurity Posture, Hygiene & AI"
+      "Security Engineer \u2013 Cybersecurity Posture, Hygiene & AI",
+      "Associate Border Security Analyst II"
     ]
   },
   "mettel": {
@@ -4814,8 +4815,8 @@
   "ninjaone": {
     "name": "NinjaOne",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
-    "hit_count": 15,
+    "last_seen": "2026-10-11",
+    "hit_count": 16,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -5042,9 +5043,18 @@
     "name": "American Express",
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
-    "hit_count": 2,
+    "hit_count": 4,
     "sample_titles": [
       "Cyber Security Engineer-Application Security Tooling (SCA/SAST/ DAST/ MAST/ API Security)"
+    ]
+  },
+  "atwell, llc": {
+    "name": "Atwell, LLC",
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Engineer"
     ]
   }
 }
