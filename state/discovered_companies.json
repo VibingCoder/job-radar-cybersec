@@ -303,7 +303,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-10-11",
-    "hit_count": 175,
+    "hit_count": 177,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1906,7 +1906,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 119,
+    "hit_count": 124,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -4816,7 +4816,7 @@
     "name": "NinjaOne",
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-11",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -5015,8 +5015,8 @@
   "resolution technologies": {
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-10",
-    "hit_count": 2,
+    "last_seen": "2026-10-11",
+    "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5043,7 +5043,7 @@
     "name": "American Express",
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Cyber Security Engineer-Application Security Tooling (SCA/SAST/ DAST/ MAST/ API Security)"
     ]
