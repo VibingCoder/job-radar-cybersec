@@ -692,8 +692,8 @@
   "plaid": {
     "name": "Plaid",
     "first_seen": "2026-05-07",
-    "last_seen": "2026-09-20",
-    "hit_count": 10,
+    "last_seen": "2026-10-12",
+    "hit_count": 11,
     "sample_titles": [
       "Product Security Engineer",
       "Security Engineer - Platform Security"
@@ -1868,12 +1868,13 @@
   "onezero solutions": {
     "name": "OneZero Solutions",
     "first_seen": "2026-06-14",
-    "last_seen": "2026-10-06",
-    "hit_count": 5,
+    "last_seen": "2026-10-12",
+    "hit_count": 6,
     "sample_titles": [
       "DHS Information Systems Security Engineer",
       "Cyber Security Engineer (Vulnerability Management & DevSecOps) DoS CSS",
-      "Cyber Security Engineer \u2013 Penetration Tester (Journeyman)"
+      "Cyber Security Engineer \u2013 Penetration Tester (Journeyman)",
+      "Cyber Security Engineer - Penetration Tester (Journeyman)"
     ]
   },
   "zachary piper solutions, llc": {
@@ -1907,7 +1908,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 129,
+    "hit_count": 134,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -3504,10 +3505,11 @@
   "hark": {
     "name": "Hark",
     "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "hit_count": 1,
+    "last_seen": "2026-10-12",
+    "hit_count": 2,
     "sample_titles": [
-      "Security Engineer"
+      "Security Engineer",
+      "Application Security Engineer"
     ]
   },
   "pnc bank": {
@@ -3826,11 +3828,12 @@
   "northern base": {
     "name": "Northern Base",
     "first_seen": "2026-08-19",
-    "last_seen": "2026-08-24",
-    "hit_count": 18,
+    "last_seen": "2026-10-12",
+    "hit_count": 19,
     "sample_titles": [
       "Threat Hunting Consultant",
-      "Python Full Stack Security Engineer"
+      "Python Full Stack Security Engineer",
+      "Azure Security analyst"
     ]
   },
   "9to9 software solutions llc": {
@@ -4980,10 +4983,11 @@
   "vkore solutions": {
     "name": "Vkore Solutions",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "hit_count": 1,
+    "last_seen": "2026-10-12",
+    "hit_count": 2,
     "sample_titles": [
-      "Security Engineer with AI Exp"
+      "Security Engineer with AI Exp",
+      "Security Engineer-W2 Only"
     ]
   },
   "kpg99 inc": {
@@ -5056,6 +5060,15 @@
     "hit_count": 2,
     "sample_titles": [
       "Cyber Security Engineer"
+    ]
+  },
+  "paccar": {
+    "name": "PACCAR",
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
