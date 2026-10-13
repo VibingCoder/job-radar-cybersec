@@ -1012,8 +1012,8 @@
   "coinflow": {
     "name": "Coinflow",
     "first_seen": "2026-05-15",
-    "last_seen": "2026-05-15",
-    "hit_count": 11,
+    "last_seen": "2026-10-12",
+    "hit_count": 12,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -1787,8 +1787,8 @@
   "openkyber": {
     "name": "Openkyber",
     "first_seen": "2026-06-10",
-    "last_seen": "2026-10-08",
-    "hit_count": 32,
+    "last_seen": "2026-10-13",
+    "hit_count": 33,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer",
@@ -1908,7 +1908,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 134,
+    "hit_count": 139,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2187,8 +2187,8 @@
   "nationwide it services": {
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-10-06",
-    "hit_count": 69,
+    "last_seen": "2026-10-12",
+    "hit_count": 70,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -2596,10 +2596,11 @@
   "netspi llc": {
     "name": "NetSPI LLC",
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
-    "hit_count": 3,
+    "last_seen": "2026-10-12",
+    "hit_count": 4,
     "sample_titles": [
-      "Security Consultant II (Web Application Penetration Tester)"
+      "Security Consultant II (Web Application Penetration Tester)",
+      "Security Consultant II (Mobile Application Penetration Tester)"
     ]
   },
   "microtechnologies": {
@@ -4268,8 +4269,8 @@
   "flywire": {
     "name": "Flywire",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-10-07",
-    "hit_count": 69,
+    "last_seen": "2026-10-12",
+    "hit_count": 70,
     "sample_titles": [
       "Security Engineer II \u2013 Offensive Track",
       "Security Engineer II (Offensive Operations)",
@@ -4938,8 +4939,8 @@
   "direct counsel": {
     "name": "Direct Counsel",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06",
-    "hit_count": 1,
+    "last_seen": "2026-10-13",
+    "hit_count": 2,
     "sample_titles": [
       "Cybersecurity & Incident Response Managing Associate Attorney"
     ]
@@ -4974,8 +4975,8 @@
   "aumnitech llc": {
     "name": "Aumnitech LLC",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "hit_count": 1,
+    "last_seen": "2026-10-13",
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer - Engineering Security"
     ]
@@ -5020,8 +5021,8 @@
   "resolution technologies": {
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-11",
-    "hit_count": 3,
+    "last_seen": "2026-10-12",
+    "hit_count": 4,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5069,6 +5070,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "acestack": {
+    "name": "Acestack",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Azure Security Analyst"
     ]
   }
 }
