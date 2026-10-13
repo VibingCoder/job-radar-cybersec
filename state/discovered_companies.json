@@ -1827,13 +1827,14 @@
   "kelly services": {
     "name": "Kelly Services",
     "first_seen": "2026-06-11",
-    "last_seen": "2026-10-12",
-    "hit_count": 22,
+    "last_seen": "2026-10-13",
+    "hit_count": 23,
     "sample_titles": [
       "Offensive Cybersecurity Engineer / Relocation offered to Washington DC",
       "Offensive Cybersecurity Engineer / AI / Startup",
       "Application Security Engineer - Plano, TX",
-      "Offensive Security Engineer - CISSP/OSCP - Chicago, IL"
+      "Offensive Security Engineer - CISSP/OSCP - Chicago, IL",
+      "Systems Security Engineer"
     ]
   },
   "sira consulting, an inc 5000 company": {
@@ -1908,7 +1909,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 139,
+    "hit_count": 144,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2597,7 +2598,7 @@
     "name": "NetSPI LLC",
     "first_seen": "2026-07-08",
     "last_seen": "2026-10-12",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)",
       "Security Consultant II (Mobile Application Penetration Tester)"
@@ -4940,7 +4941,7 @@
     "name": "Direct Counsel",
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-13",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cybersecurity & Incident Response Managing Associate Attorney"
     ]
@@ -4976,7 +4977,7 @@
     "name": "Aumnitech LLC",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-13",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer - Engineering Security"
     ]
