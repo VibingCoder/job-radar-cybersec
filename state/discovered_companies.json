@@ -1910,7 +1910,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 149,
+    "hit_count": 154,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2599,7 +2599,7 @@
     "name": "NetSPI LLC",
     "first_seen": "2026-07-08",
     "last_seen": "2026-10-12",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)",
       "Security Consultant II (Mobile Application Penetration Tester)"
@@ -4199,10 +4199,11 @@
   "ey": {
     "name": "EY",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-03",
-    "hit_count": 2,
+    "last_seen": "2026-10-14",
+    "hit_count": 3,
     "sample_titles": [
-      "Offensive Security Analyst"
+      "Offensive Security Analyst",
+      "STS Endpoint Security Engineer"
     ]
   },
   "alertmedia": {
@@ -5023,8 +5024,8 @@
   "resolution technologies": {
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-12",
-    "hit_count": 4,
+    "last_seen": "2026-10-13",
+    "hit_count": 5,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5090,6 +5091,42 @@
     "hit_count": 1,
     "sample_titles": [
       "Infrastructure Security Engineer"
+    ]
+  },
+  "novasource power": {
+    "name": "NovaSource Power",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "nuro": {
+    "name": "Nuro",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer, Infrastructure"
+    ]
+  },
+  "situsamc": {
+    "name": "SitusAMC",
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cloud Security Engineer - Infrastructure - AWS - Remote"
+    ]
+  },
+  "ambry genetics": {
+    "name": "Ambry Genetics",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
