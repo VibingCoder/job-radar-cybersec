@@ -1371,10 +1371,11 @@
   "chaos industries": {
     "name": "CHAOS Industries",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-08-18",
-    "hit_count": 49,
+    "last_seen": "2026-10-13",
+    "hit_count": 50,
     "sample_titles": [
-      "Cybersecurity Engineer, Product Security"
+      "Cybersecurity Engineer, Product Security",
+      "Information Systems Security Engineer"
     ]
   },
   "asana": {
@@ -1788,7 +1789,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-10-13",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer",
@@ -1909,7 +1910,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 144,
+    "hit_count": 149,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2598,7 +2599,7 @@
     "name": "NetSPI LLC",
     "first_seen": "2026-07-08",
     "last_seen": "2026-10-12",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)",
       "Security Consultant II (Mobile Application Penetration Tester)"
@@ -4977,7 +4978,7 @@
     "name": "Aumnitech LLC",
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-13",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Security Engineer - Engineering Security"
     ]
@@ -5077,9 +5078,18 @@
     "name": "Acestack",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Azure Security Analyst"
+    ]
+  },
+  "nbcuniversal": {
+    "name": "NBCUniversal",
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Infrastructure Security Engineer"
     ]
   }
 }
