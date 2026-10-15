@@ -353,12 +353,13 @@
   "teksystems": {
     "name": "TEKsystems",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-08-29",
-    "hit_count": 11,
+    "last_seen": "2026-10-15",
+    "hit_count": 12,
     "sample_titles": [
       "Security Engineer",
       "Security Analyst/Engineer",
-      "Network Security Engineer"
+      "Network Security Engineer",
+      "Application Security Engineer"
     ]
   },
   "first american payments systems": {
@@ -1067,7 +1068,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-10-15",
-    "hit_count": 311,
+    "hit_count": 312,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1910,7 +1911,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 179,
+    "hit_count": 184,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2766,11 +2767,12 @@
   "gulf coast automation group": {
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
-    "last_seen": "2026-08-24",
-    "hit_count": 20,
+    "last_seen": "2026-10-15",
+    "hit_count": 21,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst",
-      "Information Security Engineer"
+      "Information Security Engineer",
+      "Offensive Security Consultant - Penetration Tester"
     ]
   },
   "icon international group llc": {
@@ -4632,10 +4634,11 @@
   "apex technology": {
     "name": "Apex Technology",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
-    "hit_count": 1,
+    "last_seen": "2026-10-15",
+    "hit_count": 2,
     "sample_titles": [
-      "Cyber Security Engineer"
+      "Cyber Security Engineer",
+      "Red Team Engineer, Product Security"
     ]
   },
   "remotejobsone": {
@@ -5145,6 +5148,24 @@
     "hit_count": 1,
     "sample_titles": [
       "DevSecOps Security Engineer"
+    ]
+  },
+  "outset": {
+    "name": "Outset",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Platform Security Engineer"
+    ]
+  },
+  "idler": {
+    "name": "idler",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "Offensive Security RL Researcher"
     ]
   }
 }
