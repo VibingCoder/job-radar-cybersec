@@ -1066,8 +1066,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-09-24",
-    "hit_count": 310,
+    "last_seen": "2026-10-15",
+    "hit_count": 311,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1910,7 +1910,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 174,
+    "hit_count": 179,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -5025,7 +5025,7 @@
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-14",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5106,7 +5106,7 @@
     "name": "Nuro",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-14",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer, Infrastructure"
     ]
@@ -5136,6 +5136,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Identity and Security Engineer"
+    ]
+  },
+  "dpr": {
+    "name": "DPR",
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "hit_count": 1,
+    "sample_titles": [
+      "DevSecOps Security Engineer"
     ]
   }
 }
