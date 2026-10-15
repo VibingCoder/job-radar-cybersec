@@ -1910,7 +1910,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 169,
+    "hit_count": 174,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -5024,8 +5024,8 @@
   "resolution technologies": {
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-13",
-    "hit_count": 5,
+    "last_seen": "2026-10-14",
+    "hit_count": 6,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5106,7 +5106,7 @@
     "name": "Nuro",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-14",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Security Engineer, Infrastructure"
     ]
