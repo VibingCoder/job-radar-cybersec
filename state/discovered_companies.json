@@ -290,7 +290,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-10-16",
-    "hit_count": 535,
+    "hit_count": 536,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -531,8 +531,8 @@
   "insight global": {
     "name": "Insight Global",
     "first_seen": "2026-05-03",
-    "last_seen": "2026-10-03",
-    "hit_count": 68,
+    "last_seen": "2026-10-16",
+    "hit_count": 69,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -761,8 +761,8 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-10-12",
-    "hit_count": 31,
+    "last_seen": "2026-10-16",
+    "hit_count": 32,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -1911,7 +1911,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 194,
+    "hit_count": 195,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2768,7 +2768,7 @@
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
     "last_seen": "2026-10-15",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst",
       "Information Security Engineer",
@@ -4082,7 +4082,7 @@
     "name": "Pensar",
     "first_seen": "2026-08-28",
     "last_seen": "2026-10-16",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Offensive Security Agent Engineer",
       "Autonomous Security Engineer, Customer Solutions"
@@ -4636,7 +4636,7 @@
     "name": "Apex Technology",
     "first_seen": "2026-09-23",
     "last_seen": "2026-10-15",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Cyber Security Engineer",
       "Red Team Engineer, Product Security"
@@ -5176,6 +5176,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Cybersecurity Engineer with Security Clearance"
+    ]
+  },
+  "b&m cyber": {
+    "name": "B&M Cyber",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "Experienced Penetration Tester"
     ]
   }
 }
