@@ -1911,7 +1911,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-11",
-    "hit_count": 195,
+    "hit_count": 196,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -2599,8 +2599,8 @@
   "netspi llc": {
     "name": "NetSPI LLC",
     "first_seen": "2026-07-08",
-    "last_seen": "2026-10-12",
-    "hit_count": 8,
+    "last_seen": "2026-10-16",
+    "hit_count": 9,
     "sample_titles": [
       "Security Consultant II (Web Application Penetration Tester)",
       "Security Consultant II (Mobile Application Penetration Tester)"
@@ -2768,7 +2768,7 @@
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
     "last_seen": "2026-10-15",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst",
       "Information Security Engineer",
@@ -4082,7 +4082,7 @@
     "name": "Pensar",
     "first_seen": "2026-08-28",
     "last_seen": "2026-10-16",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Offensive Security Agent Engineer",
       "Autonomous Security Engineer, Customer Solutions"
@@ -4636,7 +4636,7 @@
     "name": "Apex Technology",
     "first_seen": "2026-09-23",
     "last_seen": "2026-10-15",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Cyber Security Engineer",
       "Red Team Engineer, Product Security"
@@ -5182,9 +5182,18 @@
     "name": "B&M Cyber",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Experienced Penetration Tester"
+    ]
+  },
+  "voto consulting llc": {
+    "name": "Voto Consulting LLC",
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "Info Security Analyst - Penetration Tester- W2 Only"
     ]
   }
 }
