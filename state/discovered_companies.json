@@ -290,7 +290,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-10-17",
-    "hit_count": 537,
+    "hit_count": 540,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1923,8 +1923,8 @@
   "truist": {
     "name": "Truist",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-07",
-    "hit_count": 23,
+    "last_seen": "2026-10-17",
+    "hit_count": 24,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
@@ -2059,8 +2059,8 @@
   "truist bank": {
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-09-12",
-    "hit_count": 26,
+    "last_seen": "2026-10-17",
+    "hit_count": 27,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
       "Security Engineer \u2013 Identity Governance & Administration (IGA)",
@@ -2768,7 +2768,7 @@
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
     "last_seen": "2026-10-15",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst",
       "Information Security Engineer",
@@ -4636,7 +4636,7 @@
     "name": "Apex Technology",
     "first_seen": "2026-09-23",
     "last_seen": "2026-10-15",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Cyber Security Engineer",
       "Red Team Engineer, Product Security"
@@ -5191,7 +5191,7 @@
     "name": "Voto Consulting LLC",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Info Security Analyst - Penetration Tester- W2 Only"
     ]
