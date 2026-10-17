@@ -290,7 +290,7 @@
     "name": "Bank of America",
     "first_seen": "2026-04-28",
     "last_seen": "2026-10-17",
-    "hit_count": 540,
+    "hit_count": 543,
     "sample_titles": [
       "Cyber Security Analyst (Unix/Linux Configuration Monitoring required)",
       "AI Security Engineer",
@@ -1924,7 +1924,7 @@
     "name": "Truist",
     "first_seen": "2026-06-16",
     "last_seen": "2026-10-17",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
@@ -2060,7 +2060,7 @@
     "name": "Truist Bank",
     "first_seen": "2026-06-21",
     "last_seen": "2026-10-17",
-    "hit_count": 27,
+    "hit_count": 28,
     "sample_titles": [
       "Cyber Security Third Party SOC and Threat Hunting Analyst",
       "Security Engineer \u2013 Identity Governance & Administration (IGA)",
@@ -2768,7 +2768,7 @@
     "name": "Gulf Coast Automation Group",
     "first_seen": "2026-07-14",
     "last_seen": "2026-10-15",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Vulnerability Management & Offensive Security Analyst",
       "Information Security Engineer",
@@ -4636,7 +4636,7 @@
     "name": "Apex Technology",
     "first_seen": "2026-09-23",
     "last_seen": "2026-10-15",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Cyber Security Engineer",
       "Red Team Engineer, Product Security"
@@ -5182,7 +5182,7 @@
     "name": "B&M Cyber",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Experienced Penetration Tester"
     ]
@@ -5191,7 +5191,7 @@
     "name": "Voto Consulting LLC",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Info Security Analyst - Penetration Tester- W2 Only"
     ]
@@ -5221,6 +5221,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Application Security Engineer (X Money)"
+    ]
+  },
+  "pacer group": {
+    "name": "Pacer Group",
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "hit_count": 1,
+    "sample_titles": [
+      "Offensive Security Analyst"
     ]
   }
 }
