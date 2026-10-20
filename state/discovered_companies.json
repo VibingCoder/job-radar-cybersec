@@ -302,8 +302,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-10-16",
-    "hit_count": 179,
+    "last_seen": "2026-10-20",
+    "hit_count": 180,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -600,7 +600,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-10-18",
-    "hit_count": 183,
+    "hit_count": 184,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -3834,7 +3834,7 @@
     "name": "Northern Base",
     "first_seen": "2026-08-19",
     "last_seen": "2026-10-19",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Threat Hunting Consultant",
       "Python Full Stack Security Engineer",
@@ -4132,7 +4132,7 @@
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-17",
-    "hit_count": 29,
+    "hit_count": 31,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -4639,7 +4639,7 @@
     "name": "Apex Technology",
     "first_seen": "2026-09-23",
     "last_seen": "2026-10-15",
-    "hit_count": 28,
+    "hit_count": 29,
     "sample_titles": [
       "Cyber Security Engineer",
       "Red Team Engineer, Product Security"
@@ -5032,7 +5032,7 @@
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-19",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5166,8 +5166,8 @@
   "idler": {
     "name": "idler",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15",
-    "hit_count": 4,
+    "last_seen": "2026-10-20",
+    "hit_count": 5,
     "sample_titles": [
       "Offensive Security RL Researcher"
     ]
@@ -5194,7 +5194,7 @@
     "name": "Voto Consulting LLC",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Info Security Analyst - Penetration Tester- W2 Only"
     ]
@@ -5284,7 +5284,7 @@
     "name": "SOCBOX, Inc.",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Cybersecurity Penetration Tester"
     ]
