@@ -600,7 +600,7 @@
     "name": "Google",
     "first_seen": "2026-05-05",
     "last_seen": "2026-10-18",
-    "hit_count": 181,
+    "hit_count": 182,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -3833,12 +3833,13 @@
   "northern base": {
     "name": "Northern Base",
     "first_seen": "2026-08-19",
-    "last_seen": "2026-10-12",
-    "hit_count": 19,
+    "last_seen": "2026-10-19",
+    "hit_count": 20,
     "sample_titles": [
       "Threat Hunting Consultant",
       "Python Full Stack Security Engineer",
-      "Azure Security analyst"
+      "Azure Security analyst",
+      "Security Engineer \u2013 Web Application Security"
     ]
   },
   "9to9 software solutions llc": {
@@ -4131,7 +4132,7 @@
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-17",
-    "hit_count": 25,
+    "hit_count": 27,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -4638,7 +4639,7 @@
     "name": "Apex Technology",
     "first_seen": "2026-09-23",
     "last_seen": "2026-10-15",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Cyber Security Engineer",
       "Red Team Engineer, Product Security"
@@ -5031,7 +5032,7 @@
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-19",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5184,7 +5185,7 @@
     "name": "B&M Cyber",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Experienced Penetration Tester"
     ]
@@ -5193,7 +5194,7 @@
     "name": "Voto Consulting LLC",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Info Security Analyst - Penetration Tester- W2 Only"
     ]
@@ -5274,7 +5275,7 @@
     "name": "HP",
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Software Product Security Engineer - HP IQ"
     ]
@@ -5283,7 +5284,7 @@
     "name": "SOCBOX, Inc.",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Cybersecurity Penetration Tester"
     ]
