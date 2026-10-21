@@ -2190,8 +2190,8 @@
   "nationwide it services": {
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
-    "last_seen": "2026-10-12",
-    "hit_count": 70,
+    "last_seen": "2026-10-21",
+    "hit_count": 71,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4132,7 +4132,7 @@
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-17",
-    "hit_count": 35,
+    "hit_count": 37,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -5031,8 +5031,8 @@
   "resolution technologies": {
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-19",
-    "hit_count": 18,
+    "last_seen": "2026-10-21",
+    "hit_count": 19,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5113,7 +5113,7 @@
     "name": "Nuro",
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-20",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Security Engineer, Infrastructure"
     ]
@@ -5194,7 +5194,7 @@
     "name": "Voto Consulting LLC",
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "Info Security Analyst - Penetration Tester- W2 Only"
     ]
@@ -5284,9 +5284,27 @@
     "name": "SOCBOX, Inc.",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Cybersecurity Penetration Tester"
+    ]
+  },
+  "thestaffed": {
+    "name": "TheStaffed",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer (AWS Bedrock AgentCore / AI Security)"
+    ]
+  },
+  "peraton": {
+    "name": "Peraton",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security and Vulnerability Management Engineer with Security Clearance"
     ]
   }
 }
