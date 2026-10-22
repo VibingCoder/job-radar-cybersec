@@ -2191,7 +2191,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-21",
-    "hit_count": 75,
+    "hit_count": 76,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4132,7 +4132,7 @@
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-17",
-    "hit_count": 45,
+    "hit_count": 47,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -5032,7 +5032,7 @@
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-21",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5221,7 +5221,7 @@
     "name": "SpaceXSI",
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-21",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer (X Money)"
     ]
@@ -5284,7 +5284,7 @@
     "name": "SOCBOX, Inc.",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Cybersecurity Penetration Tester"
     ]
@@ -5302,7 +5302,7 @@
     "name": "Peraton",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security and Vulnerability Management Engineer with Security Clearance"
     ]
@@ -5311,7 +5311,7 @@
     "name": "Delta Dental",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Vulnerability Researcher"
     ]
@@ -5323,6 +5323,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Forescout Cyber Security Engineer"
+    ]
+  },
+  "qualitate": {
+    "name": "Qualitate",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "level blue": {
+    "name": "Level Blue",
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Consultant, DFIR"
     ]
   }
 }
