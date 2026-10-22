@@ -303,7 +303,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-10-21",
-    "hit_count": 184,
+    "hit_count": 185,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2191,7 +2191,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-21",
-    "hit_count": 74,
+    "hit_count": 75,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4132,7 +4132,7 @@
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-17",
-    "hit_count": 43,
+    "hit_count": 45,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -5032,7 +5032,7 @@
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-21",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5220,8 +5220,8 @@
   "spacexsi": {
     "name": "SpaceXSI",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-10-17",
-    "hit_count": 1,
+    "last_seen": "2026-10-21",
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer (X Money)"
     ]
@@ -5284,7 +5284,7 @@
     "name": "SOCBOX, Inc.",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Cybersecurity Penetration Tester"
     ]
@@ -5302,7 +5302,7 @@
     "name": "Peraton",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security and Vulnerability Management Engineer with Security Clearance"
     ]
@@ -5311,9 +5311,18 @@
     "name": "Delta Dental",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Vulnerability Researcher"
+    ]
+  },
+  "dan solutions": {
+    "name": "DAN Solutions",
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "Forescout Cyber Security Engineer"
     ]
   }
 }
