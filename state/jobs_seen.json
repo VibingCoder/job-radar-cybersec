@@ -1194,5 +1194,23 @@
     "posted_at": null,
     "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Remote/Incident-Response-Consultant--Remote-_R30545",
     "provider": "workday"
+  },
+  "workday-crowdstrike-Incident-Response-Consultant--Remote-_R30535": {
+    "job_id": "workday-crowdstrike-Incident-Response-Consultant--Remote-_R30535",
+    "company": "Crowdstrike",
+    "title": "Incident Response Consultant (Remote)",
+    "location": "USA - Remote",
+    "posted_at": "2026-10-22",
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Remote/Incident-Response-Consultant--Remote-_R30535",
+    "provider": "workday"
+  },
+  "workday-crowdstrike-Incident-Response-Consultant--Remote-_R30537": {
+    "job_id": "workday-crowdstrike-Incident-Response-Consultant--Remote-_R30537",
+    "company": "Crowdstrike",
+    "title": "Incident Response Consultant (Remote)",
+    "location": "USA - Remote",
+    "posted_at": "2026-10-22",
+    "apply_url": "https://crowdstrike.wd5.myworkdayjobs.com/job/USA---Remote/Incident-Response-Consultant--Remote-_R30537",
+    "provider": "workday"
   }
 }
