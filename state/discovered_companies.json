@@ -2191,7 +2191,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-21",
-    "hit_count": 80,
+    "hit_count": 81,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4132,7 +4132,7 @@
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-18",
-    "hit_count": 51,
+    "hit_count": 52,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -5284,7 +5284,7 @@
     "name": "SOCBOX, Inc.",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Cybersecurity Penetration Tester"
     ]
@@ -5302,7 +5302,7 @@
     "name": "Peraton",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Security and Vulnerability Management Engineer with Security Clearance"
     ]
@@ -5359,6 +5359,24 @@
     "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "s&p global": {
+    "name": "S&P Global",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Detection Engineer"
+    ]
+  },
+  "bright data": {
+    "name": "Bright Data",
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Researcher - Bot Detection Adversarial Research"
     ]
   }
 }
