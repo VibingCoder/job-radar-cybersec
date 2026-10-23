@@ -531,8 +531,8 @@
   "insight global": {
     "name": "Insight Global",
     "first_seen": "2026-05-03",
-    "last_seen": "2026-10-16",
-    "hit_count": 69,
+    "last_seen": "2026-10-23",
+    "hit_count": 70,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -2050,8 +2050,8 @@
   "jll": {
     "name": "JLL",
     "first_seen": "2026-06-21",
-    "last_seen": "2026-08-18",
-    "hit_count": 17,
+    "last_seen": "2026-10-23",
+    "hit_count": 18,
     "sample_titles": [
       "Information Security Engineer, Network Security Engineering"
     ]
@@ -2191,7 +2191,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-21",
-    "hit_count": 81,
+    "hit_count": 82,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4131,8 +4131,8 @@
   "koniag government services": {
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-18",
-    "hit_count": 52,
+    "last_seen": "2026-10-23",
+    "hit_count": 53,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -4693,11 +4693,12 @@
   "lumbee holdings": {
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
-    "hit_count": 22,
+    "last_seen": "2026-10-23",
+    "hit_count": 23,
     "sample_titles": [
       "Vulnerability Researcher",
-      "Cyber Vulnerability Researcher"
+      "Cyber Vulnerability Researcher",
+      "Cybersecurity Engineer"
     ]
   },
   "swingtech": {
@@ -5302,7 +5303,7 @@
     "name": "Peraton",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Security and Vulnerability Management Engineer with Security Clearance"
     ]
