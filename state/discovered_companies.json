@@ -1068,7 +1068,7 @@
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
     "last_seen": "2026-10-22",
-    "hit_count": 319,
+    "hit_count": 320,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -2191,7 +2191,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-21",
-    "hit_count": 79,
+    "hit_count": 80,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -3807,7 +3807,7 @@
     "name": "Palantir Technologies",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-22",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
@@ -4132,7 +4132,7 @@
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-18",
-    "hit_count": 50,
+    "hit_count": 51,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -5031,8 +5031,8 @@
   "resolution technologies": {
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-21",
-    "hit_count": 21,
+    "last_seen": "2026-10-22",
+    "hit_count": 22,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5284,7 +5284,7 @@
     "name": "SOCBOX, Inc.",
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Cybersecurity Penetration Tester"
     ]
@@ -5302,7 +5302,7 @@
     "name": "Peraton",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Security and Vulnerability Management Engineer with Security Clearance"
     ]
