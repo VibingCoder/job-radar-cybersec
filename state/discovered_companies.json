@@ -532,7 +532,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-10-23",
-    "hit_count": 74,
+    "hit_count": 75,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -2191,7 +2191,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-21",
-    "hit_count": 86,
+    "hit_count": 87,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4132,7 +4132,7 @@
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-23",
-    "hit_count": 59,
+    "hit_count": 60,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -4694,7 +4694,7 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-10-23",
-    "hit_count": 27,
+    "hit_count": 28,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cyber Vulnerability Researcher",
@@ -5387,6 +5387,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer I"
+    ]
+  },
+  "aurex": {
+    "name": "Aurex",
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "hit_count": 1,
+    "sample_titles": [
+      "GPS System Security Engineer"
     ]
   }
 }
