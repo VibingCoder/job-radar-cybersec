@@ -533,7 +533,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-10-23",
-    "hit_count": 78,
+    "hit_count": 79,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -600,8 +600,8 @@
   "google": {
     "name": "Google",
     "first_seen": "2026-05-05",
-    "last_seen": "2026-10-18",
-    "hit_count": 185,
+    "last_seen": "2026-10-25",
+    "hit_count": 186,
     "sample_titles": [
       "Security Engineer",
       "Security Engineer, AppSec (Tapestry)",
@@ -2192,7 +2192,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-21",
-    "hit_count": 90,
+    "hit_count": 91,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4133,7 +4133,7 @@
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-23",
-    "hit_count": 63,
+    "hit_count": 64,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -4455,8 +4455,8 @@
   "dragonfli group": {
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-10-04",
-    "hit_count": 34,
+    "last_seen": "2026-10-25",
+    "hit_count": 35,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -4695,7 +4695,7 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-10-23",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cyber Vulnerability Researcher",
@@ -5304,7 +5304,7 @@
     "name": "Peraton",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security and Vulnerability Management Engineer with Security Clearance"
     ]
