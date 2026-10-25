@@ -533,7 +533,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-10-23",
-    "hit_count": 79,
+    "hit_count": 80,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -1068,8 +1068,8 @@
   "bright vision technologies": {
     "name": "Bright Vision Technologies",
     "first_seen": "2026-05-18",
-    "last_seen": "2026-10-22",
-    "hit_count": 320,
+    "last_seen": "2026-10-25",
+    "hit_count": 321,
     "sample_titles": [
       "Application Security Engineer",
       "AI Security Engineer",
@@ -1099,12 +1099,13 @@
   "southern company": {
     "name": "Southern Company",
     "first_seen": "2026-05-19",
-    "last_seen": "2026-10-08",
-    "hit_count": 29,
+    "last_seen": "2026-10-25",
+    "hit_count": 30,
     "sample_titles": [
       "Offensive Security Analyst",
       "Adversary Threat Hunter",
-      "Cybersecurity Incident Response Analyst"
+      "Cybersecurity Incident Response Analyst",
+      "Application Security Analyst"
     ]
   },
   "intel": {
@@ -1402,8 +1403,8 @@
   "carnegie mellon university": {
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
-    "last_seen": "2026-08-21",
-    "hit_count": 442,
+    "last_seen": "2026-10-25",
+    "hit_count": 444,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2192,7 +2193,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-21",
-    "hit_count": 91,
+    "hit_count": 92,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4055,8 +4056,8 @@
   "intelligent waves": {
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
-    "last_seen": "2026-09-10",
-    "hit_count": 34,
+    "last_seen": "2026-10-25",
+    "hit_count": 35,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4133,7 +4134,7 @@
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-23",
-    "hit_count": 64,
+    "hit_count": 65,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
@@ -4206,8 +4207,8 @@
   "ey": {
     "name": "EY",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-10-14",
-    "hit_count": 3,
+    "last_seen": "2026-10-25",
+    "hit_count": 6,
     "sample_titles": [
       "Offensive Security Analyst",
       "STS Endpoint Security Engineer"
@@ -4695,7 +4696,7 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-10-23",
-    "hit_count": 32,
+    "hit_count": 33,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cyber Vulnerability Researcher",
@@ -5304,7 +5305,7 @@
     "name": "Peraton",
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Security and Vulnerability Management Engineer with Security Clearance"
     ]
@@ -5406,6 +5407,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Security Engineer - Engineering, Architecture & AI"
+    ]
+  },
+  "motive": {
+    "name": "Motive",
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "hit_count": 1,
+    "sample_titles": [
+      "Red Team Security Engineer"
     ]
   }
 }
