@@ -533,7 +533,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-10-23",
-    "hit_count": 84,
+    "hit_count": 85,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -1100,7 +1100,7 @@
     "name": "Southern Company",
     "first_seen": "2026-05-19",
     "last_seen": "2026-10-25",
-    "hit_count": 34,
+    "hit_count": 35,
     "sample_titles": [
       "Offensive Security Analyst",
       "Adversary Threat Hunter",
@@ -1374,11 +1374,12 @@
   "chaos industries": {
     "name": "CHAOS Industries",
     "first_seen": "2026-05-29",
-    "last_seen": "2026-10-13",
-    "hit_count": 50,
+    "last_seen": "2026-10-26",
+    "hit_count": 51,
     "sample_titles": [
       "Cybersecurity Engineer, Product Security",
-      "Information Systems Security Engineer"
+      "Information Systems Security Engineer",
+      "Product Security Engineer"
     ]
   },
   "asana": {
@@ -1404,7 +1405,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-10-25",
-    "hit_count": 452,
+    "hit_count": 454,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2193,7 +2194,7 @@
     "name": "Nationwide IT Services",
     "first_seen": "2026-06-23",
     "last_seen": "2026-10-21",
-    "hit_count": 96,
+    "hit_count": 97,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
@@ -4057,7 +4058,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-25",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4208,7 +4209,7 @@
     "name": "EY",
     "first_seen": "2026-09-03",
     "last_seen": "2026-10-25",
-    "hit_count": 18,
+    "hit_count": 20,
     "sample_titles": [
       "Offensive Security Analyst",
       "STS Endpoint Security Engineer"
@@ -4696,7 +4697,7 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-10-23",
-    "hit_count": 37,
+    "hit_count": 38,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cyber Vulnerability Researcher",
@@ -5268,8 +5269,8 @@
   "massmutual": {
     "name": "MassMutual",
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
-    "hit_count": 3,
+    "last_seen": "2026-10-26",
+    "hit_count": 4,
     "sample_titles": [
       "Application Security Consultant - DAST"
     ]
@@ -5413,7 +5414,7 @@
     "name": "Motive",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Red Team Security Engineer"
     ]
