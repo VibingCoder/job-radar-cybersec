@@ -533,7 +533,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-10-23",
-    "hit_count": 89,
+    "hit_count": 90,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -1015,7 +1015,7 @@
     "name": "Coinflow",
     "first_seen": "2026-05-15",
     "last_seen": "2026-10-27",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -1375,7 +1375,7 @@
     "name": "CHAOS Industries",
     "first_seen": "2026-05-29",
     "last_seen": "2026-10-26",
-    "hit_count": 55,
+    "hit_count": 56,
     "sample_titles": [
       "Cybersecurity Engineer, Product Security",
       "Information Systems Security Engineer",
@@ -1405,7 +1405,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-10-25",
-    "hit_count": 462,
+    "hit_count": 464,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -4058,7 +4058,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-25",
-    "hit_count": 44,
+    "hit_count": 45,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4697,7 +4697,7 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-10-23",
-    "hit_count": 42,
+    "hit_count": 43,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cyber Vulnerability Researcher",
@@ -5036,7 +5036,7 @@
     "name": "Resolution Technologies",
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-26",
-    "hit_count": 26,
+    "hit_count": 27,
     "sample_titles": [
       "Application Security Engineer (Hybrid)"
     ]
@@ -5414,7 +5414,7 @@
     "name": "Motive",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Red Team Security Engineer"
     ]
@@ -5423,9 +5423,18 @@
     "name": "RedStream Technology",
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-27",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Penetration Tester"
+    ]
+  },
+  "cyclotron, inc.": {
+    "name": "Cyclotron, Inc.",
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "hit_count": 1,
+    "sample_titles": [
+      "Microsoft Security Engineer-Client Consulting"
     ]
   }
 }
