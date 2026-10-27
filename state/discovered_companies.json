@@ -533,7 +533,7 @@
     "name": "Insight Global",
     "first_seen": "2026-05-03",
     "last_seen": "2026-10-23",
-    "hit_count": 90,
+    "hit_count": 91,
     "sample_titles": [
       "AI Security Engineer",
       "Security Engineer",
@@ -1015,7 +1015,7 @@
     "name": "Coinflow",
     "first_seen": "2026-05-15",
     "last_seen": "2026-10-27",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -1405,7 +1405,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-10-25",
-    "hit_count": 464,
+    "hit_count": 466,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -4058,7 +4058,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-25",
-    "hit_count": 45,
+    "hit_count": 46,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4697,7 +4697,7 @@
     "name": "Lumbee Holdings",
     "first_seen": "2026-09-24",
     "last_seen": "2026-10-23",
-    "hit_count": 43,
+    "hit_count": 44,
     "sample_titles": [
       "Vulnerability Researcher",
       "Cyber Vulnerability Researcher",
@@ -5414,7 +5414,7 @@
     "name": "Motive",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Red Team Security Engineer"
     ]
@@ -5423,7 +5423,7 @@
     "name": "RedStream Technology",
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-27",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Penetration Tester"
     ]
