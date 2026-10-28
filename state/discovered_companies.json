@@ -277,13 +277,14 @@
   "asm research, an accenture federal services company": {
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
-    "last_seen": "2026-09-18",
-    "hit_count": 323,
+    "last_seen": "2026-10-28",
+    "hit_count": 328,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
       "Penetration Tester / Security Assessor",
-      "Security Analyst"
+      "Security Analyst",
+      "Application Penetration Tester"
     ]
   },
   "bank of america": {
@@ -302,8 +303,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-10-21",
-    "hit_count": 185,
+    "last_seen": "2026-10-28",
+    "hit_count": 186,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1405,7 +1406,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-10-25",
-    "hit_count": 470,
+    "hit_count": 472,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2461,7 +2462,7 @@
     "name": "OnPoint Credit Union",
     "first_seen": "2026-07-02",
     "last_seen": "2026-10-28",
-    "hit_count": 22,
+    "hit_count": 23,
     "sample_titles": [
       "Information Security Engineer II"
     ]
@@ -4058,7 +4059,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-25",
-    "hit_count": 48,
+    "hit_count": 49,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -5414,7 +5415,7 @@
     "name": "Motive",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Red Team Security Engineer"
     ]
@@ -5450,9 +5451,27 @@
     "name": "Tempus AI",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "worth ai": {
+    "name": "Worth AI",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "hit_count": 2,
+    "sample_titles": [
+      "IT Security Engineer"
+    ]
+  },
+  "reality defender": {
+    "name": "Reality Defender",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Red Team Engineer"
     ]
   }
 }
