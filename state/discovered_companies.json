@@ -278,7 +278,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-10-28",
-    "hit_count": 328,
+    "hit_count": 333,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -304,7 +304,7 @@
     "name": "Amazon",
     "first_seen": "2026-04-29",
     "last_seen": "2026-10-28",
-    "hit_count": 186,
+    "hit_count": 187,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -354,8 +354,8 @@
   "teksystems": {
     "name": "TEKsystems",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-10-15",
-    "hit_count": 12,
+    "last_seen": "2026-10-28",
+    "hit_count": 13,
     "sample_titles": [
       "Security Engineer",
       "Security Analyst/Engineer",
@@ -1406,7 +1406,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-10-25",
-    "hit_count": 472,
+    "hit_count": 474,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2462,7 +2462,7 @@
     "name": "OnPoint Credit Union",
     "first_seen": "2026-07-02",
     "last_seen": "2026-10-28",
-    "hit_count": 23,
+    "hit_count": 24,
     "sample_titles": [
       "Information Security Engineer II"
     ]
@@ -4059,7 +4059,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-25",
-    "hit_count": 49,
+    "hit_count": 50,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -5415,7 +5415,7 @@
     "name": "Motive",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Red Team Security Engineer"
     ]
@@ -5451,7 +5451,7 @@
     "name": "Tempus AI",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -5469,9 +5469,27 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Red Team Engineer"
+    ]
+  },
+  "sigma defense": {
+    "name": "Sigma Defense",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "1785 - Network Security Engineer II"
+    ]
+  },
+  "skysoft inc": {
+    "name": "Skysoft Inc",
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer"
     ]
   }
 }
