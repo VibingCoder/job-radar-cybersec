@@ -111,7 +111,7 @@
     "name": "Honeywell",
     "first_seen": "2026-04-25",
     "last_seen": "2026-10-29",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Cyber Security Engineer II",
       "Advanced Network Security Engineer",
@@ -279,7 +279,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-10-28",
-    "hit_count": 347,
+    "hit_count": 349,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -377,7 +377,7 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-10-29",
-    "hit_count": 32,
+    "hit_count": 33,
     "sample_titles": [
       "Application Security Engineer",
       "IT Security Engineer (Law Firm)",
@@ -1408,7 +1408,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-10-25",
-    "hit_count": 480,
+    "hit_count": 482,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -1778,7 +1778,7 @@
     "name": "Xcel Energy",
     "first_seen": "2026-06-10",
     "last_seen": "2026-10-29",
-    "hit_count": 3,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer \u2013 Cloud Security (AWS)",
       "Security Engineer - Application Security"
@@ -3778,7 +3778,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-29",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4063,7 +4063,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-25",
-    "hit_count": 53,
+    "hit_count": 54,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -5420,7 +5420,7 @@
     "name": "Motive",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Red Team Security Engineer"
     ]
@@ -5474,7 +5474,7 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Red Team Engineer"
     ]
@@ -5501,7 +5501,7 @@
     "name": "Municipal Securities Rulemaking Board",
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Information Security Analyst"
     ]
