@@ -110,11 +110,12 @@
   "honeywell": {
     "name": "Honeywell",
     "first_seen": "2026-04-25",
-    "last_seen": "2026-05-25",
-    "hit_count": 7,
+    "last_seen": "2026-10-29",
+    "hit_count": 8,
     "sample_titles": [
       "Cyber Security Engineer II",
-      "Advanced Network Security Engineer"
+      "Advanced Network Security Engineer",
+      "Cyber Security Engineer I-Penetration Tester"
     ]
   },
   "ls power development, llc": {
@@ -278,7 +279,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-10-28",
-    "hit_count": 338,
+    "hit_count": 343,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -303,8 +304,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-10-28",
-    "hit_count": 188,
+    "last_seen": "2026-10-29",
+    "hit_count": 189,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -375,12 +376,13 @@
   "jobot": {
     "name": "Jobot",
     "first_seen": "2026-04-30",
-    "last_seen": "2026-09-24",
-    "hit_count": 30,
+    "last_seen": "2026-10-29",
+    "hit_count": 31,
     "sample_titles": [
       "Application Security Engineer",
       "IT Security Engineer (Law Firm)",
-      "PAM Security Engineer"
+      "PAM Security Engineer",
+      "Offensive Security Engineer/Penetration Tester"
     ]
   },
   "big impact tech": {
@@ -1406,7 +1408,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-10-25",
-    "hit_count": 476,
+    "hit_count": 478,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3774,8 +3776,8 @@
   "acrisure": {
     "name": "Acrisure",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-10-07",
-    "hit_count": 31,
+    "last_seen": "2026-10-29",
+    "hit_count": 32,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4060,7 +4062,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-25",
-    "hit_count": 51,
+    "hit_count": 52,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -5416,7 +5418,7 @@
     "name": "Motive",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "hit_count": 17,
+    "hit_count": 18,
     "sample_titles": [
       "Red Team Security Engineer"
     ]
@@ -5470,7 +5472,7 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Red Team Engineer"
     ]
