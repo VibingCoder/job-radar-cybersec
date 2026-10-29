@@ -111,7 +111,7 @@
     "name": "Honeywell",
     "first_seen": "2026-04-25",
     "last_seen": "2026-10-29",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Cyber Security Engineer II",
       "Advanced Network Security Engineer",
@@ -279,7 +279,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-10-28",
-    "hit_count": 343,
+    "hit_count": 347,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -377,7 +377,7 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-10-29",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Application Security Engineer",
       "IT Security Engineer (Law Firm)",
@@ -1408,7 +1408,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-10-25",
-    "hit_count": 478,
+    "hit_count": 480,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -1777,10 +1777,11 @@
   "xcel energy": {
     "name": "Xcel Energy",
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "hit_count": 1,
+    "last_seen": "2026-10-29",
+    "hit_count": 3,
     "sample_titles": [
-      "Security Engineer \u2013 Cloud Security (AWS)"
+      "Security Engineer \u2013 Cloud Security (AWS)",
+      "Security Engineer - Application Security"
     ]
   },
   "core group resources": {
@@ -3777,7 +3778,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-29",
-    "hit_count": 32,
+    "hit_count": 33,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4062,7 +4063,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-25",
-    "hit_count": 52,
+    "hit_count": 53,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -4138,12 +4139,13 @@
   "koniag government services": {
     "name": "Koniag Government Services",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-23",
-    "hit_count": 69,
+    "last_seen": "2026-10-29",
+    "hit_count": 70,
     "sample_titles": [
       "Security Engineer",
       "Penetration Tester (Hybrid) with Security Clearance",
-      "Penetration Tester (Hybrid)"
+      "Penetration Tester (Hybrid)",
+      "Junior Security Engineer (HYBRID)"
     ]
   },
   "cardworks": {
@@ -5418,7 +5420,7 @@
     "name": "Motive",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Red Team Security Engineer"
     ]
@@ -5472,7 +5474,7 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Red Team Engineer"
     ]
@@ -5493,6 +5495,15 @@
     "hit_count": 2,
     "sample_titles": [
       "Cybersecurity Engineer"
+    ]
+  },
+  "municipal securities rulemaking board": {
+    "name": "Municipal Securities Rulemaking Board",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Security Analyst"
     ]
   }
 }
