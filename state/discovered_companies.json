@@ -377,7 +377,7 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-10-29",
-    "hit_count": 34,
+    "hit_count": 35,
     "sample_titles": [
       "Application Security Engineer",
       "IT Security Engineer (Law Firm)",
@@ -1409,7 +1409,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-10-25",
-    "hit_count": 484,
+    "hit_count": 486,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -1918,8 +1918,8 @@
   "meta": {
     "name": "Meta",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-11",
-    "hit_count": 197,
+    "last_seen": "2026-10-30",
+    "hit_count": 198,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -3779,7 +3779,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-29",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4064,7 +4064,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-25",
-    "hit_count": 55,
+    "hit_count": 56,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -5421,7 +5421,7 @@
     "name": "Motive",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "hit_count": 21,
+    "hit_count": 22,
     "sample_titles": [
       "Red Team Security Engineer"
     ]
@@ -5475,9 +5475,10 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
-      "Red Team Engineer"
+      "Red Team Engineer",
+      "AI Red Team Researcher"
     ]
   },
   "sigma defense": {
