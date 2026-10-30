@@ -279,7 +279,7 @@
     "name": "ASM Research, An Accenture Federal Services Company",
     "first_seen": "2026-04-28",
     "last_seen": "2026-10-28",
-    "hit_count": 349,
+    "hit_count": 350,
     "sample_titles": [
       "Cybersecurity Incident Response Engineer, Jr",
       "Cybersecurity Incident Response Engineer, Mid",
@@ -377,7 +377,7 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-10-29",
-    "hit_count": 33,
+    "hit_count": 34,
     "sample_titles": [
       "Application Security Engineer",
       "IT Security Engineer (Law Firm)",
@@ -1211,13 +1211,14 @@
   "motion recruitment": {
     "name": "Motion Recruitment",
     "first_seen": "2026-05-22",
-    "last_seen": "2026-08-01",
-    "hit_count": 29,
+    "last_seen": "2026-10-29",
+    "hit_count": 30,
     "sample_titles": [
       "Network Security Engineer / Hybrid / Dallas / Phoenix",
       "Offensive Cybersecurity Engineer / AI / Startup",
       "Application Security Engineer - Plano, TX",
-      "Network Security Engineer"
+      "Network Security Engineer",
+      "Offensive Security Engineer - CISSP/OSCP - Chicago, IL"
     ]
   },
   "ibm": {
@@ -1408,7 +1409,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-10-25",
-    "hit_count": 482,
+    "hit_count": 484,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3673,8 +3674,8 @@
   "deloitte": {
     "name": "Deloitte",
     "first_seen": "2026-08-14",
-    "last_seen": "2026-10-10",
-    "hit_count": 8,
+    "last_seen": "2026-10-29",
+    "hit_count": 9,
     "sample_titles": [
       "Cyber Oracle Identity Analyst / Security Engineer I",
       "Cyber Identity - CIAM Security Engineer/Consultant",
@@ -3778,7 +3779,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-29",
-    "hit_count": 34,
+    "hit_count": 35,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4063,7 +4064,7 @@
     "name": "Intelligent Waves",
     "first_seen": "2026-08-27",
     "last_seen": "2026-10-25",
-    "hit_count": 54,
+    "hit_count": 55,
     "sample_titles": [
       "Red Team Operator SME & Infrastructure Engineer",
       "Red Team Infrastructure - SME"
@@ -5050,8 +5051,8 @@
   "protiviti": {
     "name": "Protiviti",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-10-10",
-    "hit_count": 2,
+    "last_seen": "2026-10-29",
+    "hit_count": 4,
     "sample_titles": [
       "Offensive Security Consultant \u2013 Red Team & Adversary Simulation"
     ]
@@ -5420,7 +5421,7 @@
     "name": "Motive",
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
-    "hit_count": 20,
+    "hit_count": 21,
     "sample_titles": [
       "Red Team Security Engineer"
     ]
@@ -5474,7 +5475,7 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Red Team Engineer"
     ]
