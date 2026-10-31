@@ -32,7 +32,7 @@
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
     "last_seen": "2026-10-31",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -3781,7 +3781,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-29",
-    "hit_count": 41,
+    "hit_count": 42,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -5477,7 +5477,7 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Red Team Engineer",
       "AI Red Team Researcher"
@@ -5532,7 +5532,7 @@
     "name": "Embedding VC",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "AI Blockchain Security Engineer"
     ]
