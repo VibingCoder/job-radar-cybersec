@@ -31,10 +31,11 @@
   "gunnison consulting group": {
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
-    "last_seen": "2026-04-23",
-    "hit_count": 23,
+    "last_seen": "2026-10-31",
+    "hit_count": 24,
     "sample_titles": [
-      "Junior Penetration Tester"
+      "Junior Penetration Tester",
+      "Penetration Tester"
     ]
   },
   "innosoul, inc.": {
@@ -516,11 +517,12 @@
   "raytheon": {
     "name": "Raytheon",
     "first_seen": "2026-05-03",
-    "last_seen": "2026-10-24",
-    "hit_count": 5,
+    "last_seen": "2026-10-31",
+    "hit_count": 6,
     "sample_titles": [
       "Software Security Engineer I",
-      "Software Security Engineer"
+      "Software Security Engineer",
+      "Software Security Engineer II"
     ]
   },
   "zealotech people": {
@@ -3779,7 +3781,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-29",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -5475,7 +5477,7 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Red Team Engineer",
       "AI Red Team Researcher"
@@ -5512,9 +5514,27 @@
     "name": "TalentBurst, Inc.",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "cleared it positions": {
+    "name": "Cleared IT Positions",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "hit_count": 1,
+    "sample_titles": [
+      "AWS Cybersecurity Engineer (Seattle)"
+    ]
+  },
+  "embedding vc": {
+    "name": "Embedding VC",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "hit_count": 1,
+    "sample_titles": [
+      "AI Blockchain Security Engineer"
     ]
   }
 }
