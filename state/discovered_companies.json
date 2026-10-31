@@ -377,7 +377,7 @@
     "name": "Jobot",
     "first_seen": "2026-04-30",
     "last_seen": "2026-10-29",
-    "hit_count": 37,
+    "hit_count": 38,
     "sample_titles": [
       "Application Security Engineer",
       "IT Security Engineer (Law Firm)",
@@ -3779,7 +3779,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-29",
-    "hit_count": 38,
+    "hit_count": 39,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -5475,7 +5475,7 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Red Team Engineer",
       "AI Red Team Researcher"
@@ -5506,6 +5506,15 @@
     "hit_count": 2,
     "sample_titles": [
       "Information Security Analyst"
+    ]
+  },
+  "talentburst, inc.": {
+    "name": "TalentBurst, Inc.",
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
