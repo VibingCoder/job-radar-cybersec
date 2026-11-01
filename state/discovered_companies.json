@@ -32,7 +32,7 @@
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
     "last_seen": "2026-10-31",
-    "hit_count": 27,
+    "hit_count": 28,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -305,8 +305,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-10-29",
-    "hit_count": 189,
+    "last_seen": "2026-11-01",
+    "hit_count": 190,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -2506,12 +2506,13 @@
   "accenture federal services": {
     "name": "Accenture Federal Services",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-10-18",
-    "hit_count": 67,
+    "last_seen": "2026-11-01",
+    "hit_count": 68,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
-      "Security Engineer - Vulnerability Management"
+      "Security Engineer - Vulnerability Management",
+      "Cyber Security Engineer"
     ]
   },
   "east west bank": {
@@ -3781,7 +3782,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-29",
-    "hit_count": 43,
+    "hit_count": 44,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -5477,7 +5478,7 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Red Team Engineer",
       "AI Red Team Researcher"
@@ -5532,9 +5533,18 @@
     "name": "Embedding VC",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "AI Blockchain Security Engineer"
+    ]
+  },
+  "credo": {
+    "name": "Credo",
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
