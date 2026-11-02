@@ -32,7 +32,7 @@
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
     "last_seen": "2026-10-31",
-    "hit_count": 30,
+    "hit_count": 31,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -1156,7 +1156,7 @@
     "name": "Regions Bank",
     "first_seen": "2026-05-20",
     "last_seen": "2026-11-01",
-    "hit_count": 50,
+    "hit_count": 51,
     "sample_titles": [
       "Cyber Security Engineer",
       "Application Security Engineer",
@@ -3782,7 +3782,7 @@
     "name": "Acrisure",
     "first_seen": "2026-08-18",
     "last_seen": "2026-10-29",
-    "hit_count": 46,
+    "hit_count": 47,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -4982,7 +4982,7 @@
     "name": "Artemis",
     "first_seen": "2026-10-08",
     "last_seen": "2026-11-01",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Offensive Security Engineer",
       "Cyber Threat Intelligence Researcher"
@@ -5479,7 +5479,7 @@
     "name": "Reality Defender",
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Red Team Engineer",
       "AI Red Team Researcher"
@@ -5506,8 +5506,8 @@
   "municipal securities rulemaking board": {
     "name": "Municipal Securities Rulemaking Board",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29",
-    "hit_count": 2,
+    "last_seen": "2026-11-01",
+    "hit_count": 3,
     "sample_titles": [
       "Information Security Analyst"
     ]
@@ -5534,7 +5534,7 @@
     "name": "Embedding VC",
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "AI Blockchain Security Engineer"
     ]
