@@ -32,7 +32,7 @@
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
     "last_seen": "2026-10-31",
-    "hit_count": 37,
+    "hit_count": 38,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -4891,7 +4891,7 @@
     "name": "SteelToad",
     "first_seen": "2026-10-06",
     "last_seen": "2026-11-03",
-    "hit_count": 5,
+    "hit_count": 7,
     "sample_titles": [
       "Vulnerability Assessment Analyst and Penetration Tester"
     ]
@@ -5564,6 +5564,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "f2 systems, llc": {
+    "name": "F2 Systems, LLC",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer \u2013 Tactical Communications Systems with Security Clearance"
+    ]
+  },
+  "privy": {
+    "name": "Privy",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
