@@ -32,7 +32,7 @@
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
     "last_seen": "2026-10-31",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -4890,8 +4890,8 @@
   "steeltoad": {
     "name": "SteelToad",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06",
-    "hit_count": 2,
+    "last_seen": "2026-11-03",
+    "hit_count": 3,
     "sample_titles": [
       "Vulnerability Assessment Analyst and Penetration Tester"
     ]
@@ -4982,7 +4982,7 @@
     "name": "Artemis",
     "first_seen": "2026-10-08",
     "last_seen": "2026-11-01",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Offensive Security Engineer",
       "Cyber Threat Intelligence Researcher"
