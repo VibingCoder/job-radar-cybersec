@@ -2,8 +2,8 @@
   "eitacies inc": {
     "name": "Eitacies Inc",
     "first_seen": "2026-04-24",
-    "last_seen": "2026-04-24",
-    "hit_count": 1,
+    "last_seen": "2026-11-06",
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4892,7 +4892,7 @@
     "name": "SteelToad",
     "first_seen": "2026-10-06",
     "last_seen": "2026-11-03",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Vulnerability Assessment Analyst and Penetration Tester"
     ]
@@ -5200,8 +5200,8 @@
   "b&m cyber": {
     "name": "B&M Cyber",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-16",
-    "hit_count": 21,
+    "last_seen": "2026-11-05",
+    "hit_count": 22,
     "sample_titles": [
       "Experienced Penetration Tester"
     ]
@@ -5583,6 +5583,43 @@
     "hit_count": 4,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "ampcus incorporated": {
+    "name": "Ampcus Incorporated",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "hit_count": 2,
+    "sample_titles": [
+      "Network Security Analyst 2",
+      "Network Security Analyst 1"
+    ]
+  },
+  "aether aerospace": {
+    "name": "Aether Aerospace",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Information Assurance Security Engineer (ISSE)"
+    ]
+  },
+  "varite, inc": {
+    "name": "Varite, Inc",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer (AWS Bedrock AgentCore / AI Security)"
+    ]
+  },
+  "huntington national bank": {
+    "name": "Huntington National Bank",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "hit_count": 2,
+    "sample_titles": [
+      "Cybersecurity Engineer - Expert"
     ]
   }
 }
