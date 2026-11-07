@@ -1411,7 +1411,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-11-07",
-    "hit_count": 492,
+    "hit_count": 495,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3354,11 +3354,12 @@
   "booz, allen & hamilton, inc.": {
     "name": "BOOZ, ALLEN & HAMILTON, INC.",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-09-09",
-    "hit_count": 2,
+    "last_seen": "2026-11-07",
+    "hit_count": 4,
     "sample_titles": [
       "Information Systems Security Engineer",
-      "Undersea Systems Security Engineer"
+      "Undersea Systems Security Engineer",
+      "Data Security Engineer"
     ]
   },
   "astound": {
@@ -4892,7 +4893,7 @@
     "name": "SteelToad",
     "first_seen": "2026-10-06",
     "last_seen": "2026-11-03",
-    "hit_count": 16,
+    "hit_count": 17,
     "sample_titles": [
       "Vulnerability Assessment Analyst and Penetration Tester"
     ]
