@@ -1411,7 +1411,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-11-07",
-    "hit_count": 507,
+    "hit_count": 510,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -5645,7 +5645,7 @@
     "name": "EvalLabs",
     "first_seen": "2026-11-08",
     "last_seen": "2026-11-08",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Penetration Tester / Red Team Operator"
     ]
