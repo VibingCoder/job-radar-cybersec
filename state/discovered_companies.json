@@ -1411,7 +1411,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-11-07",
-    "hit_count": 513,
+    "hit_count": 516,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -5646,11 +5646,20 @@
     "name": "EvalLabs",
     "first_seen": "2026-11-08",
     "last_seen": "2026-11-08",
-    "hit_count": 5,
+    "hit_count": 8,
     "sample_titles": [
       "Penetration Tester / Red Team Operator",
       "Vulnerability Researcher",
       "Application Security Engineer"
+    ]
+  },
+  "wintermeyer ventures": {
+    "name": "Wintermeyer Ventures",
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "hit_count": 1,
+    "sample_titles": [
+      "Founding Security Researcher"
     ]
   }
 }
