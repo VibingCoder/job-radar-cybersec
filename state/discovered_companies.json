@@ -756,8 +756,8 @@
   "robert half": {
     "name": "Robert Half",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-09-11",
-    "hit_count": 19,
+    "last_seen": "2026-11-10",
+    "hit_count": 20,
     "sample_titles": [
       "Cyber Security Engineer",
       "IAM/Security Engineer",
@@ -1411,7 +1411,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-11-07",
-    "hit_count": 525,
+    "hit_count": 528,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -5237,8 +5237,8 @@
   "spacexsi": {
     "name": "SpaceXSI",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-09",
-    "hit_count": 6,
+    "last_seen": "2026-11-10",
+    "hit_count": 7,
     "sample_titles": [
       "Application Security Engineer (X Money)",
       "Application Security Engineer, X Money"
@@ -5657,7 +5657,7 @@
     "name": "Wintermeyer Ventures",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Founding Security Researcher"
     ]
@@ -5713,7 +5713,7 @@
     "name": "State Street Bank",
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer - ADR"
     ]
