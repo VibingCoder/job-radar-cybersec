@@ -1411,7 +1411,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-11-07",
-    "hit_count": 522,
+    "hit_count": 525,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -2012,7 +2012,7 @@
     "name": "Quanata",
     "first_seen": "2026-06-19",
     "last_seen": "2026-11-09",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Application Security Engineer [Remote-US]"
     ]
@@ -4096,7 +4096,7 @@
     "name": "Pensar",
     "first_seen": "2026-08-28",
     "last_seen": "2026-11-09",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Offensive Security Agent Engineer",
       "Autonomous Security Engineer, Customer Solutions"
@@ -5238,7 +5238,7 @@
     "name": "SpaceXSI",
     "first_seen": "2026-10-17",
     "last_seen": "2026-11-09",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Application Security Engineer (X Money)",
       "Application Security Engineer, X Money"
@@ -5657,7 +5657,7 @@
     "name": "Wintermeyer Ventures",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "hit_count": 3,
+    "hit_count": 4,
     "sample_titles": [
       "Founding Security Researcher"
     ]
@@ -5676,7 +5676,7 @@
     "name": "TechDigital Corporation",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Security Engineer Engineering Security",
       "Red Team / Offensive Security Analyst"
@@ -5686,7 +5686,7 @@
     "name": "Veterans Sourcing Group",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
     ]
@@ -5695,9 +5695,27 @@
     "name": "Endex",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "vets, inc": {
+    "name": "VETS, Inc",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Ready for a New Challenge? - Penetration Tester"
+    ]
+  },
+  "state street bank": {
+    "name": "State Street Bank",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer - ADR"
     ]
   }
 }
