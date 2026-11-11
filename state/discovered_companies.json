@@ -1236,8 +1236,8 @@
   "mercor": {
     "name": "Mercor",
     "first_seen": "2026-05-23",
-    "last_seen": "2026-08-24",
-    "hit_count": 23,
+    "last_seen": "2026-11-11",
+    "hit_count": 24,
     "sample_titles": [
       "Cyber Security Engineer",
       "Penetration Tester",
@@ -1411,7 +1411,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-11-07",
-    "hit_count": 531,
+    "hit_count": 534,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -5658,7 +5658,7 @@
     "name": "Wintermeyer Ventures",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Founding Security Researcher"
     ]
@@ -5717,6 +5717,16 @@
     "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer - ADR"
+    ]
+  },
+  "flywire corporation [usa]": {
+    "name": "Flywire Corporation [USA]",
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "hit_count": 2,
+    "sample_titles": [
+      "Security Engineer II (Defensive Operations)",
+      "Security Engineer II (Offensive Operations)"
     ]
   }
 }
