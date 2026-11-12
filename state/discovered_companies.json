@@ -1237,7 +1237,7 @@
     "name": "Mercor",
     "first_seen": "2026-05-23",
     "last_seen": "2026-11-11",
-    "hit_count": 25,
+    "hit_count": 26,
     "sample_titles": [
       "Cyber Security Engineer",
       "Penetration Tester",
@@ -1411,7 +1411,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-11-07",
-    "hit_count": 540,
+    "hit_count": 543,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3178,7 +3178,7 @@
     "name": "Kforce Technology Staffing",
     "first_seen": "2026-07-27",
     "last_seen": "2026-11-11",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Unix Security Engineer",
       "Product Security Engineer",
@@ -4415,8 +4415,8 @@
   "invictus direct": {
     "name": "Invictus Direct",
     "first_seen": "2026-09-16",
-    "last_seen": "2026-10-07",
-    "hit_count": 3,
+    "last_seen": "2026-11-11",
+    "hit_count": 4,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -4994,8 +4994,8 @@
   "parameter ai": {
     "name": "Parameter ai",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "hit_count": 1,
+    "last_seen": "2026-11-12",
+    "hit_count": 2,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
@@ -5312,10 +5312,11 @@
   "thestaffed": {
     "name": "TheStaffed",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-21",
-    "hit_count": 1,
+    "last_seen": "2026-11-12",
+    "hit_count": 2,
     "sample_titles": [
-      "Security Engineer (AWS Bedrock AgentCore / AI Security)"
+      "Security Engineer (AWS Bedrock AgentCore / AI Security)",
+      "Application Security Engineer (SSDLC Workstream)"
     ]
   },
   "peraton": {
@@ -5648,7 +5649,7 @@
     "name": "EvalLabs",
     "first_seen": "2026-11-08",
     "last_seen": "2026-11-08",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Penetration Tester / Red Team Operator",
       "Vulnerability Researcher",
@@ -5659,7 +5660,7 @@
     "name": "Wintermeyer Ventures",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Founding Security Researcher"
     ]
@@ -5724,7 +5725,7 @@
     "name": "Flywire Corporation [USA]",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Security Engineer II (Defensive Operations)",
       "Security Engineer II (Offensive Operations)"
@@ -5734,7 +5735,7 @@
     "name": "Wolf & Company, P.C.",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -5743,7 +5744,7 @@
     "name": "Hamming AI",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "AI Red Team Engineer"
     ]
@@ -5761,9 +5762,36 @@
     "name": "Nominal",
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Product Security Engineer"
+    ]
+  },
+  "finix": {
+    "name": "Finix",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "Offensive Security Engineer"
+    ]
+  },
+  "veradigm": {
+    "name": "Veradigm",
+    "first_seen": "2026-11-12",
+    "last_seen": "2026-11-12",
+    "hit_count": 1,
+    "sample_titles": [
+      "Associate Security Engineer"
+    ]
+  },
+  "akkodis": {
+    "name": "Akkodis",
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cyber Security Analyst"
     ]
   }
 }
