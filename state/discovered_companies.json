@@ -1237,7 +1237,7 @@
     "name": "Mercor",
     "first_seen": "2026-05-23",
     "last_seen": "2026-11-11",
-    "hit_count": 24,
+    "hit_count": 25,
     "sample_titles": [
       "Cyber Security Engineer",
       "Penetration Tester",
@@ -1411,7 +1411,7 @@
     "name": "Carnegie Mellon University",
     "first_seen": "2026-05-30",
     "last_seen": "2026-11-07",
-    "hit_count": 537,
+    "hit_count": 540,
     "sample_titles": [
       "IT Security Analyst/Engineer - Pittsburgh Supercomputing Center (PSC)",
       "Reverse Engineer Researcher",
@@ -3177,11 +3177,12 @@
   "kforce technology staffing": {
     "name": "Kforce Technology Staffing",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-09-11",
-    "hit_count": 3,
+    "last_seen": "2026-11-11",
+    "hit_count": 4,
     "sample_titles": [
       "Unix Security Engineer",
-      "Product Security Engineer"
+      "Product Security Engineer",
+      "Security Engineer"
     ]
   },
   "sni technology": {
@@ -5238,7 +5239,7 @@
     "name": "SpaceXSI",
     "first_seen": "2026-10-17",
     "last_seen": "2026-11-11",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Application Security Engineer (X Money)",
       "Application Security Engineer, X Money",
@@ -5647,7 +5648,7 @@
     "name": "EvalLabs",
     "first_seen": "2026-11-08",
     "last_seen": "2026-11-08",
-    "hit_count": 12,
+    "hit_count": 13,
     "sample_titles": [
       "Penetration Tester / Red Team Operator",
       "Vulnerability Researcher",
@@ -5658,7 +5659,7 @@
     "name": "Wintermeyer Ventures",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Founding Security Researcher"
     ]
@@ -5723,7 +5724,7 @@
     "name": "Flywire Corporation [USA]",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 3,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer II (Defensive Operations)",
       "Security Engineer II (Offensive Operations)"
@@ -5733,7 +5734,7 @@
     "name": "Wolf & Company, P.C.",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -5742,9 +5743,27 @@
     "name": "Hamming AI",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "AI Red Team Engineer"
+    ]
+  },
+  "comtec": {
+    "name": "ComTec",
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "hit_count": 1,
+    "sample_titles": [
+      "Windows Security Engineer"
+    ]
+  },
+  "nominal": {
+    "name": "Nominal",
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer"
     ]
   }
 }
