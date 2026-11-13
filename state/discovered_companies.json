@@ -455,7 +455,7 @@
     "name": "Rubrik",
     "first_seen": "2026-05-02",
     "last_seen": "2026-11-12",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Enterprise Security Engineer - FedRAMP",
       "Application Security Engineer"
@@ -5132,7 +5132,7 @@
     "name": "Nuro",
     "first_seen": "2026-10-13",
     "last_seen": "2026-11-12",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Security Engineer, Infrastructure"
     ]
@@ -5650,7 +5650,7 @@
     "name": "EvalLabs",
     "first_seen": "2026-11-08",
     "last_seen": "2026-11-08",
-    "hit_count": 15,
+    "hit_count": 16,
     "sample_titles": [
       "Penetration Tester / Red Team Operator",
       "Vulnerability Researcher",
@@ -5661,7 +5661,7 @@
     "name": "Wintermeyer Ventures",
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Founding Security Researcher"
     ]
@@ -5726,7 +5726,7 @@
     "name": "Flywire Corporation [USA]",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Security Engineer II (Defensive Operations)",
       "Security Engineer II (Offensive Operations)"
@@ -5736,7 +5736,7 @@
     "name": "Wolf & Company, P.C.",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -5745,7 +5745,7 @@
     "name": "Hamming AI",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "AI Red Team Engineer"
     ]
@@ -5772,7 +5772,7 @@
     "name": "Finix",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Offensive Security Engineer"
     ]
@@ -5790,7 +5790,7 @@
     "name": "Akkodis",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cyber Security Analyst"
     ]
@@ -5799,7 +5799,7 @@
     "name": "Kula Example",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -5808,7 +5808,7 @@
     "name": "Strix",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Researcher"
     ]
@@ -5817,7 +5817,7 @@
     "name": "Somana",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer - Devices"
     ]
