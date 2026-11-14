@@ -1631,7 +1631,7 @@
     "name": "Trellix",
     "first_seen": "2026-06-05",
     "last_seen": "2026-11-14",
-    "hit_count": 125,
+    "hit_count": 128,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android",
@@ -4222,7 +4222,7 @@
     "name": "EY",
     "first_seen": "2026-09-03",
     "last_seen": "2026-11-14",
-    "hit_count": 31,
+    "hit_count": 36,
     "sample_titles": [
       "Offensive Security Analyst",
       "STS Endpoint Security Engineer",
@@ -5727,7 +5727,7 @@
     "name": "Flywire Corporation [USA]",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Security Engineer II (Defensive Operations)",
       "Security Engineer II (Offensive Operations)"
