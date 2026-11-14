@@ -1630,8 +1630,8 @@
   "trellix": {
     "name": "Trellix",
     "first_seen": "2026-06-05",
-    "last_seen": "2026-08-17",
-    "hit_count": 121,
+    "last_seen": "2026-11-14",
+    "hit_count": 122,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android",
@@ -1922,7 +1922,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-11-13",
-    "hit_count": 200,
+    "hit_count": 201,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -3784,8 +3784,8 @@
   "acrisure": {
     "name": "Acrisure",
     "first_seen": "2026-08-18",
-    "last_seen": "2026-10-29",
-    "hit_count": 51,
+    "last_seen": "2026-11-14",
+    "hit_count": 52,
     "sample_titles": [
       "Security Incident Response Engineer",
       "Red Team Engineer"
@@ -5726,7 +5726,7 @@
     "name": "Flywire Corporation [USA]",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 11,
+    "hit_count": 12,
     "sample_titles": [
       "Security Engineer II (Defensive Operations)",
       "Security Engineer II (Offensive Operations)"
@@ -5736,7 +5736,7 @@
     "name": "Wolf & Company, P.C.",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 8,
+    "hit_count": 9,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -5790,7 +5790,7 @@
     "name": "Akkodis",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Cyber Security Analyst"
     ]
@@ -5835,7 +5835,7 @@
     "name": "Ironsite AI",
     "first_seen": "2026-11-13",
     "last_seen": "2026-11-13",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "MTS - Security Engineer"
     ]
@@ -5856,6 +5856,24 @@
     "hit_count": 1,
     "sample_titles": [
       "Network Security Engineer"
+    ]
+  },
+  "intellibee": {
+    "name": "Intellibee",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
+    ]
+  },
+  "the applied research laboratory at penn state university": {
+    "name": "The Applied Research Laboratory at Penn State University",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
     ]
   }
 }
