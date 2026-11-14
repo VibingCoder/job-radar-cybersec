@@ -1922,7 +1922,7 @@
     "name": "Meta",
     "first_seen": "2026-06-16",
     "last_seen": "2026-11-13",
-    "hit_count": 199,
+    "hit_count": 200,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -5726,7 +5726,7 @@
     "name": "Flywire Corporation [USA]",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 10,
+    "hit_count": 11,
     "sample_titles": [
       "Security Engineer II (Defensive Operations)",
       "Security Engineer II (Offensive Operations)"
@@ -5736,7 +5736,7 @@
     "name": "Wolf & Company, P.C.",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -5790,7 +5790,7 @@
     "name": "Akkodis",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 5,
+    "hit_count": 6,
     "sample_titles": [
       "Cyber Security Analyst"
     ]
@@ -5835,7 +5835,7 @@
     "name": "Ironsite AI",
     "first_seen": "2026-11-13",
     "last_seen": "2026-11-13",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "MTS - Security Engineer"
     ]
@@ -5844,9 +5844,18 @@
     "name": "Fin",
     "first_seen": "2026-11-13",
     "last_seen": "2026-11-13",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "droisys": {
+    "name": "Droisys",
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "hit_count": 1,
+    "sample_titles": [
+      "Network Security Engineer"
     ]
   }
 }
