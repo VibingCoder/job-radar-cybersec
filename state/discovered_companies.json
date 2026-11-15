@@ -1631,7 +1631,7 @@
     "name": "Trellix",
     "first_seen": "2026-06-05",
     "last_seen": "2026-11-14",
-    "hit_count": 128,
+    "hit_count": 131,
     "sample_titles": [
       "Reverse Engineer Android",
       "Reverse Engineer- Android",
@@ -4222,7 +4222,7 @@
     "name": "EY",
     "first_seen": "2026-09-03",
     "last_seen": "2026-11-14",
-    "hit_count": 36,
+    "hit_count": 43,
     "sample_titles": [
       "Offensive Security Analyst",
       "STS Endpoint Security Engineer",
@@ -5727,7 +5727,7 @@
     "name": "Flywire Corporation [USA]",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Security Engineer II (Defensive Operations)",
       "Security Engineer II (Offensive Operations)"
@@ -5870,6 +5870,15 @@
   },
   "the applied research laboratory at penn state university": {
     "name": "The Applied Research Laboratory at Penn State University",
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer"
+    ]
+  },
+  "new millenium consulting": {
+    "name": "New Millenium Consulting",
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "hit_count": 1,
