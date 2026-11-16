@@ -768,8 +768,8 @@
   "booz allen hamilton": {
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
-    "last_seen": "2026-10-16",
-    "hit_count": 32,
+    "last_seen": "2026-11-16",
+    "hit_count": 33,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -5727,7 +5727,7 @@
     "name": "Flywire Corporation [USA]",
     "first_seen": "2026-11-11",
     "last_seen": "2026-11-11",
-    "hit_count": 19,
+    "hit_count": 20,
     "sample_titles": [
       "Security Engineer II (Defensive Operations)",
       "Security Engineer II (Offensive Operations)"
@@ -5800,7 +5800,7 @@
     "name": "Kula Example",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
-    "hit_count": 6,
+    "hit_count": 7,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -5884,6 +5884,24 @@
     "hit_count": 2,
     "sample_titles": [
       "Application Security Engineer"
+    ]
+  },
+  "rox data corp": {
+    "name": "Rox Data Corp",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "InfoSec Engineer (Risk and Compliance)"
+    ]
+  },
+  "q-ctrl": {
+    "name": "Q-Ctrl",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
