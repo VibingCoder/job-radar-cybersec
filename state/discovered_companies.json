@@ -5801,7 +5801,7 @@
     "name": "Kula Example",
     "first_seen": "2026-11-12",
     "last_seen": "2026-11-12",
-    "hit_count": 7,
+    "hit_count": 8,
     "sample_titles": [
       "Penetration Tester"
     ]
@@ -5900,7 +5900,7 @@
     "name": "Q-Ctrl",
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
