@@ -31,8 +31,8 @@
   "gunnison consulting group": {
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
-    "last_seen": "2026-10-31",
-    "hit_count": 40,
+    "last_seen": "2026-11-18",
+    "hit_count": 41,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -305,8 +305,8 @@
   "amazon": {
     "name": "Amazon",
     "first_seen": "2026-04-29",
-    "last_seen": "2026-11-01",
-    "hit_count": 190,
+    "last_seen": "2026-11-18",
+    "hit_count": 191,
     "sample_titles": [
       "Physical Security Engineer, Data Center Design Engineering",
       "Security Engineer, AWS Security",
@@ -1904,7 +1904,7 @@
     "name": "Spry Methods",
     "first_seen": "2026-06-15",
     "last_seen": "2026-11-16",
-    "hit_count": 18,
+    "hit_count": 19,
     "sample_titles": [
       "Web Developer Security Engineer",
       "Web Developer Security Engineer with Security Clearance"
