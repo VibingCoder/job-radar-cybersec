@@ -5913,5 +5913,14 @@
     "sample_titles": [
       "Technical - Penetration Tester / Ethical Hacker Cybersecurity"
     ]
+  },
+  "spring health": {
+    "name": "Spring Health",
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Application Security Engineer II"
+    ]
   }
 }
