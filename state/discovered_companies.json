@@ -32,7 +32,7 @@
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
     "last_seen": "2026-11-18",
-    "hit_count": 42,
+    "hit_count": 43,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -5863,8 +5863,8 @@
   "intellibee": {
     "name": "Intellibee",
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-14",
-    "hit_count": 1,
+    "last_seen": "2026-11-18",
+    "hit_count": 2,
     "sample_titles": [
       "Security Engineer"
     ]
