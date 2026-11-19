@@ -32,7 +32,7 @@
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
     "last_seen": "2026-11-18",
-    "hit_count": 43,
+    "hit_count": 44,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -5903,6 +5903,15 @@
     "hit_count": 4,
     "sample_titles": [
       "Security Engineer"
+    ]
+  },
+  "artech llc": {
+    "name": "Artech LLC",
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "hit_count": 1,
+    "sample_titles": [
+      "Technical - Penetration Tester / Ethical Hacker Cybersecurity"
     ]
   }
 }
