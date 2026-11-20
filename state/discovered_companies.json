@@ -1762,11 +1762,12 @@
   "apex systems": {
     "name": "Apex Systems",
     "first_seen": "2026-06-09",
-    "last_seen": "2026-07-28",
-    "hit_count": 2,
+    "last_seen": "2026-11-20",
+    "hit_count": 3,
     "sample_titles": [
       "Windows Security Engineer",
-      "Technical Security Consultant"
+      "Technical Security Consultant",
+      "Security Engineer"
     ]
   },
   "promise": {
@@ -1935,8 +1936,8 @@
   "truist": {
     "name": "Truist",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-10-17",
-    "hit_count": 28,
+    "last_seen": "2026-11-20",
+    "hit_count": 29,
     "sample_titles": [
       "Cybersecurity Engineer (AI Cloud Security)",
       "Security Engineer - Identity Governance & Administration (IGA)",
@@ -4169,7 +4170,7 @@
     "name": "Anduril",
     "first_seen": "2026-09-02",
     "last_seen": "2026-11-19",
-    "hit_count": 31,
+    "hit_count": 32,
     "sample_titles": [
       "Red Team Engineer, Discovery",
       "Vulnerability Security Engineer"
@@ -5930,7 +5931,7 @@
     "name": "Valar Atomics",
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "AI Security Engineer (AppSec, Cloud & On-Premises)"
     ]
@@ -5942,6 +5943,15 @@
     "hit_count": 2,
     "sample_titles": [
       "Network Cybersecurity Engineer"
+    ]
+  },
+  "kai": {
+    "name": "Kai",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "hit_count": 1,
+    "sample_titles": [
+      "AI Product Security Engineer"
     ]
   }
 }
