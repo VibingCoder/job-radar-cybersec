@@ -5953,5 +5953,32 @@
     "sample_titles": [
       "AI Product Security Engineer"
     ]
+  },
+  "vitalize": {
+    "name": "Vitalize",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "Red Team Engineer, Security"
+    ]
+  },
+  "xpect solutions": {
+    "name": "Xpect Solutions",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "Cybersecurity Engineer"
+    ]
+  },
+  "natsoft": {
+    "name": "Natsoft",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "hit_count": 1,
+    "sample_titles": [
+      "Product Security Engineer\u2013 Application Security & DevSecOps"
+    ]
   }
 }
