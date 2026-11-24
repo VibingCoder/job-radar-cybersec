@@ -32,7 +32,7 @@
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
     "last_seen": "2026-11-22",
-    "hit_count": 52,
+    "hit_count": 53,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -769,7 +769,7 @@
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
     "last_seen": "2026-11-21",
-    "hit_count": 40,
+    "hit_count": 41,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -5959,7 +5959,7 @@
     "name": "Vitalize",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
-    "hit_count": 9,
+    "hit_count": 10,
     "sample_titles": [
       "Red Team Engineer, Security"
     ]
@@ -6007,6 +6007,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Application Operations Security Engineer"
+    ]
+  },
+  "roadrunner": {
+    "name": "Roadrunner",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "hit_count": 1,
+    "sample_titles": [
+      "Security Engineer"
     ]
   }
 }
