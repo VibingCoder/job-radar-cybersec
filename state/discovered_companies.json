@@ -769,7 +769,7 @@
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
     "last_seen": "2026-11-21",
-    "hit_count": 47,
+    "hit_count": 48,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -2489,13 +2489,14 @@
   "accenture": {
     "name": "Accenture",
     "first_seen": "2026-07-03",
-    "last_seen": "2026-10-08",
-    "hit_count": 58,
+    "last_seen": "2026-11-26",
+    "hit_count": 60,
     "sample_titles": [
       "Penetration Tester",
       "Application Security Engineer",
       "Security Engineer - Vulnerability Management",
-      "Cyber Security Analyst (m/w/d)"
+      "Cyber Security Analyst (m/w/d)",
+      "Palo Alto - Network Security Consultant"
     ]
   },
   "zscaler": {
@@ -3685,7 +3686,7 @@
     "name": "Deloitte",
     "first_seen": "2026-08-14",
     "last_seen": "2026-11-25",
-    "hit_count": 22,
+    "hit_count": 29,
     "sample_titles": [
       "Cyber Oracle Identity Analyst / Security Engineer I",
       "Cyber Identity - CIAM Security Engineer/Consultant",
@@ -4478,7 +4479,7 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-11-26",
-    "hit_count": 36,
+    "hit_count": 37,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
