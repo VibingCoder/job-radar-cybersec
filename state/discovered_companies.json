@@ -32,7 +32,7 @@
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
     "last_seen": "2026-11-22",
-    "hit_count": 56,
+    "hit_count": 57,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -769,7 +769,7 @@
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
     "last_seen": "2026-11-21",
-    "hit_count": 45,
+    "hit_count": 46,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -1801,13 +1801,14 @@
   "openkyber": {
     "name": "Openkyber",
     "first_seen": "2026-06-10",
-    "last_seen": "2026-10-13",
-    "hit_count": 34,
+    "last_seen": "2026-11-25",
+    "hit_count": 35,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer",
       "Azure Security Engineer",
-      "Application Security Engineer"
+      "Application Security Engineer",
+      "Vulnerability Management Engineer"
     ]
   },
   "techno-comp, inc.": {
@@ -3684,7 +3685,7 @@
     "name": "Deloitte",
     "first_seen": "2026-08-14",
     "last_seen": "2026-11-25",
-    "hit_count": 14,
+    "hit_count": 15,
     "sample_titles": [
       "Cyber Oracle Identity Analyst / Security Engineer I",
       "Cyber Identity - CIAM Security Engineer/Consultant",
@@ -5960,7 +5961,7 @@
     "name": "Vitalize",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
-    "hit_count": 13,
+    "hit_count": 14,
     "sample_titles": [
       "Red Team Engineer, Security"
     ]
@@ -6014,7 +6015,7 @@
     "name": "Roadrunner",
     "first_seen": "2026-11-24",
     "last_seen": "2026-11-24",
-    "hit_count": 4,
+    "hit_count": 5,
     "sample_titles": [
       "Security Engineer"
     ]
@@ -6023,7 +6024,7 @@
     "name": "ICF",
     "first_seen": "2026-11-25",
     "last_seen": "2026-11-25",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cyber Security Engineer, Software Solutions"
     ]
@@ -6032,7 +6033,7 @@
     "name": "Career Developers",
     "first_seen": "2026-11-25",
     "last_seen": "2026-11-25",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Information Security Engineer Enterprise & Automation Focus"
     ]
