@@ -32,7 +32,7 @@
     "name": "Gunnison Consulting Group",
     "first_seen": "2026-04-23",
     "last_seen": "2026-11-22",
-    "hit_count": 57,
+    "hit_count": 58,
     "sample_titles": [
       "Junior Penetration Tester",
       "Penetration Tester"
@@ -769,7 +769,7 @@
     "name": "Booz Allen Hamilton",
     "first_seen": "2026-05-09",
     "last_seen": "2026-11-21",
-    "hit_count": 46,
+    "hit_count": 47,
     "sample_titles": [
       "Cybersecurity Engineer and Risk Analyst",
       "FMS Defensive Cybersecurity Engineer, Mid",
@@ -1802,7 +1802,7 @@
     "name": "Openkyber",
     "first_seen": "2026-06-10",
     "last_seen": "2026-11-25",
-    "hit_count": 35,
+    "hit_count": 36,
     "sample_titles": [
       "FedRAMP Security Consultant",
       "Elastic Security Engineer",
@@ -1924,8 +1924,8 @@
   "meta": {
     "name": "Meta",
     "first_seen": "2026-06-16",
-    "last_seen": "2026-11-20",
-    "hit_count": 202,
+    "last_seen": "2026-11-26",
+    "hit_count": 204,
     "sample_titles": [
       "Network Security Engineer, Infrastructure",
       "Security Engineer, Applied AI",
@@ -3685,7 +3685,7 @@
     "name": "Deloitte",
     "first_seen": "2026-08-14",
     "last_seen": "2026-11-25",
-    "hit_count": 15,
+    "hit_count": 22,
     "sample_titles": [
       "Cyber Oracle Identity Analyst / Security Engineer I",
       "Cyber Identity - CIAM Security Engineer/Consultant",
@@ -4477,8 +4477,8 @@
   "dragonfli group": {
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-10-25",
-    "hit_count": 35,
+    "last_seen": "2026-11-26",
+    "hit_count": 36,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -6023,8 +6023,8 @@
   "icf": {
     "name": "ICF",
     "first_seen": "2026-11-25",
-    "last_seen": "2026-11-25",
-    "hit_count": 3,
+    "last_seen": "2026-11-26",
+    "hit_count": 4,
     "sample_titles": [
       "Cyber Security Engineer, Software Solutions"
     ]
