@@ -90,8 +90,8 @@
   "spacex": {
     "name": "SpaceX",
     "first_seen": "2026-04-24",
-    "last_seen": "2026-06-28",
-    "hit_count": 6,
+    "last_seen": "2026-11-28",
+    "hit_count": 7,
     "sample_titles": [
       "Information Security Analyst",
       "Security Engineer (Embedded & Networking)",
@@ -3686,7 +3686,7 @@
     "name": "Deloitte",
     "first_seen": "2026-08-14",
     "last_seen": "2026-11-25",
-    "hit_count": 50,
+    "hit_count": 57,
     "sample_titles": [
       "Cyber Oracle Identity Analyst / Security Engineer I",
       "Cyber Identity - CIAM Security Engineer/Consultant",
@@ -4479,7 +4479,7 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-11-26",
-    "hit_count": 40,
+    "hit_count": 41,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -6043,7 +6043,7 @@
     "name": "Trissential",
     "first_seen": "2026-11-27",
     "last_seen": "2026-11-27",
-    "hit_count": 2,
+    "hit_count": 3,
     "sample_titles": [
       "Cybersecurity Engineer \u2013 Incident Response & Remediation"
     ]
@@ -6055,6 +6055,15 @@
     "hit_count": 1,
     "sample_titles": [
       "Palo Alto Network Security Engineer (L3)"
+    ]
+  },
+  "george bernard consulting": {
+    "name": "George Bernard Consulting",
+    "first_seen": "2026-11-28",
+    "last_seen": "2026-11-28",
+    "hit_count": 1,
+    "sample_titles": [
+      "Founding Security Researcher (AI Security)"
     ]
   }
 }
