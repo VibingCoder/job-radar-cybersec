@@ -3686,7 +3686,7 @@
     "name": "Deloitte",
     "first_seen": "2026-08-14",
     "last_seen": "2026-11-25",
-    "hit_count": 43,
+    "hit_count": 50,
     "sample_titles": [
       "Cyber Oracle Identity Analyst / Security Engineer I",
       "Cyber Identity - CIAM Security Engineer/Consultant",
@@ -4479,7 +4479,7 @@
     "name": "Dragonfli Group",
     "first_seen": "2026-09-17",
     "last_seen": "2026-11-26",
-    "hit_count": 39,
+    "hit_count": 40,
     "sample_titles": [
       "Mid-Level Penetration Tester",
       "Junior Security Engineer",
@@ -6043,9 +6043,18 @@
     "name": "Trissential",
     "first_seen": "2026-11-27",
     "last_seen": "2026-11-27",
-    "hit_count": 1,
+    "hit_count": 2,
     "sample_titles": [
       "Cybersecurity Engineer \u2013 Incident Response & Remediation"
+    ]
+  },
+  "vmc soft technologies, inc": {
+    "name": "VMC Soft Technologies, Inc",
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "hit_count": 1,
+    "sample_titles": [
+      "Palo Alto Network Security Engineer (L3)"
     ]
   }
 }
